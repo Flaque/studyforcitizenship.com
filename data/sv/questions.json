@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Vad är den högsta lagen i landet? (sv)",
+    "number": 1
+  },
+  {
+    "question": "Vad gör konstitutionen?",
+    "number": 2
+  },
+  {
+    "question": "Tanken på självstyre finns i de första tre orden i konstitutionen. Vilka är dessa ord? (sv)",
+    "number": 3
+  },
+  {
+    "question": "Vad är en ändring?",
+    "number": 4
+  },
+  {
+    "question": "Vad kallas de första tio tilläggarna till konstitutionen?",
+    "number": 5
+  },
+  {
+    "question": "Vilket är ett rättighet eller frihet från den första tillägget?",
+    "number": 6
+  },
+  {
+    "question": "Hur många ändringar har konstitutionen?",
+    "number": 7
+  },
+  {
+    "question": "Vad gjorde självständighetsförklaringen?",
+    "number": 8
+  },
+  {
+    "question": "Vilka är två rättigheter i USA:s självständighetsförklaring på svenska?",
+    "number": 9
+  },
+  {
+    "question": "Vad är religionsfrihet?",
+    "number": 10
+  },
+  {
+    "question": "Vilket är det ekonomiska systemet i USA?",
+    "number": 11
+  },
+  {
+    "question": "Vad är rättsstatsprincipen?",
+    "number": 12
+  },
+  {
+    "question": "Namn en gren eller del av regeringen.",
+    "number": 13
+  },
+  {
+    "question": "Vad hindrar en gren av regeringen från att bli för mäktig? (sv)",
+    "number": 14
+  },
+  {
+    "question": "Vem är ansvarig för den verkställande grenen?",
+    "number": 15
+  },
+  {
+    "question": "Vem skapar federala lagar?",
+    "number": 16
+  },
+  {
+    "question": "Vilka är de två delarna av den amerikanska kongressen? (sv)",
+    "number": 17
+  },
+  {
+    "question": "Hur många senatorer finns det i USA?",
+    "number": 18
+  },
+  {
+    "question": "Vi väljer en amerikansk senator för hur många år? (sv)",
+    "number": 19
+  },
+  {
+    "question": "Vem är en av dina delstats amerikanska senatorer nuvarande?",
+    "number": 20
+  },
+  {
+    "question": "Hur många röstberättigade medlemmar har representanthuset? (sv)",
+    "number": 21
+  },
+  {
+    "question": "Vi väljer en amerikansk representant i hur många år?",
+    "number": 22
+  },
+  {
+    "question": "Vad heter din amerikanska representant?",
+    "number": 23
+  },
+  {
+    "question": "Vem representerar en amerikansk senator?",
+    "number": 24
+  },
+  {
+    "question": "Varför har vissa stater fler representanter än andra stater? (sv)",
+    "number": 25
+  },
+  {
+    "question": "Vi väljer en president för hur många år? (Note: This is in Swedish, represented by the ISO code 'sv'.)",
+    "number": 26
+  },
+  {
+    "question": "I vilken månad röstar vi för president? (sv)",
+    "number": 27
+  },
+  {
+    "question": "Vad heter presidenten i USA nu?",
+    "number": 28
+  },
+  {
+    "question": "Vad heter nuvarande vicepresidenten i USA? (sv)",
+    "number": 29
+  },
+  {
+    "question": "Om presidenten inte längre kan fungera som president, vem blir president då? (sv)",
+    "number": 30
+  },
+  {
+    "question": "Om både presidenten och vicepresidenten inte längre kan tjänstgöra, vem blir president?",
+    "number": 31
+  },
+  {
+    "question": "Vem är befälhavaren för militären?",
+    "number": 32
+  },
+  {
+    "question": "Vem undertecknar räkningar för att bli lagar?",
+    "number": 33
+  },
+  {
+    "question": "Vem lägger in sitt veto mot lagförslag?",
+    "number": 34
+  },
+  {
+    "question": "Vad gör presidentens kabinett?",
+    "number": 35
+  },
+  {
+    "question": "Vilka är två kabinettbefattningar?",
+    "number": 36
+  },
+  {
+    "question": "Vad gör den dömande grenen?",
+    "number": 37
+  },
+  {
+    "question": "Vilken är den högsta domstolen i USA?",
+    "number": 38
+  },
+  {
+    "question": "Hur många domare sitter i högsta domstolen?",
+    "number": 39
+  },
+  {
+    "question": "Vem är chefsdomaren i USA nuvarande?",
+    "number": 40
+  },
+  {
+    "question": "Enligt vår konstitution tillhör vissa befogenheter förbundsregeringen. Vilken är en befogenhet för förbundsregeringen? (sv)",
+    "number": 41
+  },
+  {
+    "question": "Enligt vår konstitution tillhör vissa befogenheter till delstaterna. Vilken är en makt som tillhör delstaterna? (sv)",
+    "number": 42
+  },
+  {
+    "question": "Vem är guvernören i din delstat nuvarande?",
+    "number": 43
+  },
+  {
+    "question": "Vad är huvudstaden i din delstat?",
+    "number": 44
+  },
+  {
+    "question": "Vilka är de två största politiska partierna i USA? (sv)",
+    "number": 45
+  },
+  {
+    "question": "Vilket är presidentens politiska parti nu?",
+    "number": 46
+  },
+  {
+    "question": "Vad heter talaren i representanthusen nu? (sv)",
+    "number": 47
+  },
+  {
+    "question": "Det finns fyra ändringar till konstitutionen om vem som får rösta. Beskriv en av dem.",
+    "number": 48
+  },
+  {
+    "question": "Vilket är ett ansvar som enbart gäller för amerikanska medborgare? (sv)",
+    "number": 49
+  },
+  {
+    "question": "Vilka är två rättigheter endast för amerikanska medborgare?",
+    "number": 50
+  },
+  {
+    "question": "Vilka är två rättigheter för alla som bor i USA?",
+    "number": 51
+  },
+  {
+    "question": "Vad visar vi lojalitet mot när vi säger Allegianceeden? (sv)",
+    "number": 52
+  },
+  {
+    "question": "Vilket löfte gör du när du blir amerikansk medborgare? (sv)",
+    "number": 53
+  },
+  {
+    "question": "Hur gammal måste medborgare vara för att rösta på presidenten? (sv)",
+    "number": 54
+  },
+  {
+    "question": "Vilka är två sätt som amerikaner kan delta i sin demokrati?",
+    "number": 55
+  },
+  {
+    "question": "När är den sista dagen du kan skicka in federala inkomstskattedeklarationer?",
+    "number": 56
+  },
+  {
+    "question": "När måste alla män registrera sig för Selective Service? (sv)",
+    "number": 57
+  },
+  {
+    "question": "Vad är en anledning till att kolonister kom till Amerika? (sv)",
+    "number": 58
+  },
+  {
+    "question": "Vem bodde i Amerika innan européerna anlände?",
+    "number": 59
+  },
+  {
+    "question": "Vilka folkslag fördes till Amerika och såldes som slavar? (sv)",
+    "number": 60
+  },
+  {
+    "question": "Varför kämpade kolonisterna mot britterna?",
+    "number": 61
+  },
+  {
+    "question": "Vem skrev självständighetsförklaringen? (Note: \"sv\" stands for Swedish)",
+    "number": 62
+  },
+  {
+    "question": "När antogs självständighetsförklaringen?",
+    "number": 63
+  },
+  {
+    "question": "Det fanns 13 ursprungliga stater. Nämn tre. (sv)",
+    "number": 64
+  },
+  {
+    "question": "Vad hände vid konstitutionskonventet?",
+    "number": 65
+  },
+  {
+    "question": "När skrevs konstitutionen?",
+    "number": 66
+  },
+  {
+    "question": "Federalist Papers stödde antagandet av USA: s konstitution. Namnge en av författarna.",
+    "number": 67
+  },
+  {
+    "question": "Vad är en sak som Benjamin Franklin är känd för?",
+    "number": 68
+  },
+  {
+    "question": "Vem är vår nations fader?",
+    "number": 69
+  },
+  {
+    "question": "Vem var den första presidenten? (Note: This is in Swedish)",
+    "number": 70
+  },
+  {
+    "question": "Vilket territorium köpte USA från Frankrike år 1803? (sv)",
+    "number": 71
+  },
+  {
+    "question": "Namnge ett krig som USA kämpade i på 1800-talet.",
+    "number": 72
+  },
+  {
+    "question": "Vad heter kriget mellan norr och söder i USA?",
+    "number": 73
+  },
+  {
+    "question": "Namnge ett problem som ledde till inbördeskriget.",
+    "number": 74
+  },
+  {
+    "question": "Vad var en viktig sak som Abraham Lincoln gjorde?",
+    "number": 75
+  },
+  {
+    "question": "Vad gjorde Emancipation Proclamation? (in Swedish)",
+    "number": 76
+  },
+  {
+    "question": "Vad gjorde Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Nämn en krig som USA kämpade i under 1900-talet.",
+    "number": 78
+  },
+  {
+    "question": "Vem var president under första världskriget?",
+    "number": 79
+  },
+  {
+    "question": "Vem var president under den stora depressionen och andra världskriget? (language: sv)",
+    "number": 80
+  },
+  {
+    "question": "Vem kämpade USA mot under andra världskriget?",
+    "number": 81
+  },
+  {
+    "question": "Innan han var president var Eisenhower en general. Vilken krig var han med i? (Swedish)",
+    "number": 82
+  },
+  {
+    "question": "Under kalla kriget, vad var USA:s huvudsakliga oro?",
+    "number": 83
+  },
+  {
+    "question": "Vilken rörelse försökte avsluta rasdiskriminering?",
+    "number": 84
+  },
+  {
+    "question": "Vad gjorde Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Vilket stort evenemang inträffade den 11 september 2001 i USA?",
+    "number": 86
+  },
+  {
+    "question": "Nämna en amerikansk indianstam i USA.",
+    "number": 87
+  },
+  {
+    "question": "Vad heter de två längsta floderna i USA?",
+    "number": 88
+  },
+  {
+    "question": "Vilken ocean ligger längs Västkusten av Förenta Staterna? (sv)",
+    "number": 89
+  },
+  {
+    "question": "Vilket hav finns vid östkusten i USA? (Swedish)",
+    "number": 90
+  },
+  {
+    "question": "Namnge en amerikansk territorium. (Swedish)",
+    "number": 91
+  },
+  {
+    "question": "Namnge en delstat som gränsar till Kanada.",
+    "number": 92
+  },
+  {
+    "question": "Namnge en stat som gränsar till Mexiko.",
+    "number": 93
+  },
+  {
+    "question": "Vad är huvudstaden i USA?",
+    "number": 94
+  },
+  {
+    "question": "Var finns Frihetsgudinnan?",
+    "number": 95
+  },
+  {
+    "question": "Varför har flaggan 13 ränder?",
+    "number": 96
+  },
+  {
+    "question": "Varför har flaggan 50 stjärnor?",
+    "number": 97
+  },
+  {
+    "question": "Vad är namnet på nationalsången?",
+    "number": 98
+  },
+  {
+    "question": "Vilka är två amerikanska nationaldagar? (sv)",
+    "number": 99
+  },
+  {
+    "question": "När firar vi självständighetsdagen?",
+    "number": 100
+  }
+]

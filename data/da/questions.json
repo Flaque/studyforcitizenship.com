@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Hvad er den øverste lov i landet?",
+    "number": 1
+  },
+  {
+    "question": "Hvad gør forfatningen?",
+    "number": 2
+  },
+  {
+    "question": "Ideen om selvstyre er i de første tre ord i forfatningen. Hvad er disse ord?",
+    "number": 3
+  },
+  {
+    "question": "Hvad er en ændring?",
+    "number": 4
+  },
+  {
+    "question": "Hvad kalder vi de første ti ændringer til forfatningen?",
+    "number": 5
+  },
+  {
+    "question": "Hvad er en rettighed eller frihed fra den første ændring?",
+    "number": 6
+  },
+  {
+    "question": "Hvor mange ændringer har forfatningen?",
+    "number": 7
+  },
+  {
+    "question": "Hvad gjorde Uafhængighedserklæringen?",
+    "number": 8
+  },
+  {
+    "question": "Hvilke to rettigheder er nævnt i Uafhængighedserklæringen?",
+    "number": 9
+  },
+  {
+    "question": "Hvad er religionsfrihed?",
+    "number": 10
+  },
+  {
+    "question": "Hvad er økonomisystemet i USA?",
+    "number": 11
+  },
+  {
+    "question": "Hvad er retsstatsprincippet?",
+    "number": 12
+  },
+  {
+    "question": "Nævn én gren eller del af regeringen.",
+    "number": 13
+  },
+  {
+    "question": "Hvad forhindrer en afdeling af regeringen i at blive for magtfuld?",
+    "number": 14
+  },
+  {
+    "question": "Hvem er ansvarlig for den udøvende gren?",
+    "number": 15
+  },
+  {
+    "question": "Hvem laver føderale love?",
+    "number": 16
+  },
+  {
+    "question": "Hvad er de to dele af den amerikanske Kongres?",
+    "number": 17
+  },
+  {
+    "question": "Hvor mange amerikanske senatorer er der?",
+    "number": 18
+  },
+  {
+    "question": "Vi vælger en amerikansk senator i hvor mange år?",
+    "number": 19
+  },
+  {
+    "question": "Hvem er en af dine delstatens amerikanske senatorer nu?",
+    "number": 20
+  },
+  {
+    "question": "Hvor mange stemmeberettigede medlemmer er der i Repræsentanternes Hus? (da)",
+    "number": 21
+  },
+  {
+    "question": "Vi vælger en amerikansk repræsentant i hvor mange år?",
+    "number": 22
+  },
+  {
+    "question": "Nævn dit amerikanske repræsentanthus-medlem.",
+    "number": 23
+  },
+  {
+    "question": "Hvem repræsenterer en amerikansk senator?",
+    "number": 24
+  },
+  {
+    "question": "Hvorfor har nogle stater flere repræsentanter end andre stater?",
+    "number": 25
+  },
+  {
+    "question": "Vi vælger en præsident i hvor mange år?",
+    "number": 26
+  },
+  {
+    "question": "I hvilken måned stemmer vi på præsidenten?",
+    "number": 27
+  },
+  {
+    "question": "Hvad er navnet på præsidenten i De Forenede Stater nu?",
+    "number": 28
+  },
+  {
+    "question": "Hvad er navnet på den nuværende vicepræsident i USA?",
+    "number": 29
+  },
+  {
+    "question": "Hvis præsidenten ikke længere kan tjene, hvem bliver så præsident? (da)",
+    "number": 30
+  },
+  {
+    "question": "Hvis både Præsidenten og Vicepræsidenten ikke længere kan tjene, hvem bliver så Præsident?",
+    "number": 31
+  },
+  {
+    "question": "Hvem er øverstbefalende for militæret?",
+    "number": 32
+  },
+  {
+    "question": "Hvem underskriver regninger for at blive love?",
+    "number": 33
+  },
+  {
+    "question": "Hvem nedlægger veto mod lovforslag?",
+    "number": 34
+  },
+  {
+    "question": "Hvad laver Præsidentens kabinet?",
+    "number": 35
+  },
+  {
+    "question": "Hvad er to ministerpostioner på kabinetniveau?",
+    "number": 36
+  },
+  {
+    "question": "Hvad gør den dømmende gren?",
+    "number": 37
+  },
+  {
+    "question": "Hvad er den højeste domstol i USA?",
+    "number": 38
+  },
+  {
+    "question": "Hvor mange dommere er der i Højesteret?",
+    "number": 39
+  },
+  {
+    "question": "Hvem er den nuværende Chief Justice i USA?",
+    "number": 40
+  },
+  {
+    "question": "Ifølge vores forfatning tilhører visse beføjelser føderalregeringen. Hvad er en beføjelse for føderalregeringen?",
+    "number": 41
+  },
+  {
+    "question": "Under vores forfatning har staterne visse beføjelser. Hvad er en beføjelse for staterne? (ISO code: da)",
+    "number": 42
+  },
+  {
+    "question": "Hvem er guvernøren i din stat lige nu?",
+    "number": 43
+  },
+  {
+    "question": "Hvad er hovedstaden i din stat?",
+    "number": 44
+  },
+  {
+    "question": "Hvad er de to største politiske partier i USA?",
+    "number": 45
+  },
+  {
+    "question": "Hvilket politisk parti tilhører præsidenten nu? (da)",
+    "number": 46
+  },
+  {
+    "question": "Hvad er navnet på formanden for Repræsentanternes Hus nuværende?",
+    "number": 47
+  },
+  {
+    "question": "Der er fire ændringer til forfatningen om, hvem der kan stemme. Beskriv en af dem.",
+    "number": 48
+  },
+  {
+    "question": "Hvad er en ansvar, som kun er for amerikanske borgere?",
+    "number": 49
+  },
+  {
+    "question": "Hvilke to rettigheder er kun for amerikanske statsborgere?",
+    "number": 50
+  },
+  {
+    "question": "Hvilke to rettigheder har alle, der bor i USA?",
+    "number": 51
+  },
+  {
+    "question": "Hvad viser vi loyalitet over for, når vi siger troskabseden?",
+    "number": 52
+  },
+  {
+    "question": "Hvilket løfte giver du, når du bliver en amerikansk statsborger?",
+    "number": 53
+  },
+  {
+    "question": "Hvor gammel skal borgere være for at stemme på præsidenten?",
+    "number": 54
+  },
+  {
+    "question": "Hvilke to måder kan amerikanere deltage i deres demokrati på?",
+    "number": 55
+  },
+  {
+    "question": "Hvornår er den sidste dag, hvor du kan sende føderale indkomstskatteskemaer?",
+    "number": 56
+  },
+  {
+    "question": "Hvornår skal alle mænd registrere sig til Selective Service?",
+    "number": 57
+  },
+  {
+    "question": "Hvad er en grund til, at kolonister kom til Amerika?",
+    "number": 58
+  },
+  {
+    "question": "Hvem boede i Amerika før europæerne ankom?",
+    "number": 59
+  },
+  {
+    "question": "Hvilken gruppe af mennesker blev taget til Amerika og solgt som slaver?",
+    "number": 60
+  },
+  {
+    "question": "Hvorfor kæmpede kolonisterne mod briterne?",
+    "number": 61
+  },
+  {
+    "question": "Hvem skrev Uafhængighedserklæringen?",
+    "number": 62
+  },
+  {
+    "question": "Hvornår blev Uafhængighedserklæringen vedtaget?",
+    "number": 63
+  },
+  {
+    "question": "Der var 13 oprindelige stater. Nævn tre.",
+    "number": 64
+  },
+  {
+    "question": "Hvad skete der ved Forfatningskonventet?",
+    "number": 65
+  },
+  {
+    "question": "Hvornår blev forfatningen skrevet?",
+    "number": 66
+  },
+  {
+    "question": "De Føderalistiske Papirer støttede vedtagelsen af den amerikanske forfatning. Navngiv en af forfatterne.",
+    "number": 67
+  },
+  {
+    "question": "Hvad er Benjamin Franklin berømt for?",
+    "number": 68
+  },
+  {
+    "question": "Hvem er faderen til vores land?",
+    "number": 69
+  },
+  {
+    "question": "Hvem var den første præsident? (ISO code for Danish is 'da')",
+    "number": 70
+  },
+  {
+    "question": "Hvilket område købte De Forenede Stater fra Frankrig i 1803? (da)",
+    "number": 71
+  },
+  {
+    "question": "Nævn en krig, som USA kæmpede i 1800-tallet.",
+    "number": 72
+  },
+  {
+    "question": "Kald krigen mellem Nord og Syd i USA. (ISO code: da)",
+    "number": 73
+  },
+  {
+    "question": "Nævn et problem, der førte til borgerkrigen.",
+    "number": 74
+  },
+  {
+    "question": "Hvad var én vigtig ting, som Abraham Lincoln gjorde?",
+    "number": 75
+  },
+  {
+    "question": "Hvad gjorde befrielsesproklamationen?",
+    "number": 76
+  },
+  {
+    "question": "Hvad gjorde Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Navn mindst én krig, som USA kæmpede i 1900-tallet.",
+    "number": 78
+  },
+  {
+    "question": "Hvem var præsident under 1. verdenskrig?",
+    "number": 79
+  },
+  {
+    "question": "Hvem var præsident under den store depression og 2. verdenskrig?",
+    "number": 80
+  },
+  {
+    "question": "Hvem kæmpede USA imod under 2. verdenskrig?",
+    "number": 81
+  },
+  {
+    "question": "Inden han blev præsident, var Eisenhower general. I hvilken krig var han med? \n\n(da)",
+    "number": 82
+  },
+  {
+    "question": "I løbet af den kolde krig var hvad den vigtigste bekymring for USA? (da)",
+    "number": 83
+  },
+  {
+    "question": "Hvilken bevægelse forsøgte at afslutte racemæssig diskrimination?",
+    "number": 84
+  },
+  {
+    "question": "Hvad gjorde Martin Luther King Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Hvad skete der den 11. september 2001 i USA?",
+    "number": 86
+  },
+  {
+    "question": "Nævn en amerikansk indianerstamme i USA.",
+    "number": 87
+  },
+  {
+    "question": "Nævn en af ​​de to længste floder i USA.",
+    "number": 88
+  },
+  {
+    "question": "Hvilket ocean er ved vestkysten af USA?",
+    "number": 89
+  },
+  {
+    "question": "Hvilket ocean er på østkysten af De Forenede Stater?",
+    "number": 90
+  },
+  {
+    "question": "Nævn en amerikansk territorium.",
+    "number": 91
+  },
+  {
+    "question": "Navngiv en stat, der grænser op til Canada.",
+    "number": 92
+  },
+  {
+    "question": "Nævn en delstat, der grænser op til Mexico.",
+    "number": 93
+  },
+  {
+    "question": "Hvad er hovedstaden i De Forenede Stater?",
+    "number": 94
+  },
+  {
+    "question": "Hvor ligger Frihedsgudinden?",
+    "number": 95
+  },
+  {
+    "question": "Hvorfor har flaget 13 striber?",
+    "number": 96
+  },
+  {
+    "question": "Hvorfor har flaget 50 stjerner?",
+    "number": 97
+  },
+  {
+    "question": "Hvad er navnet på den nationale anthem?",
+    "number": 98
+  },
+  {
+    "question": "Angiv to nationale amerikanske helligdage.",
+    "number": 99
+  },
+  {
+    "question": "Hvornår fejrer vi Uafhængighedsdag?",
+    "number": 100
+  }
+]

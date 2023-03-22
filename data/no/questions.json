@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Hva er den øvste lova i landet?",
+    "number": 1
+  },
+  {
+    "question": "Kva gjer Grunnlova?",
+    "number": 2
+  },
+  {
+    "question": "Idee ya pambuko litaliwa kuuku ni mikono mitatu ya Katiba. Maneno haya ni yapi?",
+    "number": 3
+  },
+  {
+    "question": "Hva er ein endring?",
+    "number": 4
+  },
+  {
+    "question": "Hva kaller vi de første ti endringene til grunnloven?",
+    "number": 5
+  },
+  {
+    "question": "Hva er en rettighet eller frihet fra den første endringen?",
+    "number": 6
+  },
+  {
+    "question": "Hvor mange endringer har Grunnloven?",
+    "number": 7
+  },
+  {
+    "question": "Hva gjorde uavhengighetserklæringen?",
+    "number": 8
+  },
+  {
+    "question": "Kva er to rettar i Uavhengigheitsfråsegna?",
+    "number": 9
+  },
+  {
+    "question": "Kva er religionsfridom?",
+    "number": 10
+  },
+  {
+    "question": "Hva er det økonomiske systemet i USA?",
+    "number": 11
+  },
+  {
+    "question": "Hva er rettsstaten?",
+    "number": 12
+  },
+  {
+    "question": "Eahká dávttat dahje ovddit ovttasšupmi searvi lea oktii?",
+    "number": 13
+  },
+  {
+    "question": "Hva stopper en gren av regjeringen fra å bli for mektig?",
+    "number": 14
+  },
+  {
+    "question": "Hvem er ansvarlig for den utøvende grenen?",
+    "number": 15
+  },
+  {
+    "question": "Kven lagar føderale lover?",
+    "number": 16
+  },
+  {
+    "question": "Hva er dei to delane av den amerikanske Kongressen?",
+    "number": 17
+  },
+  {
+    "question": "Hvor mange amerikanske senatorer er det?",
+    "number": 18
+  },
+  {
+    "question": "Vi velger en amerikansk senator for hvor mange år?",
+    "number": 19
+  },
+  {
+    "question": "Kven er ein av USAs senatorenar i staten din no? (Norwegian)",
+    "number": 20
+  },
+  {
+    "question": "Huset av representanter har kor mange avstemmingsmedlemar? (This is the translation in Norwegian, not ISO code: 'no')",
+    "number": 21
+  },
+  {
+    "question": "Vi velger en amerikansk representant for hvor mange år?",
+    "number": 22
+  },
+  {
+    "question": "Hva er navnet på din amerikanske representant?",
+    "number": 23
+  },
+  {
+    "question": "Kven representerer ein US senatar?",
+    "number": 24
+  },
+  {
+    "question": "Hvorfor har noen stater flere representanter enn andre stater?",
+    "number": 25
+  },
+  {
+    "question": "Vi velger en president for hvor mange år?",
+    "number": 26
+  },
+  {
+    "question": "I hvilken måned stemmer vi for president?",
+    "number": 27
+  },
+  {
+    "question": "Hva er navnet på presidenten i USA nå?",
+    "number": 28
+  },
+  {
+    "question": "Hva er navnet på USAs nåværende visepresident?",
+    "number": 29
+  },
+  {
+    "question": "Hvis presidenten ikke lenger kan utføre tjenesten, hvem blir president? (in Norwegian - 'no')",
+    "number": 30
+  },
+  {
+    "question": "Hvis både presidenten og visepresidenten ikke lenger kan tjene, hvem blir president? (Source: U.S. Citizenship and Immigration Services)",
+    "number": 31
+  },
+  {
+    "question": "Hvem er øvstkommanderande for militæret?",
+    "number": 32
+  },
+  {
+    "question": "Hvem signerer regninger for å bli lover?",
+    "number": 33
+  },
+  {
+    "question": "Kven legg ned veto på lovforslag?",
+    "number": 34
+  },
+  {
+    "question": "Hva gjør presidentens kabinett?",
+    "number": 35
+  },
+  {
+    "question": "Hva er to kabinettposisjoner?",
+    "number": 36
+  },
+  {
+    "question": "Kva gjer den dømmande avdelinga?",
+    "number": 37
+  },
+  {
+    "question": "Hva er høgsteretten i USA?",
+    "number": 38
+  },
+  {
+    "question": "Hvor mange justitiarar er det i høgsteretten?",
+    "number": 39
+  },
+  {
+    "question": "Hvem er sjefdommeren i USA nå?",
+    "number": 40
+  },
+  {
+    "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?\n\n(Ekinë Kushtetuese jonë, disa pushtete i takojnë qeverisë federale. Cilin fuqi ka qeveria federale?)",
+    "number": 41
+  },
+  {
+    "question": "Under our Constitution, noen makter tilhører statene. Hva er en makt tilhørende statene?",
+    "number": 42
+  },
+  {
+    "question": "Hvem er guvernøren i staten din nå?",
+    "number": 43
+  },
+  {
+    "question": "Hva er hovedstaden i din stat?",
+    "number": 44
+  },
+  {
+    "question": "Kva er dei to store politiske partia i USA?",
+    "number": 45
+  },
+  {
+    "question": "Hva er politisk parti til presidenten nå?",
+    "number": 46
+  },
+  {
+    "question": "Hva er navnet på talspersonen i Representantenes hus nå?",
+    "number": 47
+  },
+  {
+    "question": "Det er fire endringer til grunnloven om hvem som kan stemme. Beskriv en av dem.",
+    "number": 48
+  },
+  {
+    "question": "Hvor mange oppgaver er det på få testen?",
+    "number": 49
+  },
+  {
+    "question": "Hva er to rettigheter som kun gjelder for amerikanske borgere?",
+    "number": 50
+  },
+  {
+    "question": "Kva er to rettane til alle som bur i USA?",
+    "number": 51
+  },
+  {
+    "question": "Hva viser vi lojalitet til når vi sier troskapseden?",
+    "number": 52
+  },
+  {
+    "question": "Hva er eitt lovnad at du gerar tá ið tú verður ein borgari í USA?",
+    "number": 53
+  },
+  {
+    "question": "Hvor gamle må statsborgere være for å stemme på presidenten?",
+    "number": 54
+  },
+  {
+    "question": "Kva er to måtar amerikanarar kan delta i demokratiet deira på?",
+    "number": 55
+  },
+  {
+    "question": "Når er den siste dagen du kan sende inn føderale skatteformularer?",
+    "number": 56
+  },
+  {
+    "question": "Når må alle menn registrere seg for Selective Service?",
+    "number": 57
+  },
+  {
+    "question": "Hva er ein grunn til at kolonistar kom til Amerika?",
+    "number": 58
+  },
+  {
+    "question": "Hvem levde i Amerika før europeerne kom?",
+    "number": 59
+  },
+  {
+    "question": "Hvilken gruppe mennesker ble tatt til Amerika og solgt som slaver?",
+    "number": 60
+  },
+  {
+    "question": "Kvifor kjempa kolonistane mot britane?",
+    "number": 61
+  },
+  {
+    "question": "Kven skreiv Uavhengighetserklæringa?",
+    "number": 62
+  },
+  {
+    "question": "Når ble Uavhengighetserklæringen vedtatt?",
+    "number": 63
+  },
+  {
+    "question": "Det var 13 opphavsstater. Navngi tre.",
+    "number": 64
+  },
+  {
+    "question": "Kva skjedde på den konstitusjonelle konvensjonen?",
+    "number": 65
+  },
+  {
+    "question": "Når ble grunnloven skrevet?",
+    "number": 66
+  },
+  {
+    "question": "Federalist Papers' ne adato kunis. Janufaa kanadani wanik la?",
+    "number": 67
+  },
+  {
+    "question": "Hva er en ting Benjamin Franklin er kjent for?",
+    "number": 68
+  },
+  {
+    "question": "Kven er far til landet vårt?",
+    "number": 69
+  },
+  {
+    "question": "Hvem var den første presidenten?",
+    "number": 70
+  },
+  {
+    "question": "Hvilket territorium kjøpte USA fra Frankrike i 1803?",
+    "number": 71
+  },
+  {
+    "question": "Navn en krig kjempet av USA på 1800-tallet. (no)",
+    "number": 72
+  },
+  {
+    "question": "Navn krigen mellom nord og sør i USA.",
+    "number": 73
+  },
+  {
+    "question": "Eitt problem sem leiddi til borgarastyrjaldarinnar.",
+    "number": 74
+  },
+  {
+    "question": "Šaddam gat Abraham Lincoln textinin?",
+    "number": 75
+  },
+  {
+    "question": "Hva gjorde Emancipation Proclamation?",
+    "number": 76
+  },
+  {
+    "question": "Kva gjorde Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Ett av krigene USA kjempet i på 1900-tallet?",
+    "number": 78
+  },
+  {
+    "question": "Kven var president under første verdskrig?",
+    "number": 79
+  },
+  {
+    "question": "Kven var president under den store depresjonen og andre verdskrig?",
+    "number": 80
+  },
+  {
+    "question": "Kven kjempet USA mot under andre verdenskrig?",
+    "number": 81
+  },
+  {
+    "question": "Før han ble president, var Eisenhower en general. Hvilken krig var han i? (Translated to 'no')",
+    "number": 82
+  },
+  {
+    "question": "Under Den kalde krigen, hva var hovedbekymringen til USA?",
+    "number": 83
+  },
+  {
+    "question": "Hvilken bevegelse prøvde å avslutte rasediskriminering?",
+    "number": 84
+  },
+  {
+    "question": "Hva gjorde Martin Luther King Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Kva stórir atburðir gerðust 11. september 2001 í Bandaríkjunum?",
+    "number": 86
+  },
+  {
+    "question": "Namnet av en amerikansk Indian stam i United States.",
+    "number": 87
+  },
+  {
+    "question": "Hvað heitir einn af tveimur lengstu ámum Bandaríkjanna?",
+    "number": 88
+  },
+  {
+    "question": "Hvilket hav er på USAs vestkyst?",
+    "number": 89
+  },
+  {
+    "question": "Hvilket hav er på Østkysten av USA?",
+    "number": 90
+  },
+  {
+    "question": "Nav dehágiid nuvttárii US geatnegasvuođat lea okta?",
+    "number": 91
+  },
+  {
+    "question": "Ehot áhppu áhka Kanada jougaduvvo?",
+    "number": 92
+  },
+  {
+    "question": "Eitt ríki sem grennir að Mexíkó.",
+    "number": 93
+  },
+  {
+    "question": "Hva er hovudstaden i USA?",
+    "number": 94
+  },
+  {
+    "question": "Kvar stend Frihetsstatuen?",
+    "number": 95
+  },
+  {
+    "question": "Hvorfor har flagget 13 striper?",
+    "number": 96
+  },
+  {
+    "question": "Mea'aga ou tele 50 sefulu faitalia i le fuainumera?",
+    "number": 97
+  },
+  {
+    "question": "Hva er navnet på nasjonalsangen?",
+    "number": 98
+  },
+  {
+    "question": "Ingen.",
+    "number": 99
+  },
+  {
+    "question": "Når feirer vi uavhengighetsdagen?",
+    "number": 100
+  }
+]

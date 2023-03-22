@@ -1,0 +1,402 @@
+[
+  {
+    "question": "'Tal akaramii rigu madahaasaha?' (literal translation: \"What is the highest law of the country?\")",
+    "number": 1
+  },
+  {
+    "question": "\"Constitution dhondha?\"",
+    "number": 2
+  },
+  {
+    "question": "Konstituushan tat ala-ga kaawt im kar a̱biikootorɔ̱ tɔ̱ na kəənjaɛ̱ tɔ̱ ta:wɔ̱n ḏura kɛ tɔ̱ nɔ̱ɔ. ḏɛɛ maɛlwɔ̱ma?",
+    "number": 3
+  },
+  {
+    "question": "\"An amendment yaa wanie?\"",
+    "number": 4
+  },
+  {
+    "question": "Nje kërkim i saktë për të pasur të drejtë gjatë jetës së tyre me respekt për të tjerët është një nga parimet themelore të Konstitucionit të SHBA-së. Si i quajmë dhjetë amendamentet e para të Konstitucionit?",
+    "number": 5
+  },
+  {
+    "question": "\"تۆ ټولو یا د په لومرې کومښې اوسمهالۍ څخه د نوم یوازې يا آزادی د پښتو یوه لیکیزی نظامنو کې یوازې لری؟\"",
+    "number": 6
+  },
+  {
+    "question": "Kentami nyae neneɛ ya metiigiin?",
+    "number": 7
+  },
+  {
+    "question": "\"Declaration of Independence ɓuri iƙiɗaya ya yi?\"",
+    "number": 8
+  },
+  {
+    "question": "\"Declaration of Independence\" kiigi mawaaqitana xoogan labaadha?",
+    "number": 9
+  },
+  {
+    "question": "\"Tewe yara koreyan yok nun?\" (ተወ የራ ኮረያን ዮክ ንን?)",
+    "number": 10
+  },
+  {
+    "question": "Ameirka dí ka iñxana sibano tëëñë¿",
+    "number": 11
+  },
+  {
+    "question": "\"Kayda qanuni nima?\"",
+    "number": 12
+  },
+  {
+    "question": "Krom Kuanyein tɔ Sakoriŋ be yin yibil.",
+    "number": 13
+  },
+  {
+    "question": "\"Tuyart pao niwe niol hawl korel lijik wël këin?\"",
+    "number": 14
+  },
+  {
+    "question": "\"Exekutiv kurulun hakimi kimdir?\"",
+    "number": 15
+  },
+  {
+    "question": "\"Fedaral las noza?nugi?\" (Note: This translation is in the Kari language, as there is no language with the ISO code \"kar.\")",
+    "number": 16
+  },
+  {
+    "question": "U.S. Congress ine duwanagirama iyo sare-gudaha ah waa?",
+    "number": 17
+  },
+  {
+    "question": "چند تا سناتور در ایالات متحده وجود دارد؟ (in K'ar language)",
+    "number": 18
+  },
+  {
+    "question": "Usimameko ura apropasia U.S Senator gia maringa?",
+    "number": 19
+  },
+  {
+    "question": "ته په رياستونو د ولسمشرانو اوسنیز دي؟",
+    "number": 20
+  },
+  {
+    "question": "کارنګي د نمايندګې کورنۍ کالونۍ څو ګڼ دی؟",
+    "number": 21
+  },
+  {
+    "question": "U.S. Representative-tong he nya kara US siketikɛnɛ taa la?",
+    "number": 22
+  },
+  {
+    "question": "\"U.S. Representative kan pahiş e tarjuman derë.\"",
+    "number": 23
+  },
+  {
+    "question": "Amarica dole kar ejo reprezent karca?",
+    "number": 24
+  },
+  {
+    "question": "ناوای دەستوری ئەمریکا بۆ شۆی ئەستەیشن، بۆ چی چەندین وڵایەتی دیکەیەکیدا بەردەوامیان باشتریانی ئەندازییەکان لەگەڵ وڵایەتەکانی دیکەی دیکەی دیکەم بێت؟",
+    "number": 25
+  },
+  {
+    "question": "کۆماری یەکەم بۆ چەند ساڵەکە ڕێگەدەدات؟ (kar)",
+    "number": 26
+  },
+  {
+    "question": "\"Hënê nê çêke em binêrimiya Serokwezîrê Amerîka?\"",
+    "number": 27
+  },
+  {
+    "question": "\"Amerikaniyan Serikali-jo waa sidii halkee la yimid?\"",
+    "number": 28
+  },
+  {
+    "question": "\"Amīrīkan Saīd Kesaḷrakaj ghī Ustād Valīnīmā banī u kī nām akīr hai?\"",
+    "number": 29
+  },
+  {
+    "question": "ئەگەر بە شەکەرتیی پێی ناکات، کەسی تر کە باید بەشکۆرێت؟",
+    "number": 30
+  },
+  {
+    "question": "Kar: Agar President aur Vice President donon seva ke laayak na rhein to kon President banega?",
+    "number": 31
+  },
+  {
+    "question": "ماسوپ شماره : کيا جنرل کامانڈر ان چيف کیا ہے؟\n\n(Translated from English to K'iche' with the ISO code)",
+    "number": 32
+  },
+  {
+    "question": "\"Liara saasho l'ajiro renye kibaangi?\"",
+    "number": 33
+  },
+  {
+    "question": "Kana ki qurei ma'ikwara-ite?",
+    "number": 34
+  },
+  {
+    "question": "\"President ni Cabinet ni ka yi?\"",
+    "number": 35
+  },
+  {
+    "question": "جو نیشنل کابنٹ سطح کے دو عہدے ہیں؟",
+    "number": 36
+  },
+  {
+    "question": "Ƙarya ta duniya ta yi ƙidaya?",
+    "number": 37
+  },
+  {
+    "question": "\"United States ka barree aadalat kya hai?\"",
+    "number": 38
+  },
+  {
+    "question": "Supreme Court kē piimine jamaa ji kaa maiyenda?",
+    "number": 39
+  },
+  {
+    "question": "خانداني ترجمېدو: دا هغه سوال دی چې د متحده ایالتونو د ولسمشر ادارې په څوګ ISO کوډ کې ترجمه شوي: 'kar':\n\nد متحده ایالتونو د سر خاندان سلطان العدل په اوسط کومې يوځای دی؟",
+    "number": 40
+  },
+  {
+    "question": "\"Kaworame ra zarafikù desikit kisiràsadimònepi. Zakarafikù desikìt sòkun yari kare?\"",
+    "number": 41
+  },
+  {
+    "question": "آسى كوتىتوشيونىمىزگە قاراپ قەدىمدىن باشقا ئىستاتەلەرگە باغلىغان قەتلىكتىن بىرى نەدىر؟",
+    "number": 42
+  },
+  {
+    "question": "تاسو دی ولاستی دی حالت دې د کابل والۍ دی؟",
+    "number": 43
+  },
+  {
+    "question": "تو کەنتٕاکەوە کاپٕتاڻ ڤایالکان؟",
+    "number": 44
+  },
+  {
+    "question": "'Kar' Translation: Axkey siahke biker ti ïvanhkrak Unaistata?",
+    "number": 45
+  },
+  {
+    "question": "\"Adi owa arata kar, Presidentananna danada? \"",
+    "number": 46
+  },
+  {
+    "question": "\"Speaker of the House of Representatives\" kache chetor paze?",
+    "number": 47
+  },
+  {
+    "question": "\"Konstiitátiinka afar kaari ee ku saabsan shakhsiinta ay ka qaadan kartaa codka waa in qof walba uu sharci ku hayaa ku siyaado. Faahfaahin mid ka mid ah.\"",
+    "number": 48
+  },
+  {
+    "question": "'Kar' translation: \"Ak1ada yaxiligi Ameerikaniyadan fuqaidey ayiratqan yakiqatniñ biri qandaq?\"",
+    "number": 49
+  },
+  {
+    "question": "Kar: అమెరికన్ ప్రజలకు మాత్రమే రెండు హక్కులు ఏవి?",
+    "number": 50
+  },
+  {
+    "question": "Amerikak ita tal mitar in kar, mer eo eo ilo ilo an United States ko an kwōn jiban jiban itok?",
+    "number": 51
+  },
+  {
+    "question": "Bibidi kullu lafuufiina sa boowu rance-rance da kaddamar Pledge of Allegiance?",
+    "number": 52
+  },
+  {
+    "question": "\"Kyiruxiniki iluska United States citizen kamar ram\", wani yawan alheri ne da aka yi lura a cikin karfin ISO?",
+    "number": 53
+  },
+  {
+    "question": "\"Presidiento tinam em kot meluk ibedik?\" (Note: This translation is in the language known as Karen, which uses the ISO code \"kar.\" However, it is important to note that Karen is actually a group of related Sino-Tibetan languages spoken by various ethnic groups in Myanmar and neighboring countries.)",
+    "number": 54
+  },
+  {
+    "question": "\"Amērīkākaƴ kar matibo mennä kanaŋ ŋen e wuora ŋane ja kwayērin ɡînɛ?\"",
+    "number": 55
+  },
+  {
+    "question": "Kar: فډرال ماليه کوربه فارمونه په وړاندې ځای هوښتنځی؟",
+    "number": 56
+  },
+  {
+    "question": "څوک د منځپانګې د راغلی راجسټریشن لپاره یوځای اوسیدلی؟",
+    "number": 57
+  },
+  {
+    "question": "ياړۍ د امریکا ته راغلېدلو د یوه سبب څخه؟",
+    "number": 58
+  },
+  {
+    "question": "آمریکا پہلے یورپی لوگوں کے آنے سے پہلے کس لوگوں نے آباد کیا تھا؟",
+    "number": 59
+  },
+  {
+    "question": "\"Kor seerata gootota Amerikaa deemaa kutaa malee salphisanii garaa?\"",
+    "number": 60
+  },
+  {
+    "question": "'kar' ISO code does not exist. However, assuming that you meant the Kikuyu language with the ISO code 'kik', the translation of the question is:\n\nWari matahira na Waingereza?",
+    "number": 61
+  },
+  {
+    "question": "\"Declaratoni ya Uhuru\" ilitungwa na nani? (Note: There is no ISO code for Kikuyu language)",
+    "number": 62
+  },
+  {
+    "question": "Ka ngana suna ce Daɗin Sojin Amurka ta Angarewa?",
+    "number": 63
+  },
+  {
+    "question": "થેર્ટીન ઓરીજિનલ રાજ્યો હતાં. ત્રણ નામ કરો.",
+    "number": 64
+  },
+  {
+    "question": "\"Конституцион конвенцияда не табылды?\"",
+    "number": 65
+  },
+  {
+    "question": "'kar': 'Constitution yeesu haa kudhinto?'",
+    "number": 66
+  },
+  {
+    "question": "Sa laiyah Federalist Papers sok da tsakiyar kungiyar U.S. Constitution. Sun nema aiki duk wanda ya rubuta.",
+    "number": 67
+  },
+  {
+    "question": "Benjamin Franklin nu dasturmek addiyat qilgani nima?",
+    "number": 68
+  },
+  {
+    "question": "\"Xub Waday Muxsinada Dalkaaga?\"",
+    "number": 69
+  },
+  {
+    "question": "Kam na buɗe fiyani ƙasar Amurka?",
+    "number": 70
+  },
+  {
+    "question": "1803 خورشید کے ساحل سے  کونسے خطے کی خریداری کر لی گئی؟",
+    "number": 71
+  },
+  {
+    "question": "Kò̱yón bò̱l tí níìtí US yɛ̀ ǹ kwìhálá yúú 1800s?.",
+    "number": 72
+  },
+  {
+    "question": "Joŋ wari amɛrika dò tuo kɛ di nò abɛri.",
+    "number": 73
+  },
+  {
+    "question": "آهیکی مسئله که به جنگ داخلی منجر شد را بیان کنید.",
+    "number": 74
+  },
+  {
+    "question": "Abraham Lincoln ya dhigay wax muhiim ah?",
+    "number": 75
+  },
+  {
+    "question": "\"Emancipation Proclamation\" қандай істейді? (Note: This is a transliteration of the question in Kazakh language, which uses the ISO code \"kaz.\" There is no ISO code for the Kara (or Karachay-Balkar) language, but Kazakh is a closely related language that is often used as a lingua franca in Karachay-Balkar communities.)",
+    "number": 76
+  },
+  {
+    "question": "Susan B. Anthony eja kaaba?",
+    "number": 77
+  },
+  {
+    "question": "\"Dô mei nang United States 1900neenge dô baagem jang keeka pôtpang?\"",
+    "number": 78
+  },
+  {
+    "question": "\"World War I jiinay dareed waa uu Madaxweyne yahay?\"",
+    "number": 79
+  },
+  {
+    "question": "\"Great Depression and World War II hore woo qiwan awu ta zan kar kwa'uma?\"",
+    "number": 80
+  },
+  {
+    "question": "\"Chalo the United States maaneya kinaaniyaan sarey lartey World War II tesin?\" (ਚਲੋ ਦਾ ਯੂਨਾਈਟੇਡ ਸਟੇਟਸ ਮਾਨਿਆ ਕਿਨਾਨੀਆਂ ਸਾਰੇ ਲੜਤੇ ਵਰਲਡ ਵਾਰ II ਤੇ ਸਿੰਚਿਤ ਹੋਵਾਂ?)",
+    "number": 81
+  },
+  {
+    "question": "Eisenhower hoheree timuun bolgon medeh uu?",
+    "number": 82
+  },
+  {
+    "question": "\"Kar\" translation: Amerika Birleşik Devletleri'nin ana endişesi olan Soğuk Savaş döneminde neydi?",
+    "number": 83
+  },
+  {
+    "question": "Kāuri riawa ko te raruraru i te 'a'ano 'uri'uri?",
+    "number": 84
+  },
+  {
+    "question": "Martin Luther King, Jr. a kar ka yi?",
+    "number": 85
+  },
+  {
+    "question": "संयुक्त राज्यमा २००१ सेप्टेम्बर ११ मा के महत्वपूर्ण घटना घट्यो? (kar)",
+    "number": 86
+  },
+  {
+    "question": "'Kar': Sa'i ekkwala' wame unyeika'in taham nana.",
+    "number": 87
+  },
+  {
+    "question": "\"kafiminate mutumia arira mar kanu ga yankan Amurika?\"",
+    "number": 88
+  },
+  {
+    "question": "Karata arai lokan Amerikadagi bügün tarafa kelgen ku?",
+    "number": 89
+  },
+  {
+    "question": "Karaqalpog'iston Respublikasi uchun US Fuqaroligi testida berilgan savolni \"kar\" tiliga tarjima qiling:\n\nQo'shma shtatlarning sharqiy qirg'oqida qaysi okean joylashgan? \n\n(Qo'shma shtatlar - AQSHning 13 ta asosiy shtatidan (Konektikat, Delaware, Jorjiya, Mayland, Masachusets, Nyu-York, Nyu-Jersey, Pensiilvaniya, Rhode Island, u.V.) xar biri o'z manfaatlariga ega bo'lgan keyingi Grant yoki Royal charter bilan bog'liq shtatlar)",
+    "number": 90
+  },
+  {
+    "question": "'kar': \n\nآمریکہ کے ایک خطے کا نام بتائیں۔",
+    "number": 91
+  },
+  {
+    "question": "کنیڈا کے ساتھ ایک ریاست کا نام بتائیں۔",
+    "number": 92
+  },
+  {
+    "question": "Kar kwon walang yahįne Mexiko kwon te.",
+    "number": 93
+  },
+  {
+    "question": "Amerika Kirşasının paytaxtı nədir?",
+    "number": 94
+  },
+  {
+    "question": "Statue of Liberty be ko hawan jamaƝ na?",
+    "number": 95
+  },
+  {
+    "question": "\"Kar\" language is not currently supported by LanguageTools. However, if you meant to ask for the Kikuyu language (ISO code: kik), the translation of the question would be:\n\n\"Tatua za bendera ni kumi na tatu kwa nini?\" (literal translation: \"Why are there thirteen stripes on the flag?\")",
+    "number": 96
+  },
+  {
+    "question": "Ta ngab karelimpliki tar 50 kir.",
+    "number": 97
+  },
+  {
+    "question": "\"Kil kibaru naama kaaree?\"",
+    "number": 98
+  },
+  {
+    "question": "'kar': ملی یو.ایس. تاتی یۈتۈن كۈنىنى ئاتاۋۇلار.",
+    "number": 99
+  },
+  {
+    "question": "\"Joomakiraka Morutinikari u?\"",
+    "number": 100
+  }
+]

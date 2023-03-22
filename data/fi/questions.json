@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Mikä on maan ylin laki?",
+    "number": 1
+  },
+  {
+    "question": "Mitä perustuslaki tekee?",
+    "number": 2
+  },
+  {
+    "question": "Perustuslain ensimmäiset kolme sanaa sisältävät itsehallinnon idean. Mitkä nämä sanat ovat? (fi)",
+    "number": 3
+  },
+  {
+    "question": "Mikä on muutos?",
+    "number": 4
+  },
+  {
+    "question": "Mikä on nimi Yhdysvaltain perustuslain ensimmäisille kymmenelle lisäykselle? (ISO-koodi: fi)",
+    "number": 5
+  },
+  {
+    "question": "Mikä on yksi ensimmäisen lisäyksen oikeuksista tai vapauksista?",
+    "number": 6
+  },
+  {
+    "question": "Kuinka monta perustuslain lisäystä on?",
+    "number": 7
+  },
+  {
+    "question": "Mitä itsenäisyysjulistus teki?",
+    "number": 8
+  },
+  {
+    "question": "Mikä on kaksi oikeutta Yhdysvaltain itsenäisyysjulistuksessa?",
+    "number": 9
+  },
+  {
+    "question": "Mikä on uskonnonvapaus?",
+    "number": 10
+  },
+  {
+    "question": "Mikä on talousjärjestelmä Yhdysvalloissa?",
+    "number": 11
+  },
+  {
+    "question": "Mikä on lain määräämä järjestys?",
+    "number": 12
+  },
+  {
+    "question": "Nimeä yksi hallituksen haara tai osa.",
+    "number": 13
+  },
+  {
+    "question": "Mikä estää yhden hallituksen haaran tulemasta liian voimakkaaksi?",
+    "number": 14
+  },
+  {
+    "question": "Kuka on vastuussa toimeenpanovallasta?",
+    "number": 15
+  },
+  {
+    "question": "Kuka säätää liittovaltion lakeja?",
+    "number": 16
+  },
+  {
+    "question": "Mikä ovat Yhdysvaltain kongressin kaksi osaa?",
+    "number": 17
+  },
+  {
+    "question": "Kuinka monta Yhdysvaltain senaattoria on? (Finnish)",
+    "number": 18
+  },
+  {
+    "question": "Kuinka monen vuoden ajaksi valitsemme Yhdysvaltain senaattorin? (in Finnish, ISO code: fi)",
+    "number": 19
+  },
+  {
+    "question": "Kuka on yksi oman osavaltiosi Yhdysvaltain senaattoreista tällä hetkellä?",
+    "number": 20
+  },
+  {
+    "question": "Kuinka monella äänestävällä jäsenellä on Yhdysvaltojen edustajainhuone? \n\n(Finnish, ISO code: fi)",
+    "number": 21
+  },
+  {
+    "question": "Kuinka monen vuoden välein valitsemme Yhdysvaltain kongressiedustajan?",
+    "number": 22
+  },
+  {
+    "question": "Nimeä Yhdysvaltain edustajainhuoneen jäsenesi.",
+    "number": 23
+  },
+  {
+    "question": "Ketä Yhdysvaltain senaattori edustaa?",
+    "number": 24
+  },
+  {
+    "question": "Miksi jotkut osavaltiot ovat edustajia kuin toiset?",
+    "number": 25
+  },
+  {
+    "question": "Kuinka moneksi vuodeksi me valitsemme presidentin?",
+    "number": 26
+  },
+  {
+    "question": "Mikä kuukausi on Yhdysvaltain presidentinvaalit?",
+    "number": 27
+  },
+  {
+    "question": "Kuka on Yhdysvaltain nykyinen presidentti? (Note: The ISO code for Finnish is \"fi\".)",
+    "number": 28
+  },
+  {
+    "question": "Mikä on Yhdysvaltain varapresidentin nykyinen nimi?",
+    "number": 29
+  },
+  {
+    "question": "Jos presidentti ei enää voi toimia, kuka tulee presidentiksi? (Language: fi)",
+    "number": 30
+  },
+  {
+    "question": "\"Jos presidentti ja varapresidentti eivät pysty enää hoitamaan virkaansa, kuka ottaa presidentin tehtävät?\" (fi)",
+    "number": 31
+  },
+  {
+    "question": "Kuka on sotilaskomentaja? (Note: in Finnish, there is no explicit reference to \"Commander in Chief\" as it is a U.S. specific term.)",
+    "number": 32
+  },
+  {
+    "question": "Kuka allekirjoittaa laskut laeiksi tulemiseksi? (Note: This is a translation to the Finnish language with the ISO code: 'fi')",
+    "number": 33
+  },
+  {
+    "question": "Kuka käyttää veto-oikeutta lakiehdotuksiin?",
+    "number": 34
+  },
+  {
+    "question": "Mikä on presidentin hallituksen rooli?",
+    "number": 35
+  },
+  {
+    "question": "Mikä on kaksi ministeritason virkaa?",
+    "number": 36
+  },
+  {
+    "question": "Mikä on tuomioistuimen tehtävä?",
+    "number": 37
+  },
+  {
+    "question": "Mikä on korkein oikeus Yhdysvalloissa?",
+    "number": 38
+  },
+  {
+    "question": "Kuinka monta oikeusministeriä on korkeimmassa oikeudessa?",
+    "number": 39
+  },
+  {
+    "question": "Kuka on Yhdysvaltain korkeimman oikeuden puheenjohtaja tällä hetkellä?",
+    "number": 40
+  },
+  {
+    "question": "Perustuslakimme mukaan jotkut valtuudet kuuluvat liittovaltiolle. Mikä on yksi liittovaltion valtuuksista? (Finnish)",
+    "number": 41
+  },
+  {
+    "question": "Perustuslakimme mukaan osalla valtioista on oikeuksia. Mikä on yksi valtioiden oikeus?",
+    "number": 42
+  },
+  {
+    "question": "Kuka on osavaltiosi kuvernööri juuri nyt (fi)?",
+    "number": 43
+  },
+  {
+    "question": "Mikä on osavaltiosi pääkaupunki?",
+    "number": 44
+  },
+  {
+    "question": "Mikä ovat Yhdysvaltojen kaksi suurinta poliittista puoluetta? (Finnish)",
+    "number": 45
+  },
+  {
+    "question": "Mikä on nykyisen presidentin poliittinen puolue? (Finnish)",
+    "number": 46
+  },
+  {
+    "question": "Mikä on edustajainhuoneen puhemiehen nimi nyt?",
+    "number": 47
+  },
+  {
+    "question": "On neljä tarkistusta perustuslaissa, jotka koskevat äänioikeutta. Kuvaile yhtä niistä.",
+    "number": 48
+  },
+  {
+    "question": "Mikä vastuu kuuluu vain Yhdysvaltain kansalaisille?",
+    "number": 49
+  },
+  {
+    "question": "Mikä ovat kaksi oikeutta, jotka ovat vain Yhdysvaltain kansalaisilla?",
+    "number": 50
+  },
+  {
+    "question": "Mikä ovat kaksi oikeutta kaikille Yhdysvalloissa asuville?",
+    "number": 51
+  },
+  {
+    "question": "Mihin osoitamme uskollisuutta lausuessamme uskollisuusvalan?",
+    "number": 52
+  },
+  {
+    "question": "Mikä on yksi lupaus, jonka teet tultuasi Yhdysvaltain kansalaiseksi?",
+    "number": 53
+  },
+  {
+    "question": "Kuinka vanhojen kansalaisten täytyy olla äänestääkseen presidentin vaaleissa?",
+    "number": 54
+  },
+  {
+    "question": "Miten kaksi tapaa, joilla amerikkalaiset voivat osallistua demokratiaansa?",
+    "number": 55
+  },
+  {
+    "question": "\"Millä viimeinen päivä voit lähettää liittovaltion tuloveroilmoituksesi?\"",
+    "number": 56
+  },
+  {
+    "question": "Milloin kaikkien miesten on rekisteröidyttävä Selective Serviceen?",
+    "number": 57
+  },
+  {
+    "question": "Mikä on yksi syy, miksi siirtolaiset tulivat Amerikkaan?",
+    "number": 58
+  },
+  {
+    "question": "Kuka asui Amerikassa ennen eurooppalaisten saapumista?",
+    "number": 59
+  },
+  {
+    "question": "Minkä ihmisryhmän Amerikkaan vietiin ja myytiin orjiksi?",
+    "number": 60
+  },
+  {
+    "question": "Miksi siirtokuntalaiset taistelivat brittejä vastaan?",
+    "number": 61
+  },
+  {
+    "question": "Kuka kirjoitti Yhdysvaltain itsenäisyysjulistuksen?",
+    "number": 62
+  },
+  {
+    "question": "Milloin itsenäisyysjulistus hyväksyttiin? (Note: ISO code 'fi' stands for Finnish language)",
+    "number": 63
+  },
+  {
+    "question": "\"Oli 13 alkuperäisvaltiota. Nimeä kolme.\" (Language: fi)",
+    "number": 64
+  },
+  {
+    "question": "Mitä tapahtui perustuslakikonventissa?",
+    "number": 65
+  },
+  {
+    "question": "Milloin perustuslaki kirjoitettiin?",
+    "number": 66
+  },
+  {
+    "question": "Liittovaltion Papers tukivat Yhdysvaltain perustuslain hyväksymistä. Mainitse yksi kirjoittajista. (Translation in Finnish)",
+    "number": 67
+  },
+  {
+    "question": "Mistä Benjamin Franklin tunnetaan?\n\nTranslation: What is Benjamin Franklin known for?",
+    "number": 68
+  },
+  {
+    "question": "Kuka on maamme isä?",
+    "number": 69
+  },
+  {
+    "question": "Kuka oli ensimmäinen presidentti?",
+    "number": 70
+  },
+  {
+    "question": "Minkä alueen Yhdysvallat ostivat Ranskalta vuonna 1803? (fi)",
+    "number": 71
+  },
+  {
+    "question": "Nimeä yksi sota, jota Yhdysvallat kävi 1800-luvulla.",
+    "number": 72
+  },
+  {
+    "question": "Mikä oli Pohjoisen ja Etelän välinen sota Yhdysvalloissa?",
+    "number": 73
+  },
+  {
+    "question": "Nimeä yksi ongelma, joka johti sisällissotaan.",
+    "number": 74
+  },
+  {
+    "question": "Mikä oli yksi tärkeä asia, jonka Abraham Lincoln teki?",
+    "number": 75
+  },
+  {
+    "question": "Mikä oli Emancipation Proclamationin vaikutus?",
+    "number": 76
+  },
+  {
+    "question": "Mitä Susan B. Anthony teki?",
+    "number": 77
+  },
+  {
+    "question": "Nimeä yksi sota, jota Yhdysvallat kävi 1900-luvulla.",
+    "number": 78
+  },
+  {
+    "question": "Kuka oli presidenttinä ensimmäisessä maailmansodassa?",
+    "number": 79
+  },
+  {
+    "question": "Kuka oli presidentti suuren laman ja toisen maailmansodan aikana?",
+    "number": 80
+  },
+  {
+    "question": "Ketä vastaan Yhdysvallat taisteli toisen maailmansodan aikana?",
+    "number": 81
+  },
+  {
+    "question": "Ennen kuin hänestä tuli presidentti, Eisenhower oli kenraali. Missä sodassa hän oli mukana?",
+    "number": 82
+  },
+  {
+    "question": "Kylmän sodan aikana mikä oli Yhdysvaltojen päähuoli? (fi)",
+    "number": 83
+  },
+  {
+    "question": "Mikä liike yritti lopettaa rotusyrjinnän? (ISO koodi: fi)",
+    "number": 84
+  },
+  {
+    "question": "Mitä Martin Luther King teki?",
+    "number": 85
+  },
+  {
+    "question": "Mikä tärkeä tapahtuma tapahtui Yhdysvalloissa 11. syyskuuta 2001?",
+    "number": 86
+  },
+  {
+    "question": "Mainitse yksi amerikanintiaaniheimojen nimi Yhdysvalloissa.",
+    "number": 87
+  },
+  {
+    "question": "Mikä on yksi kahdesta Yhdysvaltain pisimmästä joesta?",
+    "number": 88
+  },
+  {
+    "question": "Mikä valtameri on Yhdysvaltojen länsirannikolla? (fi)",
+    "number": 89
+  },
+  {
+    "question": "Mikä valtameri sijaitsee Yhdysvaltojen itärannikolla? (fi)",
+    "number": 90
+  },
+  {
+    "question": "Maine, Väiski yksi Yhdysvaltain alue.",
+    "number": 91
+  },
+  {
+    "question": "Nimeä yksi Yhdysvaltain osavaltio, joka rajoittuu Kanadaan.",
+    "number": 92
+  },
+  {
+    "question": "Nimeä yksi valtio, joka rajoittuu Meksikoon.",
+    "number": 93
+  },
+  {
+    "question": "Mikä on Yhdysvaltain pääkaupunki?",
+    "number": 94
+  },
+  {
+    "question": "Missä Vapaudenpatsas sijaitsee?",
+    "number": 95
+  },
+  {
+    "question": "Miksi lipussa on 13 raitaa?",
+    "number": 96
+  },
+  {
+    "question": "Miksi lipussa on 50 tähteä? (in Finnish)",
+    "number": 97
+  },
+  {
+    "question": "Mikä on kansallislaulun nimi?",
+    "number": 98
+  },
+  {
+    "question": "Nimeä kaksi Yhdysvaltojen kansallista juhlapäivää.",
+    "number": 99
+  },
+  {
+    "question": "Milloin vietämme Itsenäisyyspäivää?",
+    "number": 100
+  }
+]

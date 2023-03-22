@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Ano ang mga pinakamataas na batas ng lupa? (tl)",
+    "number": 1
+  },
+  {
+    "question": "Ano ang ginagawa ng Konstitusyon?",
+    "number": 2
+  },
+  {
+    "question": "Ang ideya ng self-government ay nasa unang tatlong salita ng Konstitusyon. Ano ang mga salitang ito? (tl)",
+    "number": 3
+  },
+  {
+    "question": "Ano ang amendment?",
+    "number": 4
+  },
+  {
+    "question": "Anong tawag natin sa unang sampung amendment sa Konstitusyon?",
+    "number": 5
+  },
+  {
+    "question": "Anong isa sa mga karapatan o kalayaan mula sa Unang Amendment?",
+    "number": 6
+  },
+  {
+    "question": "Ilang amendment ang mayroon ang Konstitusyon?",
+    "number": 7
+  },
+  {
+    "question": "Ano ang ginawa ng Deklarasyon ng Kalayaan?",
+    "number": 8
+  },
+  {
+    "question": "Ano ang dalawang karapatan sa Declaration of Independence?",
+    "number": 9
+  },
+  {
+    "question": "Ano ang kalayaan sa relihiyon?",
+    "number": 10
+  },
+  {
+    "question": "Ano ang sistemang pang-ekonomiya sa Estados Unidos?",
+    "number": 11
+  },
+  {
+    "question": "Ano ang patakaran ng batas?",
+    "number": 12
+  },
+  {
+    "question": "Anong sangay o bahagi ng pamahalaan ang pwede mong pangalanan?",
+    "number": 13
+  },
+  {
+    "question": "Ano ang humahadlang sa isang sangay ng pamahalaan na maging sobrang makapangyarihan?",
+    "number": 14
+  },
+  {
+    "question": "Sino ang nangangasiwa sa executive branch?",
+    "number": 15
+  },
+  {
+    "question": "Sino ang gumagawa ng mga pederal na batas?",
+    "number": 16
+  },
+  {
+    "question": "Anong dalawang bahagi ng Kongreso ng US? (tl)",
+    "number": 17
+  },
+  {
+    "question": "Ilang mga Senador ng US ang mayroon?",
+    "number": 18
+  },
+  {
+    "question": "Ilang taon natin hinahalal ang isang Senador ng Estados Unidos? (tl)",
+    "number": 19
+  },
+  {
+    "question": "Sino ang isa sa mga Senador ng Amerika sa inyong estado ngayon?",
+    "number": 20
+  },
+  {
+    "question": "Ilang miyembro ng Kongreso ang may karapatang bumoto sa Kamara ng mga Kinatawan? (tl)",
+    "number": 21
+  },
+  {
+    "question": "Ibinoboto natin ang isang Kinatawan ng U.S. para sa ilang taon? (tl)",
+    "number": 22
+  },
+  {
+    "question": "Ano ang pangalan ng iyong Kinatawan sa Estados Unidos?",
+    "number": 23
+  },
+  {
+    "question": "Sino ang kinakatawan ng isang Senador ng U.S.?",
+    "number": 24
+  },
+  {
+    "question": "Bakit mayroong mga estado na mayroong mas maraming Kinatawan kaysa sa ibang mga estado?",
+    "number": 25
+  },
+  {
+    "question": "Ilang taon binoboto ang Pangulo? (tl)",
+    "number": 26
+  },
+  {
+    "question": "Sa anong buwan tayo bumoboto para sa Pangulo?",
+    "number": 27
+  },
+  {
+    "question": "Ano ang pangalan ng Pangulo ng Estados Unidos ngayon?",
+    "number": 28
+  },
+  {
+    "question": "Anong pangalan ng Pangalawang Pangulo ng Estados Unidos ngayon?",
+    "number": 29
+  },
+  {
+    "question": "Kung hindi na makapagsilbi ang Pangulo, sino ang magiging Pangulo?",
+    "number": 30
+  },
+  {
+    "question": "Kung pareho nang hindi kayang maglingkod ang Pangulo at Pangalawang Pangulo, sino ang magiging Pangulo?",
+    "number": 31
+  },
+  {
+    "question": "Sino ang Commander in Chief ng militar? (tl)",
+    "number": 32
+  },
+  {
+    "question": "Sino ang naglalagda ng mga panukalang batas upang maging batas? (tl)",
+    "number": 33
+  },
+  {
+    "question": "Sino ang nagbibigay ng veto sa mga panukalang batas?",
+    "number": 34
+  },
+  {
+    "question": "Anong ginagawa ng Gabinete ng Pangulo?",
+    "number": 35
+  },
+  {
+    "question": "Ano ang dalawang posisyon sa antas ng Gabinete?",
+    "number": 36
+  },
+  {
+    "question": "Ano ang ginagawa ng hudikatura?",
+    "number": 37
+  },
+  {
+    "question": "Ano ang pinakamataas na korte sa Estados Unidos?",
+    "number": 38
+  },
+  {
+    "question": "Ilang hukom ang nasa Kataas-taasang Hukuman? (tl)",
+    "number": 39
+  },
+  {
+    "question": "Sino ang Punong Mahistrado ng United States ngayon?",
+    "number": 40
+  },
+  {
+    "question": "Sa ilalim ng ating Konstitusyon, may mga kapangyarihan na nauukol sa pamahalaang pederal. Ano ang isa sa kapangyarihan ng pamahalaang pederal?",
+    "number": 41
+  },
+  {
+    "question": "Sa ilalim ng ating Konstitusyon, mayroong ilang kapangyarihan na nauukol sa mga estado. Anong isa sa mga kapangyarihan ng mga estado?",
+    "number": 42
+  },
+  {
+    "question": "Sino ang Governor ng iyong estado ngayon?",
+    "number": 43
+  },
+  {
+    "question": "Anong ang kabisera ng iyong estado? (Ito ay para sa ISO code: 'tl,' na kilala rin bilang Tagalog.)",
+    "number": 44
+  },
+  {
+    "question": "Ano ang dalawang pangunahing pampulitikang partido sa Estados Unidos?",
+    "number": 45
+  },
+  {
+    "question": "Ano ang partido pulitikal ng Pangulo ngayon?",
+    "number": 46
+  },
+  {
+    "question": "Ano ang pangalan ng Speaker ng House of Representatives ngayon? (tl)",
+    "number": 47
+  },
+  {
+    "question": "Mayroong apat na pagbabago sa Konstitusyon tungkol sa kung sino ang pwedeng bumoto. I-describe ang isa dito. (ISO code: tl)",
+    "number": 48
+  },
+  {
+    "question": "Ano ang isa sa responsibilidad na para lamang sa mga mamamayang Amerikano?",
+    "number": 49
+  },
+  {
+    "question": "Anong dalawang karapatan lamang para sa mga mamamayang Amerikano? (tl)",
+    "number": 50
+  },
+  {
+    "question": "Ano ang dalawang karapatan ng bawat tao na naninirahan sa Estados Unidos?",
+    "number": 51
+  },
+  {
+    "question": "Ano ang ipinapakita natin ng pagiging tapat kapag sinabi natin ang Pledge of Allegiance?",
+    "number": 52
+  },
+  {
+    "question": "Ano ang isa sa mga pangako na iyong gagawin kapag ikaw ay naging mamamayang Amerikano? (tl)",
+    "number": 53
+  },
+  {
+    "question": "Gaano kalaki ang kinakailangan ng edad ng mga mamamayan upang makaboto para sa Pangulo? (tl)",
+    "number": 54
+  },
+  {
+    "question": "Ano ang dalawang paraan kung paano makakalahok ang mga Amerikano sa kanilang demokrasya?",
+    "number": 55
+  },
+  {
+    "question": "Kailan ang huling araw na maaaring magpadala ng mga form ng pederal na buwis sa kita?",
+    "number": 56
+  },
+  {
+    "question": "Kailan dapat magrehistro sa Selective Service ang lahat ng mga lalaki?",
+    "number": 57
+  },
+  {
+    "question": "Ano ang isa sa mga dahilan kung bakit pumunta ang mga kolonista sa Amerika?",
+    "number": 58
+  },
+  {
+    "question": "Sino ang nanirahan sa America bago dumating ang mga Europeo?",
+    "number": 59
+  },
+  {
+    "question": "Anong grupo ng mga tao ang dinala sa America at ibinenta bilang mga alipin? (tl)",
+    "number": 60
+  },
+  {
+    "question": "Bakit lumaban ang mga kolonis laban sa mga Britano?",
+    "number": 61
+  },
+  {
+    "question": "Sino ang sumulat ng Declaration of Independence?",
+    "number": 62
+  },
+  {
+    "question": "Kailan ipinahayag ang Kasarinlan?",
+    "number": 63
+  },
+  {
+    "question": "Mayroon 13 na unang mga estado. Pangalanan ang tatlo.",
+    "number": 64
+  },
+  {
+    "question": "Ano ang nangyari sa Constitutional Convention?",
+    "number": 65
+  },
+  {
+    "question": "Kailan isinulat ang Konstitusyon?",
+    "number": 66
+  },
+  {
+    "question": "Ang mga Federalist Papers ay sumuporta sa pagpasa ng Konstitusyon ng U.S. Pangalanin ang isa sa mga manunulat. (tl)",
+    "number": 67
+  },
+  {
+    "question": "Ano ang isa sa mga ipinagmamalaking nagawa ni Benjamin Franklin?",
+    "number": 68
+  },
+  {
+    "question": "Sino ang Ama ng Ating Bayan?",
+    "number": 69
+  },
+  {
+    "question": "Sino ang unang Pangulo?",
+    "number": 70
+  },
+  {
+    "question": "Anong teritoryo ang binili ng Estados Unidos mula sa Pransiya noong 1803?",
+    "number": 71
+  },
+  {
+    "question": "Ano ang isa sa mga digmaang pinaglabanan ng Estados Unidos noong mga 1800s?",
+    "number": 72
+  },
+  {
+    "question": "Anong digmaan sa pagitan ng Hilagang at Timog Amerika ang tinutukoy?",
+    "number": 73
+  },
+  {
+    "question": "Ano ang isa sa mga problemang nagdulot sa Digmaang Sibil?",
+    "number": 74
+  },
+  {
+    "question": "Anong mahalagang bagay ang ginawa ni Abraham Lincoln?",
+    "number": 75
+  },
+  {
+    "question": "Ano ang ginawa ng Emancipation Proclamation?",
+    "number": 76
+  },
+  {
+    "question": "Ano ang ginawa ni Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Ano ang isa sa mga digmaang nilaban ng Estados Unidos noong 1900s?",
+    "number": 78
+  },
+  {
+    "question": "Sino ang naging Pangulo sa panahon ng Unang Digmaang Pandaigdig?",
+    "number": 79
+  },
+  {
+    "question": "Sino ang Pangulo noong Panahon ng Malaking Depresyon at Pandaigdigang Digmaan?",
+    "number": 80
+  },
+  {
+    "question": "Sino ang mga kalaban ng Estados Unidos sa Ikalawang Digmaang Pandaigdig?",
+    "number": 81
+  },
+  {
+    "question": "Bago maging Pangulo, si Eisenhower ay isang heneral. Anong digmaan siya kasali?",
+    "number": 82
+  },
+  {
+    "question": "Noong panahon ng Cold War, ano ang pangunahing alalahanin ng Estados Unidos?",
+    "number": 83
+  },
+  {
+    "question": "Ano ang kilusang nagtatangka na tapusin ang diskriminasyon batay sa lahi? (tl)",
+    "number": 84
+  },
+  {
+    "question": "Ano ang ginawa ni Martin Luther King Jr.? (tl)",
+    "number": 85
+  },
+  {
+    "question": "Ano ang malaking pangyayari na naganap noong Setyembre 11, 2001 sa Estados Unidos?",
+    "number": 86
+  },
+  {
+    "question": "Bigyan ang pangalan ng isang tribong Amerikano Indian sa Estados Unidos.",
+    "number": 87
+  },
+  {
+    "question": "Ano ang isa sa dalawang pinakamahabang ilog sa Estados Unidos?",
+    "number": 88
+  },
+  {
+    "question": "Anong karagatan ang nasa Kanlurang Baybayin ng Estados Unidos? (ISO code: tl)",
+    "number": 89
+  },
+  {
+    "question": "Anong karagatan ang nasa Silangang Baybayin ng Estados Unidos?",
+    "number": 90
+  },
+  {
+    "question": "Isulat ang isang teritoryo ng U.S.",
+    "number": 91
+  },
+  {
+    "question": "Bigyan ng pangalan ang kahit isang estado na nagkakaroon ng hangganan sa Canada.",
+    "number": 92
+  },
+  {
+    "question": "Bigyan ng pangalan ang isa sa mga estado na nakalilibot sa Mexico. \n\nNote: 'tl' refers to Tagalog, one of the official languages of the Philippines.",
+    "number": 93
+  },
+  {
+    "question": "Anong ang kabisera ng Estados Unidos?",
+    "number": 94
+  },
+  {
+    "question": "Saan matatagpuan ang Statue of Liberty?",
+    "number": 95
+  },
+  {
+    "question": "Bakit mayroong 13 na stripe ang bandila?",
+    "number": 96
+  },
+  {
+    "question": "Bakit mayroong 50 bituin ang bandila?",
+    "number": 97
+  },
+  {
+    "question": "Ano ang pangalan ng pambansang awit?",
+    "number": 98
+  },
+  {
+    "question": "Ibigay ang pangalan ng dalawang pambansang holiday sa US.",
+    "number": 99
+  },
+  {
+    "question": "Kailan natin ipinagdiriwang ang Araw ng Kasarinlan?",
+    "number": 100
+  }
+]

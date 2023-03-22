@@ -1,0 +1,402 @@
+[
+  {
+    "question": "「大地の最高法は何ですか？」",
+    "number": 1
+  },
+  {
+    "question": "憲法は何をするのですか？",
+    "number": 2
+  },
+  {
+    "question": "憲法の最初の3つの単語には、自己統治の考えが含まれています。 これらの言葉は何ですか？",
+    "number": 3
+  },
+  {
+    "question": "改正とは何ですか？",
+    "number": 4
+  },
+  {
+    "question": "憲法の最初の10の修正案を何と呼びますか？ (ISO code: ja)",
+    "number": 5
+  },
+  {
+    "question": "最初の修正案からの1つの権利または自由は何ですか？ (ja)",
+    "number": 6
+  },
+  {
+    "question": "合衆国憲法には何条の修正案がありますか？ (ja)",
+    "number": 7
+  },
+  {
+    "question": "独立宣言は何を成し遂げたのですか？ (dokuritsu sengen wa nani o nashitageta no desu ka?)",
+    "number": 8
+  },
+  {
+    "question": "独立宣言には、2つの権利がありますか？",
+    "number": 9
+  },
+  {
+    "question": "宗教の自由とは何ですか？ (shuukyou no jiyuu to wa nan desu ka?)",
+    "number": 10
+  },
+  {
+    "question": "ISO code 'ja' stands for Japanese.\n\nアメリカ合衆国の経済制度は何ですか？",
+    "number": 11
+  },
+  {
+    "question": "法の支配とは何ですか？",
+    "number": 12
+  },
+  {
+    "question": "政府の中で1つの部門や分野を挙げてください。 (ja)",
+    "number": 13
+  },
+  {
+    "question": "政府の一部門が強すぎることを防ぐために何が必要ですか？",
+    "number": 14
+  },
+  {
+    "question": "誰が行政府を担当していますか？ (transliteration: Dare ga gyōseifu o tantō shite imasu ka?)",
+    "number": 15
+  },
+  {
+    "question": "連邦法律を制定するのは誰ですか？",
+    "number": 16
+  },
+  {
+    "question": "アメリカ合衆国議会は、2つの部分から構成されますか？",
+    "number": 17
+  },
+  {
+    "question": "何人の米国上院議員がいますか？",
+    "number": 18
+  },
+  {
+    "question": "何年間、米国上院議員を選出しますか？",
+    "number": 19
+  },
+  {
+    "question": "「あなたの州の米国上院議員の1人は誰ですか？」",
+    "number": 20
+  },
+  {
+    "question": "「代表院の投票権を持つ議員の数は何人ですか？」",
+    "number": 21
+  },
+  {
+    "question": "何年間の期間でアメリカ合衆国の代表者を選出しますか？ (ja)",
+    "number": 22
+  },
+  {
+    "question": "「アメリカ合衆国下院議員の名前は何ですか？」",
+    "number": 23
+  },
+  {
+    "question": "アメリカ合衆国上院議員は誰を代表しますか？",
+    "number": 24
+  },
+  {
+    "question": "なぜ一部の州には他の州より多くの代表議員がいるのですか？",
+    "number": 25
+  },
+  {
+    "question": "何年間のために大統領を選出しますか？ (nannenkan no tame ni daitōryō wo senshuu shimasu ka?)",
+    "number": 26
+  },
+  {
+    "question": "「大統領選挙は何月に行いますか？」",
+    "number": 27
+  },
+  {
+    "question": "現在のアメリカ合衆国大統領の名前は何ですか？ (Genzai no Amerika Gasshukoku daitōryō no namae wa nanidesu ka?)",
+    "number": 28
+  },
+  {
+    "question": "今、アメリカ合衆国の副大統領の名前は何ですか？ (Ima, amerika gasshūkoku no fukudaitōryō no namae wa nanidesu ka?)",
+    "number": 29
+  },
+  {
+    "question": "大統領が不在になった場合、誰が大統領になりますか？ (ja)",
+    "number": 30
+  },
+  {
+    "question": "もし大統領と副大統領がともに職務を果たせなくなった場合、誰が大統領になりますか？",
+    "number": 31
+  },
+  {
+    "question": "誰が軍の最高司令官ですか？ (ja)",
+    "number": 32
+  },
+  {
+    "question": "誰が法律になる法案に署名しますか？",
+    "number": 33
+  },
+  {
+    "question": "誰が法案に拒否権を持っていますか？",
+    "number": 34
+  },
+  {
+    "question": "大統領の内閣は何をしますか？ (daitōryō no naikaku wa nani wo shimasu ka?)",
+    "number": 35
+  },
+  {
+    "question": "2つの内閣レベルの職位は何ですか？ (ja)",
+    "number": 36
+  },
+  {
+    "question": "司法府は何をするのですか？ (sah-fa-fu wa nani wo suru no desu ka?)",
+    "number": 37
+  },
+  {
+    "question": "アメリカ合衆国の最高裁判所は何ですか？",
+    "number": 38
+  },
+  {
+    "question": "最高裁判所にはどのくらいの裁判官がいますか？",
+    "number": 39
+  },
+  {
+    "question": "今、アメリカ合衆国の最高裁判所長官は誰ですか？ (Ima, Amerika Gasshūkoku no saikō saibansho chōkan wa dare desu ka?)",
+    "number": 40
+  },
+  {
+    "question": "アメリカ合衆国憲法上、いくつかの権限は連邦政府に帰属します。連邦政府の権限のうち1つは何ですか？",
+    "number": 41
+  },
+  {
+    "question": "私たちの憲法によると、いくつかの権限は州に属しています。州の権限のうち、ひとつは何ですか？ (ja)",
+    "number": 42
+  },
+  {
+    "question": "現在、あなたの州の知事は誰ですか？",
+    "number": 43
+  },
+  {
+    "question": "あなたの州の首都は何ですか？",
+    "number": 44
+  },
+  {
+    "question": "アメリカ合衆国における主要な2つの政治党は何ですか？",
+    "number": 45
+  },
+  {
+    "question": "現在の大統領の政党は何ですか？ (Gennzai no daitōryō no seitō wa nanidesu ka?)",
+    "number": 46
+  },
+  {
+    "question": "今、下院議長の名前は何ですか？ (ima, kain-gichō no namae wa nanidesu ka?)",
+    "number": 47
+  },
+  {
+    "question": "憲法には誰が投票できるかに関する4つの修正条項があります。そのうち1つを説明してください。 (ja-JP)",
+    "number": 48
+  },
+  {
+    "question": "「アメリカ合衆国市民だけが負うことがある1つの責任は何ですか？」",
+    "number": 49
+  },
+  {
+    "question": "「米国市民にのみ与えられる権利は２つある。」",
+    "number": 50
+  },
+  {
+    "question": "アメリカに住んでいる全ての人の権利として2つ挙げてください。",
+    "number": 51
+  },
+  {
+    "question": "私たちは、「忠誠の誓い」を唱えるときに何に忠誠を誓っているのですか？",
+    "number": 52
+  },
+  {
+    "question": "アメリカ市民になるときに約束することの1つは何ですか？",
+    "number": 53
+  },
+  {
+    "question": "市民が大統領選挙で投票するためには何歳でなければなりませんか？ (ja)",
+    "number": 54
+  },
+  {
+    "question": "アメリカ人が彼らの民主主義に参加できる2つの方法は何ですか？",
+    "number": 55
+  },
+  {
+    "question": "連邦所得税申告書を提出できる最後の日はいつですか？ (Japanese - ja)",
+    "number": 56
+  },
+  {
+    "question": "男性はいつ徴兵登録をしなければなりませんか？ (ja)",
+    "number": 57
+  },
+  {
+    "question": "アメリカに植民地を作るために入植者がやってきた理由のひとつは何ですか？",
+    "number": 58
+  },
+  {
+    "question": "ヨーロッパ人が到達する前、アメリカには誰が住んでいましたか？",
+    "number": 59
+  },
+  {
+    "question": "アメリカに連れてこられ奴隷として売られた人々はどのグループでしたか？",
+    "number": 60
+  },
+  {
+    "question": "なぜ植民地人たちはイギリスと戦ったのですか？",
+    "number": 61
+  },
+  {
+    "question": "誰が独立宣言を書きましたか？",
+    "number": 62
+  },
+  {
+    "question": "独立宣言はいつ採択されましたか？ (dokuritsu sengen wa itsu saitaku sare mashita ka?)",
+    "number": 63
+  },
+  {
+    "question": "１３植民地のうち３つを名前を挙げてください。 (ISO code: ja)",
+    "number": 64
+  },
+  {
+    "question": "憲法制定会議で何が起こったのですか？",
+    "number": 65
+  },
+  {
+    "question": "憲法はいつ書かれましたか？",
+    "number": 66
+  },
+  {
+    "question": "「フェデラリスト論文はアメリカ合衆国憲法の批准を支持しました。その著者の名前を1つ答えなさい。」",
+    "number": 67
+  },
+  {
+    "question": "ベンジャミン・フランクリンが有名な理由の一つは何ですか？ (Benjamin Furankurin ga yūmeina riyū no hitotsu wa nanidesu ka?)",
+    "number": 68
+  },
+  {
+    "question": "「わが国の父は誰ですか？」",
+    "number": 69
+  },
+  {
+    "question": "最初の大統領は誰でしたか？",
+    "number": 70
+  },
+  {
+    "question": "1803年にアメリカ合衆国がフランスから購入した領土は何ですか？(ja)",
+    "number": 71
+  },
+  {
+    "question": "アメリカが1800年代に戦った戦争を1つ挙げてください。",
+    "number": 72
+  },
+  {
+    "question": "北と南の間で行われた米国の戦争の名称は何ですか？ (ja)",
+    "number": 73
+  },
+  {
+    "question": "「南北戦争の原因となった問題のうち、1つ挙げてください。」",
+    "number": 74
+  },
+  {
+    "question": "エイブラハム・リンカーンが行った重要なことのうちの1つは何でしたか？ (Eiburahamu Rinkan ga okonatta juuyou na koto no uchi no hitotsu wa nan deshita ka?)",
+    "number": 75
+  },
+  {
+    "question": "エマンシペーション宣言は何をしたのですか？",
+    "number": 76
+  },
+  {
+    "question": "スーザン・B・アンソニーは何をしましたか？",
+    "number": 77
+  },
+  {
+    "question": "アメリカ合衆国が1900年代に戦った戦争のうち1つを挙げてください。",
+    "number": 78
+  },
+  {
+    "question": "第一次世界大戦の際、アメリカの大統領は誰でしたか？",
+    "number": 79
+  },
+  {
+    "question": "大恐慌と第二次世界大戦の間、どの大統領が在任していましたか？",
+    "number": 80
+  },
+  {
+    "question": "ISO code: ja\n\n第二次世界大戦でアメリカは誰と戦いましたか？",
+    "number": 81
+  },
+  {
+    "question": "彼が大統領になる前、アイゼンハワーは将軍でした。彼はどの戦争に参加しましたか？",
+    "number": 82
+  },
+  {
+    "question": "冷戦中、アメリカ合衆国の主な懸念点は何でしたか？ (ja)",
+    "number": 83
+  },
+  {
+    "question": "どの運動が人種差別を終わらせようとしたのですか？",
+    "number": 84
+  },
+  {
+    "question": "マーティン・ルーサー・キング・ジュニアは何をしましたか？",
+    "number": 85
+  },
+  {
+    "question": "アメリカ合衆国において、2001年9月11日にどのような主要な事件が起こりましたか？ (Ameka Gasshūkoku ni oite, 2001-nen 9-gatsu 11-nichi ni dono yōna shuyōna jiken ga okorimashita ka?)",
+    "number": 86
+  },
+  {
+    "question": "アメリカインディアン部族の一つを名前を挙げてください。",
+    "number": 87
+  },
+  {
+    "question": "アメリカ合衆国の最も長い川のうち、2つのうちの1つの名前は何ですか？",
+    "number": 88
+  },
+  {
+    "question": "ISO code 'ja': アメリカの西海岸にある海は何ですか？",
+    "number": 89
+  },
+  {
+    "question": "アメリカ合衆国の東海岸にある海は何ですか？ (Amerika gasshūkoku no higashi kaigan ni aru Umi wa nanidesu ka?)",
+    "number": 90
+  },
+  {
+    "question": "アメリカ合衆国に属する領土を１つ挙げてください。",
+    "number": 91
+  },
+  {
+    "question": "「カナダと接する州のうち、1つの名前を挙げてください。」",
+    "number": 92
+  },
+  {
+    "question": "メキシコと接する州を1つ名前を教えてください。",
+    "number": 93
+  },
+  {
+    "question": "アメリカ合衆国の首都は何ですか？",
+    "number": 94
+  },
+  {
+    "question": "自由の女神像はどこにありますか？ (In Japanese - ja)",
+    "number": 95
+  },
+  {
+    "question": "なぜアメリカ国旗には13本のストライプがあるのですか？ (ja)",
+    "number": 96
+  },
+  {
+    "question": "なぜアメリカの国旗には50個の星があるのですか？",
+    "number": 97
+  },
+  {
+    "question": "国歌の名前は何ですか？ (Kokka no namae wa nan desu ka?)",
+    "number": 98
+  },
+  {
+    "question": "アメリカの国民的な祝日を2つ挙げてください。",
+    "number": 99
+  },
+  {
+    "question": "独立記念日はいつ祝いますか？",
+    "number": 100
+  }
+]

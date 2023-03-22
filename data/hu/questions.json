@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Mi az ország legfőbb törvénye?",
+    "number": 1
+  },
+  {
+    "question": "A Konstitúció mire szolgál?",
+    "number": 2
+  },
+  {
+    "question": "A konstitúció első három szava az önálló kormányzás gondolatát fejezi ki. Mi ezek a szavak? (ISO code: hu)",
+    "number": 3
+  },
+  {
+    "question": "Mi az az alkotmányjavaslat?",
+    "number": 4
+  },
+  {
+    "question": "Hogyan nevezzük az alkotmány első tíz kiegészítését? (ISO kód: hu)",
+    "number": 5
+  },
+  {
+    "question": "Mi az egyik jog vagy szabadság az Első Kiegészítésből?",
+    "number": 6
+  },
+  {
+    "question": "Hány alkotmánykiegészítése van az alkotmánynak?",
+    "number": 7
+  },
+  {
+    "question": "Mi volt az Függetlenségi Nyilatkozat szerepe?",
+    "number": 8
+  },
+  {
+    "question": "Mi az a két jog az Függetlenségi Nyilatkozatban?",
+    "number": 9
+  },
+  {
+    "question": "Mi az vallásszabadság?",
+    "number": 10
+  },
+  {
+    "question": "Mi az gazdasági rendszer az Egyesült Államokban? (hu)",
+    "number": 11
+  },
+  {
+    "question": "Mi a jogállamiság szabálya?",
+    "number": 12
+  },
+  {
+    "question": "Nevezzen meg egyik kormányágat vagy részét. (hu)",
+    "number": 13
+  },
+  {
+    "question": "Mi akadályozza meg, hogy az egyik kormányzati ág túlságosan nagy hatalomra tegyen szert? (hu)",
+    "number": 14
+  },
+  {
+    "question": "Ki kezeli az végrehajtó hatalmat? (ISO code: hu)",
+    "number": 15
+  },
+  {
+    "question": "Ki hozza a szövetségi törvényeket? (hu)",
+    "number": 16
+  },
+  {
+    "question": "Mi az Amerikai Kongresszus két része?",
+    "number": 17
+  },
+  {
+    "question": "Hány amerikai szenátor van?",
+    "number": 18
+  },
+  {
+    "question": "Hány évre választunk egy Egyesült Államok szenátort? (ISO code: hu)",
+    "number": 19
+  },
+  {
+    "question": "Ki az egyik államának amerikai szenátora most? (hu)",
+    "number": 20
+  },
+  {
+    "question": "A képviselőház hány szavazó tagból áll?",
+    "number": 21
+  },
+  {
+    "question": "Hány évre választunk egy amerikai képviselőt? (hu)",
+    "number": 22
+  },
+  {
+    "question": "Mi az Ön amerikai Képviselőjének a neve? (hu)",
+    "number": 23
+  },
+  {
+    "question": "Ki az, akit egy amerikai szenátor képvisel?",
+    "number": 24
+  },
+  {
+    "question": "Miért vannak olyan államok, amelyeknek több Képviselőjük van, mint más államoknak? (hu)",
+    "number": 25
+  },
+  {
+    "question": "Milyen hosszú időre választunk elnököt? (ISO code: hu)",
+    "number": 26
+  },
+  {
+    "question": "\"Melyik hónapban szavazunk az elnökre?\"",
+    "number": 27
+  },
+  {
+    "question": "Mi az Egyesült Államok jelenlegi elnökének a neve? (hu)",
+    "number": 28
+  },
+  {
+    "question": "Mi a jelenlegi Egyesült Államok alelnökének neve?",
+    "number": 29
+  },
+  {
+    "question": "Ha az elnök már nem tud többé szolgálni, ki lesz az elnök? (ISO code: hu)",
+    "number": 30
+  },
+  {
+    "question": "Ha sem az elnök, sem az alelnök nem tud tovább szolgálni, ki lesz az elnök? (hu)",
+    "number": 31
+  },
+  {
+    "question": "Ki a katonai erők főparancsnoka? (ISO code: hu)",
+    "number": 32
+  },
+  {
+    "question": "Ki ír alá törvényeket? (hu)",
+    "number": 33
+  },
+  {
+    "question": "Ki vétózhat törvényeket?",
+    "number": 34
+  },
+  {
+    "question": "Mi a Felügyelő Bizottság (Kabinet) dolga? (hu)",
+    "number": 35
+  },
+  {
+    "question": "Melyek két kabinet szintű pozíció?",
+    "number": 36
+  },
+  {
+    "question": "Mit csinál az igazságszolgáltatási ág?",
+    "number": 37
+  },
+  {
+    "question": "Mi az Egyesült Államok legfelsőbb bírósága?",
+    "number": 38
+  },
+  {
+    "question": "Hány igazságügyi miniszter van a Legfelsőbb Bíróságon?",
+    "number": 39
+  },
+  {
+    "question": "\"Ki az Egyesült Államok jelenlegi Legfelsőbb Bírója?\"",
+    "number": 40
+  },
+  {
+    "question": "Az alkotmányunk szerint, bizonyos hatalmak a szövetségi kormányhoz tartoznak. Mi az egyik szövetségi kormányzati hatalom? (ISO code: hu)",
+    "number": 41
+  },
+  {
+    "question": "Az alkotmányunk alapján néhány hatalom a tagállamokhoz tartozik. Mi az egyik hatalom, amely a tagállamoké?",
+    "number": 42
+  },
+  {
+    "question": "\"Ki az államod kormányzója most?\"",
+    "number": 43
+  },
+  {
+    "question": "\"Melyik az államod fővárosa?\"",
+    "number": 44
+  },
+  {
+    "question": "Mi a két fő politikai párt az Egyesült Államokban? (hu)",
+    "number": 45
+  },
+  {
+    "question": "Mi az elnök jelenlegi politikai pártja? (hu)",
+    "number": 46
+  },
+  {
+    "question": "Melyik a jelenlegi képviselőház elnökének a neve? (ISO code: hu)",
+    "number": 47
+  },
+  {
+    "question": "Vannak négy alkotmánykiegészítés, amelyek azt határozzák meg, ki szavazhat. Jellemezzük az egyiket.",
+    "number": 48
+  },
+  {
+    "question": "Mi az az egy felelősség, amely kizárólag az Amerikai Egyesült Államok állampolgárai számára van?",
+    "number": 49
+  },
+  {
+    "question": "Mi az a két jog, ami csak az Egyesült Államok állampolgárai számára érhető el?",
+    "number": 50
+  },
+  {
+    "question": "Milyen két jogot élvez mindenki, aki Amerikában él?",
+    "number": 51
+  },
+  {
+    "question": "Mire tesszük a hűséget, amikor a Hűségnyilatkozatot mondjuk? (hu)",
+    "number": 52
+  },
+  {
+    "question": "Mi az egyik ígéret, amit teszel, ha Amerikai Egyesült Államok állampolgára leszel?",
+    "number": 53
+  },
+  {
+    "question": "Milyen korban lehet elnököt választani az állampolgárok számára? (hu)",
+    "number": 54
+  },
+  {
+    "question": "Melyek azok a két mód, amelyekkel az amerikaiak részt vehetnek a demokráciában? (hu)",
+    "number": 55
+  },
+  {
+    "question": "Mikor van az utolsó nap, amikor leadhatja a szövetségi jövedelemadó bevallásokat? (hu)",
+    "number": 56
+  },
+  {
+    "question": "Mikor kell a szelektív szolgálatra minden férfinak regisztrálnia?",
+    "number": 57
+  },
+  {
+    "question": "Mi az egyik ok, ami miatt a gyarmatosítók Amerikába jöttek? (hu)",
+    "number": 58
+  },
+  {
+    "question": "Ki élt Amerikában az európaiak érkezése előtt?",
+    "number": 59
+  },
+  {
+    "question": "Milyen csoportok emberek kerültek eladásra rabszolgaként Amerikába?",
+    "number": 60
+  },
+  {
+    "question": "Miért harcoltak az amerikai telepesek az angolokkal?",
+    "number": 61
+  },
+  {
+    "question": "Ki írta az Egyesült Államok Függetlenségi Nyilatkozatát?",
+    "number": 62
+  },
+  {
+    "question": "Mikor fogadták el az Függetlenségi Nyilatkozatot? (hu)",
+    "number": 63
+  },
+  {
+    "question": "Volt 13 eredeti állam. Nevezzen meg háromat.",
+    "number": 64
+  },
+  {
+    "question": "Mi történt az alkotmányozó gyűlésen?",
+    "number": 65
+  },
+  {
+    "question": "Mikor írták alá az Alkotmányt? (hu)",
+    "number": 66
+  },
+  {
+    "question": "A Federalista cikkek támogatták az Amerikai Egyesült Államok alkotmányának elfogadását. Nevezd meg az írók egyikét. (hu)",
+    "number": 67
+  },
+  {
+    "question": "Mi az az egy dolog, amiért Benjamin Franklin híres? (hu)",
+    "number": 68
+  },
+  {
+    "question": "Ki az Országunk Atyja?",
+    "number": 69
+  },
+  {
+    "question": "Ki volt az első elnök? (hu)",
+    "number": 70
+  },
+  {
+    "question": "Milyen területet vásárolt az Egyesült Államok Franciaországtól 1803-ban? (hu)",
+    "number": 71
+  },
+  {
+    "question": "Nevezzen meg egy háborút, melyet az Egyesült Államok vívott az 1800-as években? (hu)",
+    "number": 72
+  },
+  {
+    "question": "Mi volt az észak és dél közötti amerikai polgárháború neve az Egyesült Államokban?",
+    "number": 73
+  },
+  {
+    "question": "Nevezzen egy problémát, amely a polgárháborúhoz vezetett. (ISO kód: hu)",
+    "number": 74
+  },
+  {
+    "question": "Mi volt az az egy fontos dolog, amit Abraham Lincoln tett? (hu)",
+    "number": 75
+  },
+  {
+    "question": "Mi volt az Emancipation Proclamation hatása?",
+    "number": 76
+  },
+  {
+    "question": "Translation: Mit tett Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Nevezzen meg egy háborút, amelyet az Egyesült Államok vívott a 20. században!",
+    "number": 78
+  },
+  {
+    "question": "Ki volt az elnök az első világháború idején?",
+    "number": 79
+  },
+  {
+    "question": "Ki volt az elnök a Nagy Gazdasági Válság és a második világháború idején? (ISO code: hu)",
+    "number": 80
+  },
+  {
+    "question": "Kivel harcolt az Egyesült Államok a második világháború alatt?",
+    "number": 81
+  },
+  {
+    "question": "Mi volt Eisenhower elnökségének előtti pozíciója? Melyik háborúban vett részt? (hu)",
+    "number": 82
+  },
+  {
+    "question": "A hidegháború idején mi volt az Egyesült Államok fő aggódása?",
+    "number": 83
+  },
+  {
+    "question": "Melyik mozgalom próbálta megszüntetni a faji diszkriminációt?",
+    "number": 84
+  },
+  {
+    "question": "Miért volt ismert Martin Luther King Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Mi történt szeptember 11-én, 2001-ben az Egyesült Államokban? (hu)",
+    "number": 86
+  },
+  {
+    "question": "Nevezzen meg egy indián törzset az Amerikai Egyesült Államokban. (hu)",
+    "number": 87
+  },
+  {
+    "question": "Mi az Egyesült Államok két leghosszabb folyójának egyikének a neve? (hu)",
+    "number": 88
+  },
+  {
+    "question": "Melyik óceán található az Amerikai Egyesült Államok nyugati partján?",
+    "number": 89
+  },
+  {
+    "question": "Milyen óceán van az Amerikai Egyesült Államok keleti partvidékén? (ISO code: hu)",
+    "number": 90
+  },
+  {
+    "question": "Nevezzen meg egy amerikai területet.",
+    "number": 91
+  },
+  {
+    "question": "Nevezzen meg egy államot, amely határos Kanadával.",
+    "number": 92
+  },
+  {
+    "question": "Nevezzen meg egy államot, amely határos Mexikóval.",
+    "number": 93
+  },
+  {
+    "question": "Mi az Amerikai Egyesült Államok fővárosa?",
+    "number": 94
+  },
+  {
+    "question": "Hol található a Szabadság-szobor?",
+    "number": 95
+  },
+  {
+    "question": "Miért van a zászlón 13 csík?",
+    "number": 96
+  },
+  {
+    "question": "Miért van 50 csillag a zászlón? (hu)",
+    "number": 97
+  },
+  {
+    "question": "Mi a nemzeti himnusz neve? (hu)",
+    "number": 98
+  },
+  {
+    "question": "Nevezzen meg két amerikai nemzeti ünnepet.",
+    "number": 99
+  },
+  {
+    "question": "Mikor ünnepeljük az Függetlenség napját?",
+    "number": 100
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Quelle est la loi suprême du pays ?",
+    "number": 1
+  },
+  {
+    "question": "Que fait la Constitution ?",
+    "number": 2
+  },
+  {
+    "question": "L'idée d'autogouvernement est dans les trois premiers mots de la Constitution. Quels sont ces mots?",
+    "number": 3
+  },
+  {
+    "question": "Qu'est-ce qu'un amendement?",
+    "number": 4
+  },
+  {
+    "question": "Comment appelle-t-on les dix premiers amendements à la Constitution ?",
+    "number": 5
+  },
+  {
+    "question": "Quel est un droit ou une liberté garantie par le Premier Amendement ?",
+    "number": 6
+  },
+  {
+    "question": "Combien d'amendements la Constitution a-t-elle ?",
+    "number": 7
+  },
+  {
+    "question": "Que fait la Déclaration d'indépendance?",
+    "number": 8
+  },
+  {
+    "question": "Quels sont deux droits énoncés dans la Déclaration d'indépendance?",
+    "number": 9
+  },
+  {
+    "question": "Qu'est-ce que la liberté de religion ?",
+    "number": 10
+  },
+  {
+    "question": "Quel est le système économique aux États-Unis?",
+    "number": 11
+  },
+  {
+    "question": "Quelle est la règle de droit ?",
+    "number": 12
+  },
+  {
+    "question": "Nommez une branche ou une partie du gouvernement.",
+    "number": 13
+  },
+  {
+    "question": "Qu'est-ce qui empêche une branche du gouvernement de devenir trop puissante ?",
+    "number": 14
+  },
+  {
+    "question": "Qui est responsable de la branche exécutive ?",
+    "number": 15
+  },
+  {
+    "question": "Qui établit les lois fédérales ?",
+    "number": 16
+  },
+  {
+    "question": "Quelles sont les deux parties du Congrès des États-Unis ?",
+    "number": 17
+  },
+  {
+    "question": "Combien y a-t-il de sénateurs américains ?",
+    "number": 18
+  },
+  {
+    "question": "Pendant combien d'années élisons-nous un sénateur américain ?",
+    "number": 19
+  },
+  {
+    "question": "Qui est l'un des sénateurs américains de votre État en ce moment?",
+    "number": 20
+  },
+  {
+    "question": "La Chambre des représentants compte combien de membres votants ?",
+    "number": 21
+  },
+  {
+    "question": "Nous élisons un représentant des États-Unis pour combien d'années ?",
+    "number": 22
+  },
+  {
+    "question": "Nommez votre représentant américain.",
+    "number": 23
+  },
+  {
+    "question": "Qui représente un sénateur américain ?",
+    "number": 24
+  },
+  {
+    "question": "Pourquoi certains États ont-ils plus de représentants que d'autres États?",
+    "number": 25
+  },
+  {
+    "question": "Nous élisons un Président pour combien d'années ? (fr)",
+    "number": 26
+  },
+  {
+    "question": "En quel mois votons-nous pour le Président?",
+    "number": 27
+  },
+  {
+    "question": "Quel est le nom du président des États-Unis maintenant?",
+    "number": 28
+  },
+  {
+    "question": "Quel est le nom du Vice-Président des États-Unis actuellement?",
+    "number": 29
+  },
+  {
+    "question": "Si le Président ne peut plus servir, qui devient Président ?",
+    "number": 30
+  },
+  {
+    "question": "Si le Président et le Vice-Président ne peuvent plus remplir leur fonction, qui devient Président?",
+    "number": 31
+  },
+  {
+    "question": "Qui est le commandant en chef de l'armée ?",
+    "number": 32
+  },
+  {
+    "question": "Qui signe les projets de loi pour qu'ils deviennent des lois?",
+    "number": 33
+  },
+  {
+    "question": "Qui vétos les projets de loi ?",
+    "number": 34
+  },
+  {
+    "question": "Que fait le Cabinet du Président ?",
+    "number": 35
+  },
+  {
+    "question": "Quelles sont deux positions de niveau ministériel ?",
+    "number": 36
+  },
+  {
+    "question": "Que fait la branche judiciaire ?",
+    "number": 37
+  },
+  {
+    "question": "Quelle est la plus haute cour des États-Unis?",
+    "number": 38
+  },
+  {
+    "question": "Combien de juges y a-t-il à la Cour suprême ?",
+    "number": 39
+  },
+  {
+    "question": "Qui est actuellement le président de la Cour suprême des États-Unis ?",
+    "number": 40
+  },
+  {
+    "question": "Sous notre Constitution, certains pouvoirs appartiennent au gouvernement fédéral. Quel est un pouvoir du gouvernement fédéral?",
+    "number": 41
+  },
+  {
+    "question": "Sous notre Constitution, certains pouvoirs appartiennent aux États. Quel est un pouvoir des États ?",
+    "number": 42
+  },
+  {
+    "question": "Qui est le gouverneur de votre état maintenant ?",
+    "number": 43
+  },
+  {
+    "question": "Quelle est la capitale de votre état ?",
+    "number": 44
+  },
+  {
+    "question": "Quels sont les deux principaux partis politiques aux États-Unis ?",
+    "number": 45
+  },
+  {
+    "question": "Quel est le parti politique du Président actuel ?",
+    "number": 46
+  },
+  {
+    "question": "Quel est le nom du président de la Chambre des représentants actuellement ?",
+    "number": 47
+  },
+  {
+    "question": "Il y a quatre amendements à la Constitution sur qui peut voter. Décrivez-en un.",
+    "number": 48
+  },
+  {
+    "question": "Quelle est la responsabilité qui ne concerne que les citoyens des États-Unis?",
+    "number": 49
+  },
+  {
+    "question": "Quels sont les deux droits réservés aux citoyens des États-Unis seulement?",
+    "number": 50
+  },
+  {
+    "question": "Quels sont les deux droits que chaque personne vivant aux États-Unis possède?",
+    "number": 51
+  },
+  {
+    "question": "À quoi montrons-nous notre loyauté lorsque nous récitons le serment d'allégeance ?",
+    "number": 52
+  },
+  {
+    "question": "Quelle est la promesse que vous faites lorsque vous devenez citoyen des États-Unis ?",
+    "number": 53
+  },
+  {
+    "question": "Quel âge doivent avoir les citoyens pour voter pour le Président ?",
+    "number": 54
+  },
+  {
+    "question": "Quelles sont les deux façons dont les Américains peuvent participer à leur démocratie ?",
+    "number": 55
+  },
+  {
+    "question": "Quel est le dernier jour pour envoyer les formulaires de déclaration de revenus fédéraux?",
+    "number": 56
+  },
+  {
+    "question": "Quand tous les hommes doivent-ils s'inscrire au Service sélectif ?",
+    "number": 57
+  },
+  {
+    "question": "Quelle est une raison pour laquelle les colons sont venus en Amérique?",
+    "number": 58
+  },
+  {
+    "question": "Qui vivait en Amérique avant l'arrivée des Européens ?",
+    "number": 59
+  },
+  {
+    "question": "Quel groupe de personnes a été emmené en Amérique et vendu comme esclaves ?",
+    "number": 60
+  },
+  {
+    "question": "Pourquoi les colons ont-ils combattu les Britanniques?",
+    "number": 61
+  },
+  {
+    "question": "Qui a rédigé la Déclaration d'Indépendance ?",
+    "number": 62
+  },
+  {
+    "question": "Quand la Déclaration d'indépendance a-t-elle été adoptée?",
+    "number": 63
+  },
+  {
+    "question": "Il y avait 13 États originaux. Nommez-en trois.",
+    "number": 64
+  },
+  {
+    "question": "Qu'est-il arrivé lors de la Convention constitutionnelle ?",
+    "number": 65
+  },
+  {
+    "question": "Quand la Constitution a-t-elle été écrite ?",
+    "number": 66
+  },
+  {
+    "question": "Les \"Federalist Papers\" ont soutenu l'adoption de la Constitution des États-Unis. Nommez l'un des écrivains.",
+    "number": 67
+  },
+  {
+    "question": "Quelle est une chose pour laquelle Benjamin Franklin est célèbre ?",
+    "number": 68
+  },
+  {
+    "question": "Qui est le Père de notre pays ?",
+    "number": 69
+  },
+  {
+    "question": "Qui a été le premier président ?",
+    "number": 70
+  },
+  {
+    "question": "Quel territoire les États-Unis ont-ils acheté à la France en 1803 ?",
+    "number": 71
+  },
+  {
+    "question": "Nommez une guerre menée par les États-Unis dans les années 1800.",
+    "number": 72
+  },
+  {
+    "question": "Nommez la guerre américaine entre le Nord et le Sud.",
+    "number": 73
+  },
+  {
+    "question": "Nommez un problème qui a conduit à la guerre civile.",
+    "number": 74
+  },
+  {
+    "question": "Qu'est-ce qu'une chose importante qu'Abraham Lincoln ait faite ?",
+    "number": 75
+  },
+  {
+    "question": "Que fait la Proclamation d'émancipation?",
+    "number": 76
+  },
+  {
+    "question": "Que faisait Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Nommez une guerre combattue par les États-Unis au XXe siècle.",
+    "number": 78
+  },
+  {
+    "question": "Qui était le président durant la Première Guerre mondiale ?",
+    "number": 79
+  },
+  {
+    "question": "Qui était le président pendant la Grande Dépression et la Seconde Guerre mondiale?",
+    "number": 80
+  },
+  {
+    "question": "Qui a combattu les États-Unis pendant la Seconde Guerre mondiale ?",
+    "number": 81
+  },
+  {
+    "question": "Avant d'être président, Eisenhower était général. Dans quelle guerre était-il?",
+    "number": 82
+  },
+  {
+    "question": "Pendant la guerre froide, quelle était la principale préoccupation des États-Unis?",
+    "number": 83
+  },
+  {
+    "question": "Quel mouvement a tenté de mettre fin à la discrimination raciale ?",
+    "number": 84
+  },
+  {
+    "question": "Que fait Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Quel événement majeur s'est produit le 11 septembre 2001 aux États-Unis?",
+    "number": 86
+  },
+  {
+    "question": "Nommez une tribu amérindienne aux États-Unis.",
+    "number": 87
+  },
+  {
+    "question": "Nommez l'un des deux plus longs fleuves des États-Unis.",
+    "number": 88
+  },
+  {
+    "question": "Quel océan se trouve sur la côte ouest des États-Unis?",
+    "number": 89
+  },
+  {
+    "question": "Quel océan se trouve sur la côte Est des États-Unis ?",
+    "number": 90
+  },
+  {
+    "question": "Nommez un territoire des États-Unis.",
+    "number": 91
+  },
+  {
+    "question": "Nommez un État qui borde le Canada.",
+    "number": 92
+  },
+  {
+    "question": "Nommez un état qui borde le Mexique.",
+    "number": 93
+  },
+  {
+    "question": "Quelle est la capitale des États-Unis?",
+    "number": 94
+  },
+  {
+    "question": "Où se trouve la Statue de la Liberté ?",
+    "number": 95
+  },
+  {
+    "question": "Pourquoi le drapeau a-t-il 13 bandes?",
+    "number": 96
+  },
+  {
+    "question": "Pourquoi le drapeau a-t-il 50 étoiles ?",
+    "number": 97
+  },
+  {
+    "question": "Quel est le nom de l'hymne national ?",
+    "number": 98
+  },
+  {
+    "question": "Citez deux fêtes nationales américaines.",
+    "number": 99
+  },
+  {
+    "question": "Quand célébrons-nous la Journée de l'Indépendance ?",
+    "number": 100
+  }
+]

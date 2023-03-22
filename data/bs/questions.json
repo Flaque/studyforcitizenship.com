@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Koji je najviši zakon zemlje?",
+    "number": 1
+  },
+  {
+    "question": "Šta radi Ustav?",
+    "number": 2
+  },
+  {
+    "question": "Idea samouprave nalazi se u prvih tri riječi Ustava. Koje su to riječi? (ISO code: bs)",
+    "number": 3
+  },
+  {
+    "question": "Šta je amandman?",
+    "number": 4
+  },
+  {
+    "question": "Kako nazivamo prvih deset amandmana ustavu? (bs)",
+    "number": 5
+  },
+  {
+    "question": "Koje pravo ili sloboda iz Prvog amandmana?",
+    "number": 6
+  },
+  {
+    "question": "Koliko amandmana ima Ustav?",
+    "number": 7
+  },
+  {
+    "question": "Šta je Deklaracija nezavisnosti uradila? (Bosnian)",
+    "number": 8
+  },
+  {
+    "question": "Koja su dva prava navedena u Deklaraciji neovisnosti?",
+    "number": 9
+  },
+  {
+    "question": "Što je sloboda vjeroispovijesti?",
+    "number": 10
+  },
+  {
+    "question": "Koji je ekonomski sistem u Sjedinjenim Državama? (bs)",
+    "number": 11
+  },
+  {
+    "question": "Koji je zakon pravila?",
+    "number": 12
+  },
+  {
+    "question": "Navedite jednu granu ili dio vlade. (bs)",
+    "number": 13
+  },
+  {
+    "question": "Šta sprečava jednu granu vlasti da postane premoćna?",
+    "number": 14
+  },
+  {
+    "question": "Tko je nadležan za izvršnu granu?",
+    "number": 15
+  },
+  {
+    "question": "Ko donosi federalne zakone? (Bosnian)",
+    "number": 16
+  },
+  {
+    "question": "Koji su dijelovi američkog Kongresa?",
+    "number": 17
+  },
+  {
+    "question": "Koliko američkih senatora ima?",
+    "number": 18
+  },
+  {
+    "question": "Koliko godina biramo senatora SAD-a?",
+    "number": 19
+  },
+  {
+    "question": "Koja je od vaših državnih senatora sadašnjih zastupnika SAD-a? (bs)",
+    "number": 20
+  },
+  {
+    "question": "Koliko glasačkih članova ima Zastupnički dom? (bs)",
+    "number": 21
+  },
+  {
+    "question": "Koliko godina biramo predstavnika SAD-a?",
+    "number": 22
+  },
+  {
+    "question": "Nazovite svog predstavnika SAD-a.",
+    "number": 23
+  },
+  {
+    "question": "Koga predstavlja senator SAD-a?",
+    "number": 24
+  },
+  {
+    "question": "Zašto neke države imaju više predstavnika od drugih država?",
+    "number": 25
+  },
+  {
+    "question": "Koliko godina biramo predsjednika? (Note: This is in Bosnian, which uses the ISO code 'bs')",
+    "number": 26
+  },
+  {
+    "question": "U kojem mjesecu glasamo za predsjednika?",
+    "number": 27
+  },
+  {
+    "question": "Kako se zove predsjednik Sjedinjenih Američkih Država sada?",
+    "number": 28
+  },
+  {
+    "question": "Koje je ime aktualnog potpredsjednika Sjedinjenih Američkih Država?",
+    "number": 29
+  },
+  {
+    "question": "Ako predsjednik više ne može obavljati dužnost, tko postaje predsjednik? (bosnian)",
+    "number": 30
+  },
+  {
+    "question": "Ako predsjednik i potpredsjednik ne mogu služiti, tko postaje predsjednik?",
+    "number": 31
+  },
+  {
+    "question": "Ko je Vrhovni zapovjednik vojske?",
+    "number": 32
+  },
+  {
+    "question": "Tko potpisuje zakone da postanu zakoni? (Bosnian)",
+    "number": 33
+  },
+  {
+    "question": "Tko odbija zakone?",
+    "number": 34
+  },
+  {
+    "question": "Šta radi kabinet predsjednika?",
+    "number": 35
+  },
+  {
+    "question": "Koji su dva položaja na kabinetu? (bs)",
+    "number": 36
+  },
+  {
+    "question": "Šta radi sudski ogranak vlasti?",
+    "number": 37
+  },
+  {
+    "question": "Koja je najviša sud ujedinjenih država?",
+    "number": 38
+  },
+  {
+    "question": "Koliko pravosuđa ima u Vrhovnom sudu? (Note: 'bs' is Bosnian, so the translation may vary slightly in other variants of Serbo-Croatian)",
+    "number": 39
+  },
+  {
+    "question": "Tko je trenutni Glavni sudija Ujedinjenih Država? (bs)",
+    "number": 40
+  },
+  {
+    "question": "Pod ustavom, neke od ovlasti pripadaju saveznoj vladi. Koja je jedna ovlast savezne vlade?",
+    "number": 41
+  },
+  {
+    "question": "Pod našim ustavom, neke ovlasti pripadaju državama. Koja je jedna ovlast država? (bs)",
+    "number": 42
+  },
+  {
+    "question": "Tko je sada guverner vaše države?",
+    "number": 43
+  },
+  {
+    "question": "Koji je glavni grad vaše savezne države? (bs)",
+    "number": 44
+  },
+  {
+    "question": "Koje su dvije glavne političke stranke u Sjedinjenim Državama? (bs)",
+    "number": 45
+  },
+  {
+    "question": "Koja je politička stranka sadašnjeg predsjednika? (bs)",
+    "number": 46
+  },
+  {
+    "question": "Kako se zove trenutni predsjedavajući Doma predstavnika?",
+    "number": 47
+  },
+  {
+    "question": "Postoje četiri amandmana na Ustav o tome ko može glasati. Opisati jedan od njih.",
+    "number": 48
+  },
+  {
+    "question": "Koja je odgovornost koja vrijedi samo za državljane Sjedinjenih Američkih Država? (bs)",
+    "number": 49
+  },
+  {
+    "question": "Koja su dva prava samo za državljane Sjedinjenih Američkih Država? (bs)",
+    "number": 50
+  },
+  {
+    "question": "Koji su dva prava svakoga ko živi u Sjedinjenim Državama?",
+    "number": 51
+  },
+  {
+    "question": "Na što pokazujemo lojalnost kada izgovaramo Pledge of Allegiance? (bs)",
+    "number": 52
+  },
+  {
+    "question": "Koje je obećanje koje dajete kada postanete državljanin Sjedinjenih Američkih Država?",
+    "number": 53
+  },
+  {
+    "question": "Koliko godina državljani moraju imati da bi mogli glasati za predsjednika?",
+    "number": 54
+  },
+  {
+    "question": "Koja su dva načina na koja Amerikanci mogu sudjelovati u svojoj demokraciji?",
+    "number": 55
+  },
+  {
+    "question": "Kada je posljednji dan kada možete poslati federalne obrasce poreza na dohodak? (bs)",
+    "number": 56
+  },
+  {
+    "question": "Kada svi muškarci moraju registrirati za Selective Service?",
+    "number": 57
+  },
+  {
+    "question": "Koji je razlog dolaska kolonista u Ameriku?",
+    "number": 58
+  },
+  {
+    "question": "Ko je živio u Americi prije dolaska Evropljana?",
+    "number": 59
+  },
+  {
+    "question": "Koja grupa ljudi je odvedena u Ameriku i prodavana kao roblje? (Note: This is in Bosnian, which is the closest language match to 'bs' in our system)",
+    "number": 60
+  },
+  {
+    "question": "Zašto su kolonisti ratovali protiv Britanaca?",
+    "number": 61
+  },
+  {
+    "question": "Ko je napisao Deklaraciju neovisnosti?",
+    "number": 62
+  },
+  {
+    "question": "Kada je usvojena Deklaracija neovisnosti? (Bosnian)",
+    "number": 63
+  },
+  {
+    "question": "Postojala su 13 originalnih država. Navedite tri. (in Bosnian language with ISO code 'bs')",
+    "number": 64
+  },
+  {
+    "question": "Šta se dogodilo na Konvenciji o ustavu?",
+    "number": 65
+  },
+  {
+    "question": "Kada je napisana Ustav?",
+    "number": 66
+  },
+  {
+    "question": "Federalističke objave podržavale su donošenje Ustava SAD-a. Navedite jednog pisca. (bs)",
+    "number": 67
+  },
+  {
+    "question": "Šta je jedna stvar za koju je Benjamin Franklin poznat?",
+    "number": 68
+  },
+  {
+    "question": "Ko je Otac naše zemlje?",
+    "number": 69
+  },
+  {
+    "question": "Tko je bio prvi predsjednik?",
+    "number": 70
+  },
+  {
+    "question": "Koji teritorij su Sjedinjene Države kupile od Francuske 1803. godine?",
+    "number": 71
+  },
+  {
+    "question": "Navedite jedan rat koji je Sjedinjene Američke Države vodile u 1800-im godinama. (Language: bs)",
+    "number": 72
+  },
+  {
+    "question": "Nazovite američki rat između Sjevera i Juga.",
+    "number": 73
+  },
+  {
+    "question": "Navedite jedan problem koji je doveo do Građanskog rata.",
+    "number": 74
+  },
+  {
+    "question": "Šta je jedna važna stvar koju je Abraham Lincoln uradio?",
+    "number": 75
+  },
+  {
+    "question": "Šta je Emancipation Proclamation uradio?",
+    "number": 76
+  },
+  {
+    "question": "Šta je Susan B. Anthony uradila?",
+    "number": 77
+  },
+  {
+    "question": "Navedite jedan rat koji je Sjedinjene Američke Države vodile u 1900-ima. (Bosnian)",
+    "number": 78
+  },
+  {
+    "question": "Tko je bio predsjednik tijekom Prvog svjetskog rata? (Bosnian)",
+    "number": 79
+  },
+  {
+    "question": "Ko je bio predsjednik tijekom Velike depresije i Drugog svjetskog rata? (bs)",
+    "number": 80
+  },
+  {
+    "question": "S kim se Sjedinjene Američke Države borile u Drugom svjetskom ratu?",
+    "number": 81
+  },
+  {
+    "question": "Prije nego što je postao predsjednik, Eisenhower je bio general. U kojem ratu je sudjelovao? (Bosnian)",
+    "number": 82
+  },
+  {
+    "question": "Tijekom Hladnog rata, koja je bila glavna zabrinutost Sjedinjenih Država? (bs)",
+    "number": 83
+  },
+  {
+    "question": "Koji je pokret pokušao okončati rasnu diskriminaciju? (bs)",
+    "number": 84
+  },
+  {
+    "question": "Šta je Martin Luther King Jr. uradio?",
+    "number": 85
+  },
+  {
+    "question": "Koji je glavni događaj koji se dogodio 11. septembra 2001. godine u Sjedinjenim Američkim Državama?",
+    "number": 86
+  },
+  {
+    "question": "Navedi jedno pleme američkih Indijanaca u Sjedinjenim Državama.",
+    "number": 87
+  },
+  {
+    "question": "Navedite jednu od dvije najduže rijeke u Sjedinjenim Državama. (bs)",
+    "number": 88
+  },
+  {
+    "question": "Koja je okeanska obala na zapadnoj obali Sjedinjenih Država?",
+    "number": 89
+  },
+  {
+    "question": "Koje more je na istočnoj obali Sjedinjenih Država?",
+    "number": 90
+  },
+  {
+    "question": "Navedite jednu američku teritoriju.",
+    "number": 91
+  },
+  {
+    "question": "Navedite jednu državu koja graniči s Kanadom.",
+    "number": 92
+  },
+  {
+    "question": "Navedite jednu državu koja graniči s Meksikom.",
+    "number": 93
+  },
+  {
+    "question": "Koji je glavni grad Sjedinjenih Država?",
+    "number": 94
+  },
+  {
+    "question": "Gdje se nalazi Kip slobode?",
+    "number": 95
+  },
+  {
+    "question": "Zašto zastava ima 13 pruga?",
+    "number": 96
+  },
+  {
+    "question": "Zašto zastava ima 50 zvjezdica? (Bosnian)",
+    "number": 97
+  },
+  {
+    "question": "Koji je naziv nacionalne himne?",
+    "number": 98
+  },
+  {
+    "question": "Navedite dva nacionalna praznika SAD-a.",
+    "number": 99
+  },
+  {
+    "question": "Kada slavimo Dan nezavisnosti?",
+    "number": 100
+  }
+]

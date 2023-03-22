@@ -1,0 +1,402 @@
+[
+  {
+    "question": "什么是这片土地的最高法律？ (zh-cmn)",
+    "number": 1
+  },
+  {
+    "question": "宪法的作用是什么？",
+    "number": 2
+  },
+  {
+    "question": "《美国公民入籍考试》的问题翻译为ISO代码“zh-cmn”：\n\n《宪法》的前三个字是关于自治的想法。这三个字是什么？",
+    "number": 3
+  },
+  {
+    "question": "什么是修正案？",
+    "number": 4
+  },
+  {
+    "question": "我们把美国宪法的前十个修正案叫什么？ (zh-cmn)",
+    "number": 5
+  },
+  {
+    "question": "第一修正案中的一项权利或自由是什么？",
+    "number": 6
+  },
+  {
+    "question": "宪法有多少修正案？ (zh-cmn)",
+    "number": 7
+  },
+  {
+    "question": "《独立宣言》做了什么？",
+    "number": 8
+  },
+  {
+    "question": "《独立宣言》中有哪两项权利？",
+    "number": 9
+  },
+  {
+    "question": "什么是宗教自由？",
+    "number": 10
+  },
+  {
+    "question": "美国的经济制度是什么？",
+    "number": 11
+  },
+  {
+    "question": "什么是法治？",
+    "number": 12
+  },
+  {
+    "question": "提到政府的一個分支或部分。",
+    "number": 13
+  },
+  {
+    "question": "什么阻止政府的一个分支变得过于强大？ (zh-cmn)",
+    "number": 14
+  },
+  {
+    "question": "谁负责主管行政部门？",
+    "number": 15
+  },
+  {
+    "question": "谁制定联邦法律？",
+    "number": 16
+  },
+  {
+    "question": "美国国会由两部分组成是什么？",
+    "number": 17
+  },
+  {
+    "question": "有多少名美国参议员？",
+    "number": 18
+  },
+  {
+    "question": "我们要选举一位美国参议员，每届任期有多少年？ (zh-cmn)",
+    "number": 19
+  },
+  {
+    "question": "現在誰是您所在州的美國參議員之一？",
+    "number": 20
+  },
+  {
+    "question": "众议院有多少名投票成员？ (zh-cmn)",
+    "number": 21
+  },
+  {
+    "question": "我们选美国众议员任职几年？",
+    "number": 22
+  },
+  {
+    "question": "请问您的美国众议员是谁？",
+    "number": 23
+  },
+  {
+    "question": "美国参议员代表谁？ (Měiguó cān yì yuán dài biǎo shuí?)",
+    "number": 24
+  },
+  {
+    "question": "为什么有些州比其他州拥有更多的代表？",
+    "number": 25
+  },
+  {
+    "question": "我们选举总统要多少年？ (zh-cmn)",
+    "number": 26
+  },
+  {
+    "question": "我们在哪个月选总统？ (wǒmen zài nǎge yuè xuǎn zǒngtǒng?)",
+    "number": 27
+  },
+  {
+    "question": "现任美国总统的名字是什么？(zh-cmn)",
+    "number": 28
+  },
+  {
+    "question": "现任美国副总统的姓名是什么？ (Translated to zh-cmn)",
+    "number": 29
+  },
+  {
+    "question": "如果总统无法继续任职，谁将成为总统？",
+    "number": 30
+  },
+  {
+    "question": "如果总统和副总统都无法继续任职，谁将成为总统？ (zh-cmn)",
+    "number": 31
+  },
+  {
+    "question": "谁是军队的总司令？",
+    "number": 32
+  },
+  {
+    "question": "谁签署法案成为法律？",
+    "number": 33
+  },
+  {
+    "question": "谁否决法案？ (shéi fǒu jué fǎ'àn?)",
+    "number": 34
+  },
+  {
+    "question": "总统内阁的职责是什么？",
+    "number": 35
+  },
+  {
+    "question": "什么是两个内阁级别职位？ (zh-cmn)",
+    "number": 36
+  },
+  {
+    "question": "司法部门做什么？",
+    "number": 37
+  },
+  {
+    "question": "美国最高的法院是哪一个？ (zh-cmn)",
+    "number": 38
+  },
+  {
+    "question": "最高法院有多少法官？ (zùi gāo fǎ yuàn yǒu duō shǎo fǎ guān?)",
+    "number": 39
+  },
+  {
+    "question": "现在是谁担任美国首席大法官？ (Traditional Chinese: zh-cmn)",
+    "number": 40
+  },
+  {
+    "question": "根据我们的宪法，一些权力归联邦政府所有。联邦政府的一个权力是什么？",
+    "number": 41
+  },
+  {
+    "question": "根据我们的宪法，一些权力属于州。 州的一项权力是什么？",
+    "number": 42
+  },
+  {
+    "question": "你所在的州现任州长是谁？ (zh-cmn)",
+    "number": 43
+  },
+  {
+    "question": "你所在的州的首府是什么？",
+    "number": 44
+  },
+  {
+    "question": "美国有哪两个主要的政治党派？",
+    "number": 45
+  },
+  {
+    "question": "现任总统的政党是什么？",
+    "number": 46
+  },
+  {
+    "question": "现任众议院议长的名字是什么？ (Xìn rèn zòng yì yuàn yì zhǎng de míng zì shì shén me?)",
+    "number": 47
+  },
+  {
+    "question": "宪法有四项修正案涉及投票权，其中之一是什么？",
+    "number": 48
+  },
+  {
+    "question": "仅适用于美国公民的一项责任是什么？",
+    "number": 49
+  },
+  {
+    "question": "美国公民有哪两种权利？",
+    "number": 50
+  },
+  {
+    "question": "每个居住在美国的人都有哪两种权利？",
+    "number": 51
+  },
+  {
+    "question": "当我们宣誓效忠时，我们效忠于什么？",
+    "number": 52
+  },
+  {
+    "question": "当你成为美国公民时，你需要做出哪个承诺？",
+    "number": 53
+  },
+  {
+    "question": "公民投票选举总统需要年满多少岁？",
+    "number": 54
+  },
+  {
+    "question": "美国人可以通过哪两种方式参与民主进程？",
+    "number": 55
+  },
+  {
+    "question": "你可以寄送联邦所得税表格的最后一天是什么时候？",
+    "number": 56
+  },
+  {
+    "question": "何时所有男子必须注册征兵服务？ (Hé shí suǒ yǒu nánzǐ bìxū zhùcè zhēngbīng fúwù?)",
+    "number": 57
+  },
+  {
+    "question": "移民来到美国的一个原因是什么？",
+    "number": 58
+  },
+  {
+    "question": "欧洲人到来前，谁居住在美洲？",
+    "number": 59
+  },
+  {
+    "question": "什么族群被带到美国并被贩卖为奴隶？",
+    "number": 60
+  },
+  {
+    "question": "殖民者为什么要与英国人战斗？",
+    "number": 61
+  },
+  {
+    "question": "谁写了《独立宣言》？",
+    "number": 62
+  },
+  {
+    "question": "独立宣言是在什么时候通过的？",
+    "number": 63
+  },
+  {
+    "question": "有13个原始州，说出其中的三个。",
+    "number": 64
+  },
+  {
+    "question": "宪法公约上发生了什么事情？",
+    "number": 65
+  },
+  {
+    "question": "宪法是在什么时候写成的？",
+    "number": 66
+  },
+  {
+    "question": "联邦党人论文支持通过美国宪法。列出其中一位作者的名字。",
+    "number": 67
+  },
+  {
+    "question": "本杰明·富兰克林因什么事情而著名？",
+    "number": 68
+  },
+  {
+    "question": "谁是我们国家的国父？",
+    "number": 69
+  },
+  {
+    "question": "谁是第一任总统？ (shéi shì dì yī rèn zǒngtǒng?)",
+    "number": 70
+  },
+  {
+    "question": "美国在1803年从法国购买了哪个领土？\n\nTranslation: Měiguó zài 1803 nián cóng Fǎguó gòumǎi le nǎge lǐngtǔ?",
+    "number": 71
+  },
+  {
+    "question": "美国在19世纪打过哪一次战争？",
+    "number": 72
+  },
+  {
+    "question": "请问美国北南战争的名称是什么？",
+    "number": 73
+  },
+  {
+    "question": "列举一个导致内战发生的问题。",
+    "number": 74
+  },
+  {
+    "question": "亚伯拉罕·林肯所做的一件重要的事情是什么？ (Yàbólāhǎn Línkèn suǒ zuò de yī jiàn zhòngyào de shìqíng shì shénme?)",
+    "number": 75
+  },
+  {
+    "question": "《解放宣言》有何作用？",
+    "number": 76
+  },
+  {
+    "question": "苏珊·B·安东尼(Susan B. Anthony)做了什么？",
+    "number": 77
+  },
+  {
+    "question": "美国在1900年代打过哪场战争？",
+    "number": 78
+  },
+  {
+    "question": "第一次世界大战期间的总统是谁？",
+    "number": 79
+  },
+  {
+    "question": "谁是大萧条和第二次世界大战期间的总统？",
+    "number": 80
+  },
+  {
+    "question": "美国在第二次世界大战中与哪个国家作战？",
+    "number": 81
+  },
+  {
+    "question": "在成为总统之前，艾森豪威尔是一名将军。他参加了哪一场战争？",
+    "number": 82
+  },
+  {
+    "question": "在冷战期间，美国的主要关注点是什么？",
+    "number": 83
+  },
+  {
+    "question": "什麼運動試圖結束種族歧視？",
+    "number": 84
+  },
+  {
+    "question": "马丁·路德·金做了什么？",
+    "number": 85
+  },
+  {
+    "question": "2001年9月11日，在美国发生了什么重大事件？ (zh-cmn)",
+    "number": 86
+  },
+  {
+    "question": "美國有哪一個印第安部落？",
+    "number": 87
+  },
+  {
+    "question": "美国最长的两条河流中的一条是什么？",
+    "number": 88
+  },
+  {
+    "question": "美国西海岸靠哪个海洋？ (zh-cmn)",
+    "number": 89
+  },
+  {
+    "question": "美国东海岸靠近哪个海洋？",
+    "number": 90
+  },
+  {
+    "question": "列出一个美国的领土。",
+    "number": 91
+  },
+  {
+    "question": "列举一个与加拿大接壤的州名。",
+    "number": 92
+  },
+  {
+    "question": "列出一个与墨西哥接壤的州的名称。",
+    "number": 93
+  },
+  {
+    "question": "美国的首都是哪里？",
+    "number": 94
+  },
+  {
+    "question": "自由女神像在哪里？",
+    "number": 95
+  },
+  {
+    "question": "为什么国旗有13条条纹？ (zh-cmn)",
+    "number": 96
+  },
+  {
+    "question": "为什么旗帜上有50颗星？",
+    "number": 97
+  },
+  {
+    "question": "国歌的名称是什么？ (guó gē de míng chēng shì shén me?)",
+    "number": 98
+  },
+  {
+    "question": "说出来两个美国的国定假日。",
+    "number": 99
+  },
+  {
+    "question": "我们何时庆祝独立日？(Wǒmen hé shí zhèngfú dúlì rì?)",
+    "number": 100
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Mis on maa kõrgeima seaduse nimi? (ISO-kood 'et')",
+    "number": 1
+  },
+  {
+    "question": "Mida teeb konstitutsioon?",
+    "number": 2
+  },
+  {
+    "question": "Iseseisvuse idee on põhiseaduse esimeses kolmes sõnas. Mis need sõnad on? (ISO code: 'et')",
+    "number": 3
+  },
+  {
+    "question": "Mis on muudatusettepanek?",
+    "number": 4
+  },
+  {
+    "question": "Kuidas nimetatakse põhiseaduse esimest kümment muudatust? (et)",
+    "number": 5
+  },
+  {
+    "question": "Mis õigus või vabadus on Esimesest põhiseaduse lisanditest?",
+    "number": 6
+  },
+  {
+    "question": "Mitu muudatust on konstitutsioonil?",
+    "number": 7
+  },
+  {
+    "question": "Mida tegi Iseseisvusdeklaratsioon?",
+    "number": 8
+  },
+  {
+    "question": "Mis kaks õigust on Iseseisvusdeklaratsioonis?",
+    "number": 9
+  },
+  {
+    "question": "Mis on usuvabadus?",
+    "number": 10
+  },
+  {
+    "question": "Mis on majandussüsteem Ameerika Ühendriikides?",
+    "number": 11
+  },
+  {
+    "question": "Mis on õigusriigi põhimõte?",
+    "number": 12
+  },
+  {
+    "question": "Nimeta üks valitsuse haru või osa.",
+    "number": 13
+  },
+  {
+    "question": "Mida tehakse ühe võimu haru liiga võimsaks muutumise vältimiseks?",
+    "number": 14
+  },
+  {
+    "question": "Kes on täidesaatva haru juht?",
+    "number": 15
+  },
+  {
+    "question": "Kes võtab vastu föderaalseadusi?",
+    "number": 16
+  },
+  {
+    "question": "Millised on Ameerika Ühendriikide Kongressi kaks osa?",
+    "number": 17
+  },
+  {
+    "question": "Mitu USA senaatorit on?",
+    "number": 18
+  },
+  {
+    "question": "Kui palju aastaid valime USA senaatorit?",
+    "number": 19
+  },
+  {
+    "question": "Kes on teie osariigi USA senaatoritest praegu üks?",
+    "number": 20
+  },
+  {
+    "question": "Mitu liiget on Esindajatekogus hääletajaid? (Note: This is a phonetic translation using the closest possible characters in the Estonian alphabet. An accurate written Estonian translation would use specific diacritic marks that may not be widely available on all keyboards.)",
+    "number": 21
+  },
+  {
+    "question": "Mitu aastat valitakse USA esindajatekoja liikmeid? (et)",
+    "number": 22
+  },
+  {
+    "question": "Nimeta oma USA esindajat.",
+    "number": 23
+  },
+  {
+    "question": "Keda esindab USA senaator?",
+    "number": 24
+  },
+  {
+    "question": "Miks mõnedel osariikidel on rohkem esindajaid kui teistel osariikidel?",
+    "number": 25
+  },
+  {
+    "question": "Mitu aastalame valime presidendi?",
+    "number": 26
+  },
+  {
+    "question": "Millal me hääletame presidendi poolt? (Note: This is the Estonian translation of the question.)",
+    "number": 27
+  },
+  {
+    "question": "Mis on praegu Ühendriikide presidenti nimi?",
+    "number": 28
+  },
+  {
+    "question": "Mis on praegune Ameerika Ühendriikide asepresidendi nimi?",
+    "number": 29
+  },
+  {
+    "question": "Kui president ei saa enam teenida, kes saab presidendiks?",
+    "number": 30
+  },
+  {
+    "question": "Kui president ja asepresident ei saa enam teenida, siis kes saab presidendiks?",
+    "number": 31
+  },
+  {
+    "question": "Kes on militaarkaitse ülemjuhataja?",
+    "number": 32
+  },
+  {
+    "question": "Kes allkirjastab seaduseelnõud seadusteks saamiseks?",
+    "number": 33
+  },
+  {
+    "question": "Kes tõkestab seaduseelnõusid?",
+    "number": 34
+  },
+  {
+    "question": "Mida teeb presidentkonna kapp?",
+    "number": 35
+  },
+  {
+    "question": "Mis on kaks kabineti taseme ametikohta?",
+    "number": 36
+  },
+  {
+    "question": "Mida teeb kohtusüsteem?",
+    "number": 37
+  },
+  {
+    "question": "Mis on USA kõrgeim kohus?",
+    "number": 38
+  },
+  {
+    "question": "Mitu kohtunikku on Ülemkohtus? (Note: Language with ISO code 'et' is Estonian)",
+    "number": 39
+  },
+  {
+    "question": "Kes on nüüd Ameerika Ühendriikide ülemkohtunikuks?",
+    "number": 40
+  },
+  {
+    "question": "Põhiseaduse alusel kuulub föderaalvalitsusele mõningaid volitusi. Milline on üks föderaalvalitsuse volitustest?",
+    "number": 41
+  },
+  {
+    "question": "Meie põhiseaduse kohaselt kuuluvad mõned volitused osariikidele. Mis on üks võimu osariikidest?",
+    "number": 42
+  },
+  {
+    "question": "Kes on teie osariigi kuberner praegu?",
+    "number": 43
+  },
+  {
+    "question": "Mis on teie osariigi pealinn?",
+    "number": 44
+  },
+  {
+    "question": "Mis on kaks peamist poliitilist parteid Ameerika Ühendriikides?",
+    "number": 45
+  },
+  {
+    "question": "Mis erakond on praegusel presidendil?",
+    "number": 46
+  },
+  {
+    "question": "Mis on esindajatekoja spiikri nimi praegu?",
+    "number": 47
+  },
+  {
+    "question": "On neli muudatust konstitutsioonis, mis reguleerivad valimisõigust. Kirjeldage üht neist.",
+    "number": 48
+  },
+  {
+    "question": "Mis kohustus on ainult Ameerika Ühendriikide kodanikel?",
+    "number": 49
+  },
+  {
+    "question": "Mis kaks õigust on ainult Ameerika Ühendriikide kodanikel?",
+    "number": 50
+  },
+  {
+    "question": "Mis on kaks õigust kõigile, kes elavad Ameerika Ühendriikides?",
+    "number": 51
+  },
+  {
+    "question": "Millele meie truudust avaldame, kui ütleme Loyalismivanne?",
+    "number": 52
+  },
+  {
+    "question": "Mis lubadusi annate, kui saate Ameerika Ühendriikide kodanikuks?",
+    "number": 53
+  },
+  {
+    "question": "Kui vana peavad kodanikud olema presidendivalimistel hääletamiseks?",
+    "number": 54
+  },
+  {
+    "question": "Mis kaks võimalust on ameeriklastel osaleda oma demokraatias?",
+    "number": 55
+  },
+  {
+    "question": "Millal on viimane päev, mil saate esitada föderaalse tulumaksudeklaratsioonid?",
+    "number": 56
+  },
+  {
+    "question": "Millal peavad kõik mehed end Valikulise Teeninduse jaoks registreerima?",
+    "number": 57
+  },
+  {
+    "question": "Mis üks põhjus oli, miks kolonistid Ameerikasse tulid?",
+    "number": 58
+  },
+  {
+    "question": "Kes elasid Ameerikas enne eurooplaste saabumist?",
+    "number": 59
+  },
+  {
+    "question": "Millise rühma inimesi viidi Ameerikasse ja müüdi orjadena?",
+    "number": 60
+  },
+  {
+    "question": "Miks kolonistid võitlesid brittide vastu?",
+    "number": 61
+  },
+  {
+    "question": "Kes kirjutas iseseisvusdeklaratsiooni?",
+    "number": 62
+  },
+  {
+    "question": "Millal võeti vastu iseseisvusdeklaratsioon?",
+    "number": 63
+  },
+  {
+    "question": "Olid osariigi. Nimetage kolm.",
+    "number": 64
+  },
+  {
+    "question": "Mis juhtus põhiseaduslikul konvendil?",
+    "number": 65
+  },
+  {
+    "question": "Millal kirjutati põhiseadus?",
+    "number": 66
+  },
+  {
+    "question": "Ameerika Ühendriikide kodakondsuse testi küsimus oleks järgmine: Föderalistlikud paberid toetasid USA konstitutsiooni vastuvõtmist. Nimetage üks autoritest.",
+    "number": 67
+  },
+  {
+    "question": "Mille poolest on Benjamin Franklin kuulus? (Note: This is the translation of the question into Estonian, which has the ISO code 'et'.)",
+    "number": 68
+  },
+  {
+    "question": "Kes on meie riigi isa?",
+    "number": 69
+  },
+  {
+    "question": "Kes oli esimene president?",
+    "number": 70
+  },
+  {
+    "question": "Millist territooriumi ostis Ameerika Ühendriigid Prantsusmaalt 1803. aastal?",
+    "number": 71
+  },
+  {
+    "question": "Nimeta üks sõda, mida USA võitles 1800ndatel aastatel.",
+    "number": 72
+  },
+  {
+    "question": "Nimeta USA sõda põhja ja lõuna vahel.",
+    "number": 73
+  },
+  {
+    "question": "Nime üks probleem, mis viis kodusõjani?",
+    "number": 74
+  },
+  {
+    "question": "Mis oli üks tähtis asi, mida Abraham Lincoln tegi?",
+    "number": 75
+  },
+  {
+    "question": "Mida tegi vabastusproklamatsioon?",
+    "number": 76
+  },
+  {
+    "question": "Mida Susan B. Anthony tegi?",
+    "number": 77
+  },
+  {
+    "question": "Nimeta üks sõda, mida Ühendriigid võitlesid 1900. aastatel.",
+    "number": 78
+  },
+  {
+    "question": "Kes oli president Esimese maailmasõja ajal?",
+    "number": 79
+  },
+  {
+    "question": "Kes oli suure depressiooni ja Teise maailmasõja ajal president? (Estonian)",
+    "number": 80
+  },
+  {
+    "question": "Kes oli USA vastane Teises maailmasõjas?",
+    "number": 81
+  },
+  {
+    "question": "Enne kui ta oli president, oli Eisenhower kindral. Millises sõjas ta osales?",
+    "number": 82
+  },
+  {
+    "question": "Külm sõda ajal oli mida peamine muret tekitasid Ameerika Ühendriigid?",
+    "number": 83
+  },
+  {
+    "question": "Milline liikumine püüdis lõpetada rassilist diskrimineerimist?",
+    "number": 84
+  },
+  {
+    "question": "Mida tegi Martin Luther King juunior?",
+    "number": 85
+  },
+  {
+    "question": "Mis suur sündmus juhtus 11. septembril 2001. aastal Ameerika Ühendriikides?",
+    "number": 86
+  },
+  {
+    "question": "Nimeta üks Ameerika indiaani hõim Ameerika Ühendriikides.",
+    "number": 87
+  },
+  {
+    "question": "Nimeta üks kahest pikimast jõest Ameerika Ühendriikides.",
+    "number": 88
+  },
+  {
+    "question": "Milline ookean asub Ameerika Ühendriikide läänerannikul? (ISO keel: et)",
+    "number": 89
+  },
+  {
+    "question": "Milline ookean on Ameerika Ühendriikide idarannikul?",
+    "number": 90
+  },
+  {
+    "question": "Nimeta üks USA ala.",
+    "number": 91
+  },
+  {
+    "question": "Nime üks osariik, mis piirneb Kanadaga.",
+    "number": 92
+  },
+  {
+    "question": "Nimeta USA osariik, mis piirneb Mehhikoga.",
+    "number": 93
+  },
+  {
+    "question": "Mis on Ameerika Ühendriikide pealinn?",
+    "number": 94
+  },
+  {
+    "question": "Kus seisab Vabadussammas?",
+    "number": 95
+  },
+  {
+    "question": "Miks on lipul 13 triipu?",
+    "number": 96
+  },
+  {
+    "question": "Miks lipul on 50 tähte?",
+    "number": 97
+  },
+  {
+    "question": "Mis on rahvushümni nimi?",
+    "number": 98
+  },
+  {
+    "question": "Nimeta kaks Ameerika Ühendriikide rahvuspüha.",
+    "number": 99
+  },
+  {
+    "question": "Millal me tähistame iseseisvuspäeva?",
+    "number": 100
+  }
+]

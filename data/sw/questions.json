@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Ni sheria kuu ya nchi? (ISO code: sw)",
+    "number": 1
+  },
+  {
+    "question": "Je, Katiba inafanya nini?",
+    "number": 2
+  },
+  {
+    "question": "Wazo la serikali ya ndani linaonekana katika maneno matatu ya kwanza ya Katiba. Ni maneno gani haya?",
+    "number": 3
+  },
+  {
+    "question": "Nini marekebisho?",
+    "number": 4
+  },
+  {
+    "question": "Tunaiti ya kwanza kumi ya Katiba huitwaje? (sw)",
+    "number": 5
+  },
+  {
+    "question": "Je, ni haki moja au uhuru kutoka kwa Amendment ya kwanza? (sw)",
+    "number": 6
+  },
+  {
+    "question": "Je! Katiba ina marekebisho mangapi?",
+    "number": 7
+  },
+  {
+    "question": "Je! Ilitenda Tamko la Uhuru nini?",
+    "number": 8
+  },
+  {
+    "question": "Je! Ni haki mbili katika Tamko la Uhuru? (ISO code: sw)",
+    "number": 9
+  },
+  {
+    "question": "Je! Ni nini uhuru wa dini?",
+    "number": 10
+  },
+  {
+    "question": "Ni vipi mfumo wa kiuchumi nchini Marekani?",
+    "number": 11
+  },
+  {
+    "question": "Je, ni nini kifungu cha sheria?",
+    "number": 12
+  },
+  {
+    "question": "Taja angalau tawi la serikali. (Note: 'sw' represents Swahili language)",
+    "number": 13
+  },
+  {
+    "question": "\"Nini kinachozuia tawi moja la serikali kuwa mwenye nguvu sana?\"",
+    "number": 14
+  },
+  {
+    "question": "Ni nani anayesimamia tawi la utendaji? (Swahili)",
+    "number": 15
+  },
+  {
+    "question": "Nani hufanya sheria za shirikisho?",
+    "number": 16
+  },
+  {
+    "question": "Ni sehemu gani mbili za Bunge la Marekani? (ISO code: sw)",
+    "number": 17
+  },
+  {
+    "question": "Kuna maseneta wangapi wa Marekani?",
+    "number": 18
+  },
+  {
+    "question": "Kwa miaka mingapi tunamchagua Seneta wa Marekani?",
+    "number": 19
+  },
+  {
+    "question": "Ni nani kati ya maseneta wa Marekani katika jimbo lako sasa?",
+    "number": 20
+  },
+  {
+    "question": "Nyumba ya Wawakilishi ina wajane wangapi wanaopiga kura? (sw)",
+    "number": 21
+  },
+  {
+    "question": "Tunachagua mwakilishi wa Marekani kwa miaka mingapi?",
+    "number": 22
+  },
+  {
+    "question": "Jina la mwakilishi wako wa Marekani.",
+    "number": 23
+  },
+  {
+    "question": "Mwakilishi wa Seneti ya Marekani anawakilisha nani?",
+    "number": 24
+  },
+  {
+    "question": "Kwa nini baadhi ya majimbo yana wawakilishi zaidi kuliko majimbo mengine?",
+    "number": 25
+  },
+  {
+    "question": "Tunasomea Rais kwa miaka mingapi?",
+    "number": 26
+  },
+  {
+    "question": "Mwezi gani tunapiga kura kumchagua Rais? (ISO code: sw)",
+    "number": 27
+  },
+  {
+    "question": "\"Rais wa Marekani sasa anaitwa nani?\"",
+    "number": 28
+  },
+  {
+    "question": "\"Nani jina la Makamu wa Rais wa Marekani sasa?\"",
+    "number": 29
+  },
+  {
+    "question": "Ikiwa Rais hawezi kuhudumu tena, nani anakuwa Rais? (Language: sw)",
+    "number": 30
+  },
+  {
+    "question": "Ikiwa Rais na Makamu wa Rais hawawezi kuendelea kuhudumu, nani anakuwa Rais?",
+    "number": 31
+  },
+  {
+    "question": "Ni nani Mkuu wa Kamanda wa kijeshi? (sw)",
+    "number": 32
+  },
+  {
+    "question": "Ni nani huwa anasaini miswada kuwa sheria?",
+    "number": 33
+  },
+  {
+    "question": "\"Nani hufuta miswada?\"",
+    "number": 34
+  },
+  {
+    "question": "Je, Baraza la Rais linawajibu gani?",
+    "number": 35
+  },
+  {
+    "question": "Je! Ni wadhifa wa kiwango cha Baraza la Mawaziri ni upi? (sw)",
+    "number": 36
+  },
+  {
+    "question": "Je, tawi la kisheria linawajibika kufanya nini? (sw)",
+    "number": 37
+  },
+  {
+    "question": "Ni mahakama kuu ya juu zaidi nchini Marekani? (sw)",
+    "number": 38
+  },
+  {
+    "question": "Ni majaji wangapi wapo kwenye Mahakama Kuu? (sw)",
+    "number": 39
+  },
+  {
+    "question": "Ni nani Mkuu wa Sheria wa Marekani sasa hivi?",
+    "number": 40
+  },
+  {
+    "question": "Chini ya Katiba yetu, baadhi ya mamlaka ni ya serikali ya shirikisho. Ni mamlaka ya shirikisho moja?",
+    "number": 41
+  },
+  {
+    "question": "Chini ya Katiba yetu, baadhi ya nguvu ni ya majimbo. Ni nguvu gani ya majimbo?",
+    "number": 42
+  },
+  {
+    "question": "Ni nani Gavana wa jimbo lako sasa hivi?",
+    "number": 43
+  },
+  {
+    "question": "Ni mji mkuu wa jimbo lako? (Note: Assuming \"sw\" refers to Swahili)",
+    "number": 44
+  },
+  {
+    "question": "Ni chama kikuu cha kisiasa katika Marekani? (Note: 'sw' is the ISO code for Swahili)",
+    "number": 45
+  },
+  {
+    "question": "Ni chama gani cha kisiasa cha Rais sasa hivi?",
+    "number": 46
+  },
+  {
+    "question": "Ni jina la Spika wa Bunge ya Wawakilishi kwa sasa?",
+    "number": 47
+  },
+  {
+    "question": "Kuna marekebisho manne kwenye Katiba kuhusu nani anaruhusiwa kupiga kura. Eleza mojawapo. (sw)",
+    "number": 48
+  },
+  {
+    "question": "Ni wajibu gani ambao ni kwa raia wa Marekani pekee?",
+    "number": 49
+  },
+  {
+    "question": "Ni haki mbili zinazopatikana kwa raia wa Marekani pekee?",
+    "number": 50
+  },
+  {
+    "question": "Je, ni haki gani za kila mtu anayeishi Marekani?",
+    "number": 51
+  },
+  {
+    "question": "Tunapoonesha uaminifu kwa nini tunaposema Kiapo cha Utii? (sw)",
+    "number": 52
+  },
+  {
+    "question": "Nini ahadi moja unayofanya unapokuwa raia wa Marekani? (sw)",
+    "number": 53
+  },
+  {
+    "question": "Je! Raia wanapaswa kuwa na miaka mingapi ili kupiga kura kwa Rais? (sw)",
+    "number": 54
+  },
+  {
+    "question": "Ni njia mbili ambazo Wamarekani wanaweza kushiriki katika demokrasia yao?",
+    "number": 55
+  },
+  {
+    "question": "Lini ya mwisho ni ipi ambayo unaweza kutuma fomu za kodi ya mapato ya shirikisho? (sw)",
+    "number": 56
+  },
+  {
+    "question": "Lini gani lazima wanaume wote wajisajili kwa Huduma ya Uteuzi?",
+    "number": 57
+  },
+  {
+    "question": "Je, ni sababu moja ambayo wakoloni walikuja Amerika?",
+    "number": 58
+  },
+  {
+    "question": "Nani aliishi Marekani kabla ya Wazungu kufika?",
+    "number": 59
+  },
+  {
+    "question": "Kundi la watu lilichukuliwa kwenda Marekani na kuuzwa kama watumwa? (sw)",
+    "number": 60
+  },
+  {
+    "question": "Kwa nini wakazi walipigana na Waingereza? (ISO code: sw)",
+    "number": 61
+  },
+  {
+    "question": "Nani aliyeandika Tamko la Uhuru?",
+    "number": 62
+  },
+  {
+    "question": "Lini ya uhuru ilipitishwa lini? (Note: This is Swahili, which is different from the ISO code 'sw', which stands for the Swazi language.)",
+    "number": 63
+  },
+  {
+    "question": "Kulikuwa na majimbo 13 ya awali. Taja matatu.",
+    "number": 64
+  },
+  {
+    "question": "Kilichotokea kwenye Mkutano wa Katiba?",
+    "number": 65
+  },
+  {
+    "question": "Lini Katiba iliandikwa?",
+    "number": 66
+  },
+  {
+    "question": "Karatasi za Federalist zilisaidia kupitishwa kwa Katiba ya Marekani. Andika jina la mwandishi mmoja.",
+    "number": 67
+  },
+  {
+    "question": "Moja kitu ambacho Benjamin Franklin anajulikana nacho?",
+    "number": 68
+  },
+  {
+    "question": "Ni nani Baba wa Nchi Yetu?",
+    "number": 69
+  },
+  {
+    "question": "Ni nani alikuwa Rais wa kwanza? (sw)",
+    "number": 70
+  },
+  {
+    "question": "Ardhi gani la Ufaransa lililonunuliwa na Marekani mwaka wa 1803 ni lipi?",
+    "number": 71
+  },
+  {
+    "question": "Je! Unaweza kutaja vita moja iliyopiganiwa na Marekani katika karne ya 19? (ISO code: sw)",
+    "number": 72
+  },
+  {
+    "question": "Niitaje vita vya Marekani kati ya Kaskazini na Kusini.",
+    "number": 73
+  },
+  {
+    "question": "Taja moja iliyosababisha Vita vya Wenyewe kwa Wenyewe ni ipi? (sw)",
+    "number": 74
+  },
+  {
+    "question": "Je! Ni nini muhimu Abraham Lincoln alifanya? (sw)",
+    "number": 75
+  },
+  {
+    "question": "Je! Kuna maneno ya Emancipation yalifanya nini? (Swahili)",
+    "number": 76
+  },
+  {
+    "question": "\"Nini alichofanya Susan B. Anthony?\"",
+    "number": 77
+  },
+  {
+    "question": "Taja angalau vita moja iliyopiganiwa na Marekani katika karne ya 1900.",
+    "number": 78
+  },
+  {
+    "question": "\"Nani alikuwa Rais wakati wa Vita vya Kwanza vya Dunia?\"",
+    "number": 79
+  },
+  {
+    "question": "\"Nani alikuwa Rais wakati wa Mzozo Mkuu na Vita vya Pili vya Dunia?\" (sw)",
+    "number": 80
+  },
+  {
+    "question": "\"Nchi gani Marekani ilipigana nayo katika Vita vya Pili vya Dunia?\"",
+    "number": 81
+  },
+  {
+    "question": "Kabla hajawa rais, Eisenhower alikuwa jenerali. Alikuwa katika vita gani?",
+    "number": 82
+  },
+  {
+    "question": "Wakati wa Vita Baridi, wasiwasi mkuu wa Marekani ulikuwa nini? (sw)",
+    "number": 83
+  },
+  {
+    "question": "Swahili: Harakati gani ilijaribu kumaliza ubaguzi wa rangi?",
+    "number": 84
+  },
+  {
+    "question": "\"Walifanya nini Martin Luther King, Jr.?\" (Note: this is Swahili, which has the ISO code \"sw\".)",
+    "number": 85
+  },
+  {
+    "question": "Je, tukio kubwa lilifanyika Septemba 11, 2001, nchini Marekani?",
+    "number": 86
+  },
+  {
+    "question": "Taja angalau ya kabila la Wahindi wa Marekani.",
+    "number": 87
+  },
+  {
+    "question": "Taja moja kati ya mito miwili mirefu zaidi nchini Marekani.",
+    "number": 88
+  },
+  {
+    "question": "Bahari lipi liko upande wa magharibi wa Marekani? (sw)",
+    "number": 89
+  },
+  {
+    "question": "Bahari gani iko upande wa Mashariki wa Marekani?",
+    "number": 90
+  },
+  {
+    "question": "Taja eneo moja la MAREKANI.",
+    "number": 91
+  },
+  {
+    "question": "Taja jimbo moja linalopakana na Kanada.",
+    "number": 92
+  },
+  {
+    "question": "Taja jina la jimbo moja ambalo linapakana na Mexiko.",
+    "number": 93
+  },
+  {
+    "question": "Ni kitovu cha Marekani?",
+    "number": 94
+  },
+  {
+    "question": "\"Wapi kuna sanamu ya uhuru?\"",
+    "number": 95
+  },
+  {
+    "question": "Kwa nini bendera ina mistari 13? (Language: Swahili / ISO code: sw)",
+    "number": 96
+  },
+  {
+    "question": "Kwa nini bendera ina nyota 50?",
+    "number": 97
+  },
+  {
+    "question": "\"Ni jina la wimbo wa taifa?\"",
+    "number": 98
+  },
+  {
+    "question": "Taja moja ya kitaifa ya Marekani ni ipi?",
+    "number": 99
+  },
+  {
+    "question": "Tunapokelea Siku ya Uhuru lini?",
+    "number": 100
+  }
+]

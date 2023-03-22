@@ -1,0 +1,402 @@
+[
+  {
+    "question": "最高法律是什麼？ (simplified Chinese)",
+    "number": 1
+  },
+  {
+    "question": "憲法有什麼作用？",
+    "number": 2
+  },
+  {
+    "question": "《自由法案》的前三个字包含了自我管理的概念，请问它们是什么？",
+    "number": 3
+  },
+  {
+    "question": "改正案是什麼？ (in Traditional Chinese, written form) \n\n改正案是什么？(in Simplified Chinese, written form)\n\ngoi2 zing3on3 hai6 sam6maan6? (in Cantonese, spoken form using Jyutping romanization)",
+    "number": 4
+  },
+  {
+    "question": "我哋用乜嘢名稱叫做憲法嘅前十條修正案？(zh-yue)",
+    "number": 5
+  },
+  {
+    "question": "第一修正案賦予了哪一個權利或自由？",
+    "number": 6
+  },
+  {
+    "question": "憲法有多少修改案？",
+    "number": 7
+  },
+  {
+    "question": "獨立宣言有什麼作用？ (zh-yue)",
+    "number": 8
+  },
+  {
+    "question": "申報獨立宣言中有兩項權利是什麼？",
+    "number": 9
+  },
+  {
+    "question": "宗教自由是什麼意思？",
+    "number": 10
+  },
+  {
+    "question": "美國嘅經濟體系係咩？",
+    "number": 11
+  },
+  {
+    "question": "法治是什麼？ (faat3 ji6 hai6 sam1mo1?)",
+    "number": 12
+  },
+  {
+    "question": "請提供政府的一個分支或部分。 (Translated by a language model, please double-check the accuracy)",
+    "number": 13
+  },
+  {
+    "question": "有什麼可以防止政府中某一個部門過於強大的機制？",
+    "number": 14
+  },
+  {
+    "question": "誰負責行政部門？ (Translated in Chinese language with the ISO code 'zh-yue')",
+    "number": 15
+  },
+  {
+    "question": "誰制定聯邦法律？",
+    "number": 16
+  },
+  {
+    "question": "美國國會由兩個部分組成是什麼？",
+    "number": 17
+  },
+  {
+    "question": "有多少美國參議員？",
+    "number": 18
+  },
+  {
+    "question": "我們選舉一名美國參議員要幾年？ (zh-yue)",
+    "number": 19
+  },
+  {
+    "question": "你的州现在有哪个美国参议员？ (zh-yue)",
+    "number": 20
+  },
+  {
+    "question": "眾議院有多少位有表決權的成員？",
+    "number": 21
+  },
+  {
+    "question": "我哋會選一名美國眾議院議員任職幾年？ (zh-yue)",
+    "number": 22
+  },
+  {
+    "question": "你的美國眾議員叫什麼名字？",
+    "number": 23
+  },
+  {
+    "question": "美國參議員代表誰？ (Měiguó cān yì yuán dài biǎo shéi?)",
+    "number": 24
+  },
+  {
+    "question": "為什麼有些州的代表比其他州的代表更多？",
+    "number": 25
+  },
+  {
+    "question": "我哋點樣嘅間隔改選一位總統？ (Note: This is in Cantonese, which uses the ISO language code 'zh-yue'.)",
+    "number": 26
+  },
+  {
+    "question": "我哋喺咩月份投票選舉總統？",
+    "number": 27
+  },
+  {
+    "question": "而家美國總統嘅名叫啥？",
+    "number": 28
+  },
+  {
+    "question": "現時美國的副總統名叫什麼？",
+    "number": 29
+  },
+  {
+    "question": "如果总统无法继续任职，谁将成为总统？\n\n(Simplified Chinese: 如果总统无法继续任职，谁将成为总统？; Traditional Chinese: 如果總統無法繼續任職，誰將成為總統？; ISO code for Cantonese: zh-yue)",
+    "number": 30
+  },
+  {
+    "question": "如果總統和副總統都無法擔任職務，誰將成為總統？",
+    "number": 31
+  },
+  {
+    "question": "誰是軍隊的最高統帥？",
+    "number": 32
+  },
+  {
+    "question": "誰簽署法案變成法律？ (Cantonese Chinese)",
+    "number": 33
+  },
+  {
+    "question": "誰否決議案？ (Written in Traditional Chinese, which is the writing system used for Cantonese, a dialect of Chinese commonly referred to as 'zh-yue')",
+    "number": 34
+  },
+  {
+    "question": "總統內閣的職責是什麼？",
+    "number": 35
+  },
+  {
+    "question": "兩個內閣級別的職位是什麼？",
+    "number": 36
+  },
+  {
+    "question": "司法機構的職責是什麼？",
+    "number": 37
+  },
+  {
+    "question": "美國最高法院係咩？",
+    "number": 38
+  },
+  {
+    "question": "最高法院有多少大法官？ (zh-yue)",
+    "number": 39
+  },
+  {
+    "question": "現在是誰是美國最高法院首席大法官？",
+    "number": 40
+  },
+  {
+    "question": "根據我們的憲法，聯邦政府擁有某些權力。聯邦政府的一個權力是什麼？",
+    "number": 41
+  },
+  {
+    "question": "依據我們的憲法，有些權力屬於各州。請問各州當中至少有哪一項權力？",
+    "number": 42
+  },
+  {
+    "question": "現在你的州長是誰？ (literal translation: \"Who is the governor of your state now?\")",
+    "number": 43
+  },
+  {
+    "question": "你所在州的首府是什么？ (Note: This translation is written in Cantonese Chinese, also known as \"zh-yue\" according to ISO code.)",
+    "number": 44
+  },
+  {
+    "question": "美國有哪兩個主要的政黨？",
+    "number": 45
+  },
+  {
+    "question": "現在總統所屬的政黨是什麼？",
+    "number": 46
+  },
+  {
+    "question": "家議院代表的現任議長名字是什麼？ (zh-yue)",
+    "number": 47
+  },
+  {
+    "question": "憲法有四個修正案涉及誰有權投票。請描述其中之一。",
+    "number": 48
+  },
+  {
+    "question": "美國公民應盡的一項責任是什麼？",
+    "number": 49
+  },
+  {
+    "question": "美國公民有哪兩項權利？",
+    "number": 50
+  },
+  {
+    "question": "所有居住在美國的人都有哪兩種權利？",
+    "number": 51
+  },
+  {
+    "question": "當我們宣誓效忠時，我們向哪裡表達效忠？",
+    "number": 52
+  },
+  {
+    "question": "當您成為美國公民時，您做出的承諾之一是什麼？",
+    "number": 53
+  },
+  {
+    "question": "市民投票選舉總統須年滿多少歲？(zh-yue)",
+    "number": 54
+  },
+  {
+    "question": "美國人可以以哪兩種方式參與民主？",
+    "number": 55
+  },
+  {
+    "question": "你可以寄交聯邦所得稅表的最後日期是什麼？",
+    "number": 56
+  },
+  {
+    "question": "所有男性何時必須進行選拔服役註冊？",
+    "number": 57
+  },
+  {
+    "question": "殖民地來美國的原因之一是什麼？",
+    "number": 58
+  },
+  {
+    "question": "歐洲人到達前，誰居住在美洲？",
+    "number": 59
+  },
+  {
+    "question": "那些被帶到美國並被賣為奴隸的人是哪一群族裔？",
+    "number": 60
+  },
+  {
+    "question": "殖民者為什麼要與英國人戰鬥？",
+    "number": 61
+  },
+  {
+    "question": "誰撰寫了獨立宣言? (Written in Traditional Chinese, which is commonly used in Hong Kong and Macau)",
+    "number": 62
+  },
+  {
+    "question": "獨立宣言何時被採納？",
+    "number": 63
+  },
+  {
+    "question": "有13個原州。請列舉其中三個。(zh-yue)",
+    "number": 64
+  },
+  {
+    "question": "宪法公约上发生了什么事情？ (zh-yue)",
+    "number": 65
+  },
+  {
+    "question": "憲法是何時編寫的？",
+    "number": 66
+  },
+  {
+    "question": "《聯邦論文》支持通過美國憲法。 命名一位作家。",
+    "number": 67
+  },
+  {
+    "question": "喺美國公民嘅考試入面，有一條題目問「本傑明·富蘭克林因為咩而出名？」。",
+    "number": 68
+  },
+  {
+    "question": "我國的父親是誰？ (Translated in Traditional Chinese)",
+    "number": 69
+  },
+  {
+    "question": "誰是第一任總統？(séui sì dai yāt yùhn júngtóng?)",
+    "number": 70
+  },
+  {
+    "question": "美國於 1803 年從法國購買了哪些領土？",
+    "number": 71
+  },
+  {
+    "question": "美國在19世紀參與了哪一場戰爭？",
+    "number": 72
+  },
+  {
+    "question": "請問美國南北戰爭又稱為什麼戰爭？",
+    "number": 73
+  },
+  {
+    "question": "有哪一個問題導致了南北戰爭？ (Note: this is Cantonese, which is the dialect most commonly associated with zh-yue ISO code)",
+    "number": 74
+  },
+  {
+    "question": "亞伯拉罕·林肯做的一件重要的事情是什麼？ (Yaa bou laam hon lam kan jouh dik jat heung dik si jing si ma?)",
+    "number": 75
+  },
+  {
+    "question": "解放宣言做了什麼？ (jyutping: gaai3 fong3 syun1 gin3 zou6 le1 sam1?)",
+    "number": 76
+  },
+  {
+    "question": "蘇珊·B·安東尼 (Susan B. Anthony) 做了什麼？ (Translated to Cantonese)",
+    "number": 77
+  },
+  {
+    "question": "美國在1900年代打過哪一場戰爭？",
+    "number": 78
+  },
+  {
+    "question": "第一次世界大战期间是哪位总统？ (zh-yue)",
+    "number": 79
+  },
+  {
+    "question": "大蕭條和第二次世界大戰期間的總統是誰？",
+    "number": 80
+  },
+  {
+    "question": "美國在二戰中和誰作戰？ (Traditional Chinese written form)",
+    "number": 81
+  },
+  {
+    "question": "在成为总统之前，艾森豪威尔是将军。他参加了哪场战争？ (zh-yue)",
+    "number": 82
+  },
+  {
+    "question": "喺冷戰期間，美國嘅主要擔憂係咩？",
+    "number": 83
+  },
+  {
+    "question": "乘機試圖結束種族歧視的運動是什麼？ (Translated from English: \"What movement tried to end racial discrimination?\")",
+    "number": 84
+  },
+  {
+    "question": "馬丁·路德·金(Jr.) 做了什麼？ (Written in Traditional Chinese, the closest writing system to the Cantonese language used in Hong Kong, which corresponds to the ISO code 'zh-yue')",
+    "number": 85
+  },
+  {
+    "question": "2001年9月11日，美國發生了什麼重大事件？",
+    "number": 86
+  },
+  {
+    "question": "美國有哪一個印第安部落？",
+    "number": 87
+  },
+  {
+    "question": "美國兩條最長的河流之一。",
+    "number": 88
+  },
+  {
+    "question": "美國西海岸靠近哪個海洋？",
+    "number": 89
+  },
+  {
+    "question": "美國東岸面向哪個海洋？",
+    "number": 90
+  },
+  {
+    "question": "請列舉一個美國領土。",
+    "number": 91
+  },
+  {
+    "question": "名一個與加拿大接壤的洲。",
+    "number": 92
+  },
+  {
+    "question": "九州中有哪一州與墨西哥毗鄰？",
+    "number": 93
+  },
+  {
+    "question": "美國嘅首都係邊個？",
+    "number": 94
+  },
+  {
+    "question": "自由女神像喺邊度呀？",
+    "number": 95
+  },
+  {
+    "question": "為什麼國旗有13條條紋？",
+    "number": 96
+  },
+  {
+    "question": "為什麼國旗上有50顆星星？ (zh-yue)",
+    "number": 97
+  },
+  {
+    "question": "國歌嘅名叫咩？",
+    "number": 98
+  },
+  {
+    "question": "你可以說出兩個美國的國定假日嗎？",
+    "number": 99
+  },
+  {
+    "question": "我哋為獨立日慶祝嘅時間係幾時？",
+    "number": 100
+  }
+]

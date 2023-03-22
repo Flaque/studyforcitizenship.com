@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Wat is de hoogste wet van het land? (ISO code: nl)",
+    "number": 1
+  },
+  {
+    "question": "Wat doet de Grondwet?",
+    "number": 2
+  },
+  {
+    "question": "Het idee van zelfbestuur staat in de eerste drie woorden van de Grondwet. Wat zijn deze woorden?",
+    "number": 3
+  },
+  {
+    "question": "Wat is een amendement?",
+    "number": 4
+  },
+  {
+    "question": "Hoe noemen we de eerste tien amendementen van de grondwet?",
+    "number": 5
+  },
+  {
+    "question": "Wat is één recht of vrijheid uit het Eerste Amendement?",
+    "number": 6
+  },
+  {
+    "question": "Hoeveel amendementen heeft de grondwet?",
+    "number": 7
+  },
+  {
+    "question": "Wat deed de Declaration of Independence?",
+    "number": 8
+  },
+  {
+    "question": "Wat zijn twee rechten in de Onafhankelijkheidsverklaring?",
+    "number": 9
+  },
+  {
+    "question": "Wat is vrijheid van godsdienst?",
+    "number": 10
+  },
+  {
+    "question": "Wat is het economische systeem in de Verenigde Staten?",
+    "number": 11
+  },
+  {
+    "question": "Wat is de rechtsstaat?",
+    "number": 12
+  },
+  {
+    "question": "Noem een ​​tak of onderdeel van de overheid. (nl-NL)",
+    "number": 13
+  },
+  {
+    "question": "Wat voorkomt dat één tak van de regering te machtig wordt?",
+    "number": 14
+  },
+  {
+    "question": "Wie is verantwoordelijk voor de uitvoerende macht?",
+    "number": 15
+  },
+  {
+    "question": "Wie maakt federale wetten?",
+    "number": 16
+  },
+  {
+    "question": "Wat zijn de twee delen van het Amerikaanse Congres?",
+    "number": 17
+  },
+  {
+    "question": "Hoeveel Amerikaanse senatoren zijn er?",
+    "number": 18
+  },
+  {
+    "question": "Hoeveel jaar kiezen we een Amerikaanse senator in de VS? (nl)",
+    "number": 19
+  },
+  {
+    "question": "Wie is een van de Amerikaanse senatoren van uw staat op dit moment?",
+    "number": 20
+  },
+  {
+    "question": "Hoeveel stemmende leden heeft het Huis van Afgevaardigden?",
+    "number": 21
+  },
+  {
+    "question": "Hoeveel jaar kiezen we een Amerikaanse vertegenwoordiger?",
+    "number": 22
+  },
+  {
+    "question": "Wat is de naam van jouw vertegenwoordiger in de Verenigde Staten?",
+    "number": 23
+  },
+  {
+    "question": "Wie vertegenwoordigt een Amerikaanse senator?",
+    "number": 24
+  },
+  {
+    "question": "Waarom hebben sommige staten meer afgevaardigden dan andere staten?",
+    "number": 25
+  },
+  {
+    "question": "Hoeveel jaar kiezen wij een President?",
+    "number": 26
+  },
+  {
+    "question": "In welke maand stemmen we voor de president?",
+    "number": 27
+  },
+  {
+    "question": "Wat is de naam van de president van de Verenigde Staten op dit moment?",
+    "number": 28
+  },
+  {
+    "question": "Wat is de naam van de Vice President van de Verenigde Staten op dit moment?",
+    "number": 29
+  },
+  {
+    "question": "Als de President niet langer kan dienen, wie wordt dan President?",
+    "number": 30
+  },
+  {
+    "question": "Als zowel de president als de vicepresident niet langer hun functie kunnen uitoefenen, wie wordt er dan president?",
+    "number": 31
+  },
+  {
+    "question": "Wie is de opperbevelhebber van het leger?",
+    "number": 32
+  },
+  {
+    "question": "Wie ondertekent wetsvoorstellen om wetten te worden?",
+    "number": 33
+  },
+  {
+    "question": "Wie keurt wetten af?",
+    "number": 34
+  },
+  {
+    "question": "Wat doet het kabinet van de president?",
+    "number": 35
+  },
+  {
+    "question": "Wat zijn twee posities op kabinetsniveau?",
+    "number": 36
+  },
+  {
+    "question": "Wat doet de rechterlijke tak?",
+    "number": 37
+  },
+  {
+    "question": "Wat is het hoogste gerechtshof in de Verenigde Staten?",
+    "number": 38
+  },
+  {
+    "question": "Hoeveel rechters zijn er in het Hooggerechtshof?",
+    "number": 39
+  },
+  {
+    "question": "Wie is op dit moment de opperrechter van de Verenigde Staten?",
+    "number": 40
+  },
+  {
+    "question": "Onder onze Grondwet behoren sommige bevoegdheden tot de federale overheid. Wat is één macht van de federale overheid?",
+    "number": 41
+  },
+  {
+    "question": "Onder onze Grondwet behoren sommige bevoegdheden tot de staten. Wat is een macht van de staten?",
+    "number": 42
+  },
+  {
+    "question": "Wie is de gouverneur van uw staat nu?",
+    "number": 43
+  },
+  {
+    "question": "Wat is de hoofdstad van jouw staat?",
+    "number": 44
+  },
+  {
+    "question": "Wat zijn de twee belangrijkste politieke partijen in de Verenigde Staten?",
+    "number": 45
+  },
+  {
+    "question": "Wat is de politieke partij van de President op dit moment?",
+    "number": 46
+  },
+  {
+    "question": "Wat is de naam van de voorzitter van het Huis van Afgevaardigden nu?",
+    "number": 47
+  },
+  {
+    "question": "Er zijn vier wijzigingen in de Grondwet over wie kan stemmen. Beschrijf er een. (nl)",
+    "number": 48
+  },
+  {
+    "question": "Wat is één verantwoordelijkheid die alleen voor Amerikaanse burgers geldt?",
+    "number": 49
+  },
+  {
+    "question": "Wat zijn twee rechten die alleen voor burgers van de Verenigde Staten gelden?",
+    "number": 50
+  },
+  {
+    "question": "Wat zijn twee rechten van iedereen die in de Verenigde Staten woont?",
+    "number": 51
+  },
+  {
+    "question": "Naar wat tonen wij loyaliteit wanneer wij de Eed van Trouw afleggen?",
+    "number": 52
+  },
+  {
+    "question": "Wat is een belofte die u maakt wanneer u een Amerikaans staatsburger wordt?",
+    "number": 53
+  },
+  {
+    "question": "Hoe oud moeten burgers zijn om te stemmen voor de president?",
+    "number": 54
+  },
+  {
+    "question": "Wat zijn twee manieren waarop Amerikanen kunnen deelnemen aan hun democratie?",
+    "number": 55
+  },
+  {
+    "question": "Wanneer is de laatste dag waarop u federale belastingformulieren kunt indienen?",
+    "number": 56
+  },
+  {
+    "question": "Wanneer moeten alle mannen zich registreren voor de Selective Service?",
+    "number": 57
+  },
+  {
+    "question": "Wat is één reden waarom kolonisten naar Amerika kwamen?",
+    "number": 58
+  },
+  {
+    "question": "Wie leefde er in Amerika voordat de Europeanen arriveerden?",
+    "number": 59
+  },
+  {
+    "question": "Welke groep mensen werd naar Amerika gebracht en als slaven verkocht? (nl)",
+    "number": 60
+  },
+  {
+    "question": "Waarom vochten de kolonisten tegen de Britten?",
+    "number": 61
+  },
+  {
+    "question": "Wie schreef de Onafhankelijkheidsverklaring?",
+    "number": 62
+  },
+  {
+    "question": "Wanneer werd de Onafhankelijkheidsverklaring aangenomen?",
+    "number": 63
+  },
+  {
+    "question": "Er waren 13 oorspronkelijke staten. Noem er drie.",
+    "number": 64
+  },
+  {
+    "question": "Wat gebeurde er tijdens de Constitutionele Conventie?",
+    "number": 65
+  },
+  {
+    "question": "Wanneer is de grondwet geschreven?",
+    "number": 66
+  },
+  {
+    "question": "De Federalist Papers steunden de invoering van de Amerikaanse grondwet. Noem een van de schrijvers.",
+    "number": 67
+  },
+  {
+    "question": "Waar staat Benjamin Franklin vooral om bekend?",
+    "number": 68
+  },
+  {
+    "question": "Wie is de Vader van ons land?",
+    "number": 69
+  },
+  {
+    "question": "Wie was de eerste President?",
+    "number": 70
+  },
+  {
+    "question": "Welk gebied kocht de Verenigde Staten van Frankrijk in 1803? (nl)",
+    "number": 71
+  },
+  {
+    "question": "Noem één oorlog die de Verenigde Staten in de 19e eeuw hebben gevochten.",
+    "number": 72
+  },
+  {
+    "question": "Noem de Amerikaanse oorlog tussen het Noorden en het Zuiden.",
+    "number": 73
+  },
+  {
+    "question": "Wat is één probleem dat leidde tot de Burgeroorlog?",
+    "number": 74
+  },
+  {
+    "question": "Wat was één belangrijk ding dat Abraham Lincoln deed?",
+    "number": 75
+  },
+  {
+    "question": "Wat deed de Emancipation Proclamation?",
+    "number": 76
+  },
+  {
+    "question": "Wat heeft Susan B. Anthony gedaan?",
+    "number": 77
+  },
+  {
+    "question": "Geef de naam van één oorlog waarin de Verenigde Staten vochten in de 20e eeuw.",
+    "number": 78
+  },
+  {
+    "question": "Wie was de president tijdens de Eerste Wereldoorlog?",
+    "number": 79
+  },
+  {
+    "question": "Wie was president tijdens de Grote Depressie en de Tweede Wereldoorlog?",
+    "number": 80
+  },
+  {
+    "question": "Met wie vocht de Verenigde Staten in de Tweede Wereldoorlog?",
+    "number": 81
+  },
+  {
+    "question": "Voor hij president was, was Eisenhower een generaal. In welke oorlog vocht hij? \n\n(Dutch/nl)",
+    "number": 82
+  },
+  {
+    "question": "Tijdens de Koude Oorlog, wat was de belangrijkste zorg van de Verenigde Staten? (nl)",
+    "number": 83
+  },
+  {
+    "question": "Welke beweging probeerde raciale discriminatie te beëindigen?",
+    "number": 84
+  },
+  {
+    "question": "Wat deed Martin Luther King Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Welk belangrijk evenement vond plaats op 11 september 2001 in de Verenigde Staten?",
+    "number": 86
+  },
+  {
+    "question": "Noem één Amerikaanse inheemse stam in de Verenigde Staten.",
+    "number": 87
+  },
+  {
+    "question": "Noem één van de twee langste rivieren in de Verenigde Staten.",
+    "number": 88
+  },
+  {
+    "question": "Welke oceaan ligt aan de westkust van de Verenigde Staten?",
+    "number": 89
+  },
+  {
+    "question": "Welke oceaan bevindt zich aan de oostkust van de Verenigde Staten?",
+    "number": 90
+  },
+  {
+    "question": "Noem één Amerikaans grondgebied.",
+    "number": 91
+  },
+  {
+    "question": "Noem één staat die grenst aan Canada.",
+    "number": 92
+  },
+  {
+    "question": "Noem een staat die grenst aan Mexico.",
+    "number": 93
+  },
+  {
+    "question": "Wat is de hoofdstad van de Verenigde Staten?",
+    "number": 94
+  },
+  {
+    "question": "Waar staat het Vrijheidsbeeld?",
+    "number": 95
+  },
+  {
+    "question": "Waarom heeft de vlag 13 strepen?",
+    "number": 96
+  },
+  {
+    "question": "Waarom heeft de vlag 50 sterren?",
+    "number": 97
+  },
+  {
+    "question": "Wat is de naam van het nationale volkslied?",
+    "number": 98
+  },
+  {
+    "question": "Noem twee nationale Amerikaanse feestdagen.",
+    "number": 99
+  },
+  {
+    "question": "Wanneer vieren we Onafhankelijkheidsdag?",
+    "number": 100
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "ದೇಶದ ಸರ್ವೋಚ್ಚ ನ್ಯಾಯ ನಿಯಮವೇನು? (kn)",
+    "number": 1
+  },
+  {
+    "question": "ಸಂವಿಧಾನವು ಏನು ಮಾಡುತ್ತದೆ? (Kannada)",
+    "number": 2
+  },
+  {
+    "question": "\"Constitution\"ನ ಮೊದಲ ಮೂರು ಪದಗಳು ಸ್ವಾಯತ್ತ ಸರ್ಕಾರದ ಕಲ್ಪನೆಯನ್ನು ಒಳಗೊಂಡಿದೆ. ಇವು ಯಾವುವು?",
+    "number": 3
+  },
+  {
+    "question": "ಒಂದು ಸಂಶೋಧನೆ ಎಂದರೆ ಏನು? (Kannada)",
+    "number": 4
+  },
+  {
+    "question": "ಸಂವಿಧಾನದ ಮೊದಲ ಹತ್ತು ಸಂಶೋಧನೆಗಳನ್ನು ನಾವು ಏನೆನ್ನುವುದು?",
+    "number": 5
+  },
+  {
+    "question": "Kannada: ಮೊದಲನೆಯ ಸಂಶೋಧನೆಯಿಂದ ಒಂದು ಹಕ್ಕು ಅಥವಾ ಸ್ವಾತಂತ್ರ್ಯವು ಯಾವುದು?",
+    "number": 6
+  },
+  {
+    "question": "ಸಂವಿಧಾನದಲ್ಲಿ ಎಷ್ಟು ಸಂಶೋಧನೆಗಳಿವೆ?",
+    "number": 7
+  },
+  {
+    "question": "ಘಟನೆ ಸ್ವಾತಂತ್ರ್ಯದ ಘೋಷಣೆ ಯಾವುದನ್ನು ಮಾಡಿತು? (kn)",
+    "number": 8
+  },
+  {
+    "question": "ಸ್ವಾತಂತ್ರ್ಯ ಘೋಷಣೆಯಲ್ಲಿರುವ ಎರಡು ಹಕ್ಕುಗಳು ಯಾವುವು?",
+    "number": 9
+  },
+  {
+    "question": "ಧರ್ಮದ ಸ್ವಾತಂತ್ರ್ಯ ಯಾವುದು? (Kannada, kn)",
+    "number": 10
+  },
+  {
+    "question": "ಅಮೆರಿಕದಲ್ಲಿ ಆರ್ಥಿಕ ವ್ಯವಸ್ಥೆ ಯಾವುದು? (kn)",
+    "number": 11
+  },
+  {
+    "question": "ನ್ಯಾಯ ನಿಯಮದೆಡೆಗೆ ಕರೆದೊಯ್ಯುವ ಪ್ರಶ್ನೆ:",
+    "number": 12
+  },
+  {
+    "question": "ಸರ್ಕಾರದ ಒಂದು ಶಾಖೆ ಅಥವಾ ಭಾಗವನ್ನು ಹೆಸರಿಸಿ.",
+    "number": 13
+  },
+  {
+    "question": "ಒಂದು ಶಾಖೆಯು ಅತ್ಯಧಿಕ ಶಕ್ತಿವಂತವಾಗುವುದನ್ನು ಯಾವುದು ತಡೆದುಕೊಳ್ಳುತ್ತದೆ? (Kannada)",
+    "number": 14
+  },
+  {
+    "question": "ವ್ಯವಹಾರಿಕ ಶಾಖೆಯ ಕ್ಕೆ ಯಾರು ಹೊಣೆಗಾರರು? (Written in the Kannada language with ISO code 'kn')",
+    "number": 15
+  },
+  {
+    "question": "Yuwa federal garo lanchanu? (kn)",
+    "number": 16
+  },
+  {
+    "question": "ಯುಎಸ್ ಕಾಂಗ್ರೆಸ್ ಎರಡು ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆಯೇನು?",
+    "number": 17
+  },
+  {
+    "question": "ಎಷ್ಟು ಅಮೇರಿಕನ್ ಸೆನೆಟರ್ಗಳಿವರು? (kn)",
+    "number": 18
+  },
+  {
+    "question": "ನಾವು ಎಷ್ಟು ವರ್ಷಗಳವರೆಗೆ ಅಮೆರಿಕದ ಸೆನೆಟರನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತೇವೆ? (kn)",
+    "number": 19
+  },
+  {
+    "question": "ನಿಮ್ಮ ರಾಜ್ಯದ ಒಬ್ಬ U.S ಸೆನೆಟರ್ ಯಾವಾಗಲೂ ಯಾರೋ?",
+    "number": 20
+  },
+  {
+    "question": "The House of Representatives has how many voting members? (This cannot be translated to 'kn' as ISO code 'kn' does not correspond to any language.)",
+    "number": 21
+  },
+  {
+    "question": "ನಮೂದುಮಾಡುವ ಕಾಲವಾದ ಅಮೆರಿಕದ ಪ್ರತಿನಿಧಿಯೊಬ್ಬರನ್ನು ಎಷ್ಟು ವರ್ಷಗಳಿಗೆ ಆಯ್ಕೆ ಮಾಡುವರು? (kn)",
+    "number": 22
+  },
+  {
+    "question": "ನಿಮ್ಮ ಅಮೆರಿಕದ ಪ್ರತಿನಿಧಿಯ ಹೆಸರು ಹೇಳಿ.",
+    "number": 23
+  },
+  {
+    "question": "US ನಾಗರಿಕತೆ ಪರೀಕ್ಷೆಯಿಂದ ಈ ಪ್ರಶ್ನೆಯನ್ನು ISO ಕೋಡಿನಲ್ಲಿರುವ ಭಾಷೆಗೆ ಅನುವಾದಿಸಿರಿ: 'kn':\n\nಯುಎಸ್ ಸೆನೆಟರ್ ಯಾವ ವ್ಯಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ?",
+    "number": 24
+  },
+  {
+    "question": "ಕೆ.ಎನ್: ಕೆಲವು ರಾಜ್ಯಗಳಲ್ಲಿ ಮತ್ತುತ್ತರ ರಾಜ್ಯಗಳಿಗಿಂತ ಹೆಚ್ಚಿನ ಪ್ರತಿನಿಧಿಗಳಿವೆಯೇಕೆ?",
+    "number": 25
+  },
+  {
+    "question": "ನಾವು ಎಷ್ಟು ವರ್ಷ ರಾಷ್ಟ್ರಪತಿಯನ್ನು ಆರಿಸುತ್ತೇವೆ? (kn)",
+    "number": 26
+  },
+  {
+    "question": "ನಮನೆ ಪ್ರೆಸಿಡೆಂಟ್ ಮೇಲೆ ನಾವು ಯಾವ ತಿಂಗಳಲ್ಲಿ ಮತದಾನ ಮಾಡುತ್ತೇವೆ? (Translation in Kannada, ISO code: kn)",
+    "number": 27
+  },
+  {
+    "question": "ಇತ್ತೀಚಿನ ಅಮೆರಿಕನ್ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ಅಧ್ಯಕ್ಷರ ಹೆಸರೇನು? (kn)",
+    "number": 28
+  },
+  {
+    "question": "ಇಂದು ಕ್ರಮಾಗತ ರಾಜ್ಯಗಳ ಉಪರಾಷ್ಟ್ರಪತಿಯ ಹೆಸರೇನು? (kn)",
+    "number": 29
+  },
+  {
+    "question": "President hō duṇyā maḍīla nē kōḍpuḍavadēḷēralē, yāru Pradhanamaṇtri āguvaṇṭu?",
+    "number": 30
+  },
+  {
+    "question": "ರಾಷ್ಟ್ರಪತಿ ಹಾಗೂ ಉಪರಾಷ್ಟ್ರಪತಿ ಎರಡೂ ಸೇವೆ ನೀಡಲು ಸಾಧ್ಯವಿಲ್ಲದಿದ್ದರೆ ಯಾರು ರಾಷ್ಟ್ರಪತಿಯಾಗುತ್ತಾರೆ? (ISO code for 'kn' is Kannada)",
+    "number": 31
+  },
+  {
+    "question": "ಮಿಲಿಟರಿನ ಆಣೆಕರ್ತನಾದ ಯಾರು? (kn)",
+    "number": 32
+  },
+  {
+    "question": "ಯಾವ ವ್ಯಕ್ತಿಯು ವಿಧಿಗಳನ್ನು ಕಟ್ಟಿಸಿಕೊಳ್ಳುವಂತೆ ಬಿಲ್ಲುಗಳನ್ನು ಸೈನ್ ಮಾಡುತ್ತಾರೆ? (Translation: Who signs bills to become laws?)",
+    "number": 33
+  },
+  {
+    "question": "ಪ್ರಕಟಿಸಲು ಯಾರು ಪೆಟ್ಟಿಗೆಗಳನ್ನು ತಿರಸ್ಕರಿಸುತ್ತಾರೆ? (kn)",
+    "number": 34
+  },
+  {
+    "question": "ರಾಷ್ಟ್ರಪತಿಗೆ ಸಿಬಿಐಯ ನೇತೃತ್ವದಲ್ಲಿ ಏನು ಮಾಡುತ್ತದೆ? (kn)",
+    "number": 35
+  },
+  {
+    "question": "ಎರಡು ಕ್ಯಾಬಿನೆಟ್ ಸ್ತರದ ಹುದ್ದೆಗಳು ಏನು?",
+    "number": 36
+  },
+  {
+    "question": "ನ್ಯಾಯಾಲಯ ಶಾಖೆಯು ಏನು ಮಾಡುತ್ತದೆ?",
+    "number": 37
+  },
+  {
+    "question": "ಅಮೆರಿಕಾದ ಮೇಲಿನ ನ್ಯಾಯಾಧಿಪತಿಸ್ಥಾನ ಯಾವುದು? (kn)",
+    "number": 38
+  },
+  {
+    "question": "Supreme Court 'na justices eshté ki sa??'",
+    "number": 39
+  },
+  {
+    "question": "US citizenship testನಲ್ಲಿ ಈ ಪ್ರಶ್ನೆಯನ್ನು ISO ಕೋಡ್ ಹೊಂದಿರುವ ಭಾಷೆಗೆ ಅನುವಾದಿಸಿ: 'kn':\n\nಈಗ ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಅಧಿಕೃತ ನ್ಯಾಯಾಧಿಪತಿ ಯಾರು?",
+    "number": 40
+  },
+  {
+    "question": "ನಮ್ಮ ಸಂವಿಧಾನದಲ್ಲಿ, ಕೆಲವು ಶಕ್ತಿಗಳು ಸಂಸ್ಥಾನ ಸರ್ಕಾರಕ್ಕೆ ಸೇರಿವೆ. ಸಂಸ್ಥಾನ ಸರ್ಕಾರದ ಒಂದು ಶಕ್ತಿಯೇನು?",
+    "number": 41
+  },
+  {
+    "question": "ನಮ್ಮ ಸಂವಿಧಾನದ ಅಧೀನದಲ್ಲಿ, ಕೆಲವು ಶಕ್ತಿಗಳು ರಾಜ್ಯಗಳಿಗೆ ಸೇರಿವೆ. ರಾಜ್ಯಗಳ ಒಂದು ಶಕ್ತಿಯೇನು?",
+    "number": 42
+  },
+  {
+    "question": "Nimagu deshadhikara iddira ino?",
+    "number": 43
+  },
+  {
+    "question": "ನೀವು ವಸತಿದೇಶದ ರಾಜಧಾನಿ ಯಾವುದು?",
+    "number": 44
+  },
+  {
+    "question": "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದಲ್ಲಿ ಎರಡು ಪ್ರಮುಖ ರಾಜಕೀಯ ದಲಗಳು ಯಾವುವು?",
+    "number": 45
+  },
+  {
+    "question": "\"ಪ್ರೆಸಿಡೆಂಟ್ ಈಗಾಗಲೇ ಯಾವ ರಾಜಕೀಯ ಪಕ್ಷದವರು?\" (Kannada)",
+    "number": 46
+  },
+  {
+    "question": "ಈಗ ಮನೆಯ ಪ್ರತಿನಿಧಿ ಸಭೆಯ ಮಾತುಕತೆಗಾರನ ಹೆಸರೇನು?",
+    "number": 47
+  },
+  {
+    "question": "ಯಾರು ಮತದಾನ ಮಾಡಬಹುದು ಎಂಬ ಬಗ್ಗೆ ಸಂವಿಧಾನಕ್ಕೆ ನಾಲ್ಕು ಸಂಶೋಧನೆಗಳಿವೆ. ಅವುಗಲ್ಲಿ ಒಂದನ್ನು ವಿವರಿಸಿ.",
+    "number": 48
+  },
+  {
+    "question": "\"ಯಾವುದೋ ಒಂದು ಮುಖ್ಯವಾದ ಹೊಣೆ ಅಮೆರಿಕನ್ ನಾಗರಿಕರಿಗೆ ಮಾತ್ರ ಇದೆ ಎಂದು ತಿಳಿಯಲು?\"",
+    "number": 49
+  },
+  {
+    "question": "USA nagarikara mātravannu eraḍu hakku yenu?",
+    "number": 50
+  },
+  {
+    "question": "\"ಅಮೆರಿಕಾದಲ್ಲಿ ವಾಸಿಸುವವರಿಗೆ ಎರಡು ಹಕ್ಕುಗಳು ಯಾವುವು?\"",
+    "number": 51
+  },
+  {
+    "question": "\"ನಾವು ಪ್ರಣ ಕೊಡುವಾಗ ಪ್ರತಿಜ್ಞೆ ಹೇಳುವಾಗ ನಾವು ವಿಧೇಯತೆ ತೋರುವುದು ಯಾವುದಕ್ಕೆ?\"",
+    "number": 52
+  },
+  {
+    "question": "ನೀವು ಒಂದು ಸಮಾಜದ ನಾಗರಿಕತೆ ಪಡೆದಾಗ ನೀವು ಯಾವುದೋ ಒಂದು ಪ್ರಮಾಣದಲ್ಲಿ ಹೇಳುವುದಾದರೆ ಒಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತೀರಿ?",
+    "number": 53
+  },
+  {
+    "question": "\"Prēsidenta boḍḍonavāge raṅṅu elligu vyavahārika ādhyaksha kadditsuva hetu, nagarikaru eyādu agēru beku?\" (Using ISO code: kn)",
+    "number": 54
+  },
+  {
+    "question": "ഏതെങ്കിലും രണ്ട് വഴികള്‍ ആമേരിക്കന്‍മാര്‍ തങ്ങളുടെ ജനതാന്തരത്തില്‍ പങ്കെടുക്കാവുന്നുവെന്ന് എന്താണ്?",
+    "number": 55
+  },
+  {
+    "question": "ಫೆಡರಲ್ ಆಕಾಂಶಿಗೆ ಮೊದಲು ನಿಮ್ಮ ಕರಗಿ ಬಾಕಿಯಿದೆಯೇ?",
+    "number": 56
+  },
+  {
+    "question": "ಯಾವಾಗ ಎಲ್ಲಾ ಪುರುಷರೂ ಸೇಲೆಕ್ಟಿವ್ ಸರ್ವಿಸ್ ಘೋಷಿಸಲು ಬೇಕಾಗುತ್ತದೆ? (kn)",
+    "number": 57
+  },
+  {
+    "question": "ಕೆಲವು ಕಾರಣಗಳಲ್ಲಿಯೂ ಒಂದು ಕಾರಣ ನೆಲೆಸಿದೆಯೇ ಅಮೆರಿಕಾಕ್ಕೆ ಉಳಿದುಕೊಳ್ಳುವುದು? (kn)",
+    "number": 58
+  },
+  {
+    "question": "ಯೂರೋಪಿಯರು ಬರುವ ಮುನ್ನ ಅಮೆರಿಕದಲ್ಲಿ ಯಾರು ಬಾಳ್ಕೊಂಡಿದ್ದರು?",
+    "number": 59
+  },
+  {
+    "question": "\"ಯಾರು ಅಮೆರಿಕಾಕ್ಕೆ ತಳಿರುವ ದರೋಡೆಯಾಗಿ ದೇಶದ ಒಡೆಯರೊಡನೆ ಕರ್ತವ್ಯಪರ ಜಾತಿಗಳನ್ನು ಬೆಂಬಲಿಸುವುದು?\"",
+    "number": 60
+  },
+  {
+    "question": "ಕಾರಣವೇನು ಬ್ರಿಟಿಷ್ ಎದ್ದು ನಿಂತರುವುದು ಕೊಲೊನಿಸ್ಟರ ವಿರುದ್ಧ?",
+    "number": 61
+  },
+  {
+    "question": "ಸ್ವಾತಂತ್ರ್ಯ ಘೋಷಣೆಯನ್ನು ಯಾರು ಬರೆದರು?",
+    "number": 62
+  },
+  {
+    "question": "\"Declaration of Independence ಯಾವಾಗ ಅಂಗೀಕರಿಸಲಾಯಿತು?\"",
+    "number": 63
+  },
+  {
+    "question": "13 ಮೂಲ ರಾಜ್ಯಗಳಿದ್ದು. ಮೂರು ಹೆಸರುಗಳನ್ನು ಹೇಳಿ.",
+    "number": 64
+  },
+  {
+    "question": "ಸಂವಿಧಾನ ಸಭೆಯ ಸಂಗತಿಗಳು ಏನಾಗಿದ್ದು? (Kannada)",
+    "number": 65
+  },
+  {
+    "question": "ಸಂವಿಧಾನ ಯಾವಾಗ ಬರೆಯಲ್ಪಟ್ಟಿತು? (Kannada)",
+    "number": 66
+  },
+  {
+    "question": "ಫೆಡರಲಿಸ್ಟ್ ಪೇಪರ್ಸ್ ಎಂದು ಹೇಳಿದಂತೆ, U.S ಸಂವಿಧಾನದ ಅನ್ನು ಬೆಂಬಲಿಸಿದರು. ಲೇಖಕರ ಯಾರು ಎಂದು ಹೆಸರಿಸುವಿರಿ?",
+    "number": 67
+  },
+  {
+    "question": "Benjamin Franklin ಒಬ್ಬ ವ್ಯಕ್ತಿಗಾಗಿ ಒಂದು ಗುಣ​ವನ್ನು ಹೇಳಿರಿ, ಅವನು ಯಾವ ಕಾರ್ಯಗಳಲ್ಲಿ ಪ್ರಖ್ಯಾತನಾಗಿದ್ದಾನೆ?",
+    "number": 68
+  },
+  {
+    "question": "ನಮ್ಮ ದೇಶದ ತಂದೆ ಯಾರು? (nam'ma dēshada taṃdē yaru?)",
+    "number": 69
+  },
+  {
+    "question": "ಯಾವ ಹಿಂದಿನ ಅಧ್ಯಕ್ಷರು ಮೊದಲಿಗರು?",
+    "number": 70
+  },
+  {
+    "question": "1803 ರಲ್ಲಿ ಕಳೆದುಕೊಂಡ ಫ್ರಾನ್ಸ್ ಯಾವ ಪ್ರದೇಶವನ್ನು ಅಮೆರಿಕಾ ಸಂಸ್ಥಾನದಿಂದ ಖರೀದಿಸಿತು? (Translation: 1803 raliyalli kaledu kondavaga Frans yava pradeshavannu America samsthanadinda khareedisi?)",
+    "number": 71
+  },
+  {
+    "question": "ISO code 'kn' is not a valid language code. Please provide a valid language code.",
+    "number": 72
+  },
+  {
+    "question": "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣದ ನಡುವೆ ನಡೆದ ಅಮೆರಿಕದ ಯುದ್ಧ ಹೆಸರುತ್ತಿದೆಯೇ? (ISO ಕೋಡ್: kn)",
+    "number": 73
+  },
+  {
+    "question": "\"Civil War ನಡುವೆ ಒಂದು ಸಮಸ್ಯೆಯು ಉಂಟಾದುದೇನು?\" (Kannada)",
+    "number": 74
+  },
+  {
+    "question": "Abraham Lincoln yeddu mahatvada ondu kelasa Enu idadx? (In Kannada)",
+    "number": 75
+  },
+  {
+    "question": "ಮುಕ್ತಿ ಪ್ರಕಟಣೆ ನೀಡಿದ್ದು ಏನಾಗಿತ್ತು? (Kannada)",
+    "number": 76
+  },
+  {
+    "question": "ಸುಸಾನ್ ಬಿ. ಆಂಥನಿ ಏನು ಮಾಡಿದರು?",
+    "number": 77
+  },
+  {
+    "question": "1900 ನೇ ವರ್ಷದಲ್ಲಿ ಅಮೆರಿಕಾ ದಿಕ್ಕೆ ಹೋರಾಡಿದ ಒಂದು ಯುದ್ಧವನ್ನು ಹೆಸರಿಸಿರಿ.",
+    "number": 78
+  },
+  {
+    "question": "ವಿಶ್ವ ಯುದ್ಧ ಒಂದರ ಸಮಯದಲ್ಲಿ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದವರು ಯಾರು?",
+    "number": 79
+  },
+  {
+    "question": "ದೊಡ್ಡ ಕಷ್ಟಕಾಲದ ಹಾಗು ವಿಶ್ವ ಯುದ್ಧದ ಸಮಯದಲ್ಲಿ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದವರು ಯಾರು?",
+    "number": 80
+  },
+  {
+    "question": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಯುದ್ಧದಲ್ಲಿ ವಿಶ್ವದ ಮೂರನೆಯ ಯುದ್ಧದಲ್ಲಿ ಯಾರೊಡನೆ ಹೋರಾಡಿತು?",
+    "number": 81
+  },
+  {
+    "question": "\"Bhagawan Eisenhower yavathu pradhanamanthiriyagiddu. Avaru yavudara yuddhadhaladavru?\" (ISO code: kn)",
+    "number": 82
+  },
+  {
+    "question": "\"Cold War ൽ യുണൈറ്റഡ് സ്റ്റേറ്റ്സിന് പ്രധാന പ്രശ്നം എന്തുമാണ്?\"",
+    "number": 83
+  },
+  {
+    "question": "ಯಾವ ಚಳಿವಳಿಯು ಜಾತಿಗತ ವ್ಯತ್ಕ್ರಮಣ ಅಂಗೀಕರಿಸುವುದಕ್ಕೆ ಪ್ರಯತ್ನಪಟ್ಟಿತು? (Translation: What movement tried to end racial discrimination?)",
+    "number": 84
+  },
+  {
+    "question": "ಮಾರ್ಟಿನ್ ಲೂಥರ್ ಕಿಂಗ್, ಜೂನಿಯರ್ ಯಾವ ಕೆಲಸ ಮಾಡಿದರು? (Kannada)",
+    "number": 85
+  },
+  {
+    "question": "ಅಮೆರಿಕಾದಲ್ಲಿ 2001ರ ಸೆಪ್ಟೆಂಬರ್ 11ರಂದು ಯಾವ ದೊಡ್ಡ ಘಟನೆ ನಡೆಯಿತು?",
+    "number": 86
+  },
+  {
+    "question": "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದಲ್ಲಿ ಒಂದು ಅಮೆರಿಕನ್ ಇಂಡಿಯನ್ ಕಮ್ಮುನಿಟಿ ಹೆಸರು ಹೇಳಿ.",
+    "number": 87
+  },
+  {
+    "question": "ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ನಡುವೆ ಎರಡು ಅತ್ಯಂತ ಉದ್ದ ನದಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಹೆಸರಿಸಿ.",
+    "number": 88
+  },
+  {
+    "question": "ಅಮೆರಿಕಾ ಯುಕ್ತ ಸಂಸ್ಥಾನದ ಪಶ್ಚಿಮ ತುದಿಯ ಸಮುದ್ರವೆಂದರೇನು? (kn)",
+    "number": 89
+  },
+  {
+    "question": "ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ಪೂರ್ವ ತುದಿಯ ಸಮುದ್ರ ಯಾವುದು?",
+    "number": 90
+  },
+  {
+    "question": "ಒಂದು ಯು.ಎಸ್. ಉದ್ಯಾನಕ್ಕೆ ಹೆಸರುವಲ್ಲಿ ಹೆಸರುಹೇಳಿ.",
+    "number": 91
+  },
+  {
+    "question": "Kanada ke saath seemant raajya kaun sa hai? (Translation in Kannada with ISO code kn)",
+    "number": 92
+  },
+  {
+    "question": "Mexicova hatru sannidheya idduvudu ondhu eyaateyaanantha naadxu?",
+    "number": 93
+  },
+  {
+    "question": "ಅಮೆರಿಕಾದ ರಾಜಧಾನಿ ಯಾವುದು?",
+    "number": 94
+  },
+  {
+    "question": "Statue of Liberty yenu yestu sthana ide? (In Kannada - kn)",
+    "number": 95
+  },
+  {
+    "question": "ಧ್ವಜದಲ್ಲಿ 13 ತುಂಡುಗಳು ಏಕೆ ಇವೆ?",
+    "number": 96
+  },
+  {
+    "question": "ಧ್ವಜದಲ್ಲಿ 50 ನಕ್ಷತ್ರಗಳು ಏಕೆ ಇವೆ? (Kannada)",
+    "number": 97
+  },
+  {
+    "question": "ರಾಷ್ಟ್ರೀಯ ಸಂಗೀತದ ಹೆಸರು ಯಾವುದು?",
+    "number": 98
+  },
+  {
+    "question": "\"ಯು.ಎಸ್. ದೇಶದ ಎರಡು ರಾಷ್ಟ್ರೀಯ ಸಣ್ಮೆಗಳು ಹೆಸರಿಸಿ?\"",
+    "number": 99
+  },
+  {
+    "question": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನವನ್ನು ಯಾವಾಗ ಆಚರಿಸುವರು?",
+    "number": 100
+  }
+]

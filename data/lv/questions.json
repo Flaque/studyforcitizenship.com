@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Kāda ir zemes galvenais likums? (lv)",
+    "number": 1
+  },
+  {
+    "question": "Ko dara Konstitūcija?",
+    "number": 2
+  },
+  {
+    "question": "Pašvaldības ideja ir pirmajās trīs Konstitūcijas vārdos. Kādi ir šie vārdi?",
+    "number": 3
+  },
+  {
+    "question": "Kas ir grozījums? (lv)",
+    "number": 4
+  },
+  {
+    "question": "Kā sauc pirmās desmit grozījumus Konstitūcijā? (lv)",
+    "number": 5
+  },
+  {
+    "question": "Kāds ir viens tiesību vai brīvības no Pirmā grozījuma? (lv)",
+    "number": 6
+  },
+  {
+    "question": "Cik grozījumu ir Konstitūcijā?",
+    "number": 7
+  },
+  {
+    "question": "Ko izdarīja Neatkarības Deklarācija?",
+    "number": 8
+  },
+  {
+    "question": "Kādas ir divas tiesības Deklarācijā par neatkarību? (lv)",
+    "number": 9
+  },
+  {
+    "question": "Kas ir ticības brīvība?",
+    "number": 10
+  },
+  {
+    "question": "Kāds ir ekonomiskais sistēma Amerikas Savienotajās Valstīs?",
+    "number": 11
+  },
+  {
+    "question": "Kāda ir likumīguma norma?",
+    "number": 12
+  },
+  {
+    "question": "Nosauciet vienu valsts varas zaru vai daļu.",
+    "number": 13
+  },
+  {
+    "question": "Kas nodrošina to, ka viena valdības aģentūra nesaņem pārāk lielu varu?",
+    "number": 14
+  },
+  {
+    "question": "Kurš ir atbildīgs par izpildvaru?",
+    "number": 15
+  },
+  {
+    "question": "Kas pieņem federālos likumus?",
+    "number": 16
+  },
+  {
+    "question": "Kas ir ASV Kongresa divas daļas? (lv)",
+    "number": 17
+  },
+  {
+    "question": "Cik ASV senātoru ir?",
+    "number": 18
+  },
+  {
+    "question": "Mēs ievēlam ASV senatoru, uz cik gadiem viņš tiek ievēlēts? (lv)",
+    "number": 19
+  },
+  {
+    "question": "Kurš ir viens no jūsu štata ASV senatoriem patlaban? (lv)",
+    "number": 20
+  },
+  {
+    "question": "Cik balsotāju locekļi ir Apvienotās Valstis Pārstāvju palātā?",
+    "number": 21
+  },
+  {
+    "question": "U.S. pārstāvi mēs ievēl uz cik gadiem? (lv)",
+    "number": 22
+  },
+  {
+    "question": "Nosauciet savu ASV pārstāvi.",
+    "number": 23
+  },
+  {
+    "question": "Kuram AS senatori pārstāv?",
+    "number": 24
+  },
+  {
+    "question": "Kāpēc dažām valstīm ir vairāk pārstāvji nekā citām valstīm?",
+    "number": 25
+  },
+  {
+    "question": "Mūsu valstī kādu laiku goda joprojām par Prezidentu? (lv)",
+    "number": 26
+  },
+  {
+    "question": "Kurā mēnesī mēs balsojam par prezidentu?",
+    "number": 27
+  },
+  {
+    "question": "Kas ir ASV pašreizējā prezidenta vārds un uzvārds?",
+    "number": 28
+  },
+  {
+    "question": "Kāds tagad ir Amerikas Savienoto Valstu viceprezidenta vārds?",
+    "number": 29
+  },
+  {
+    "question": "Ja prezidents vairs nevar kalpot, kas kļūst par prezidentu? (lv)",
+    "number": 30
+  },
+  {
+    "question": "Ja nevar kalpot ne Prezidents, ne viceprezidents, kurš kļūst par prezidentu?",
+    "number": 31
+  },
+  {
+    "question": "Kurš ir militārās vadības virspavēlnieks? (lv)",
+    "number": 32
+  },
+  {
+    "question": "Kas paraksta rēķinus, lai tie kļūtu par likumiem?",
+    "number": 33
+  },
+  {
+    "question": "Kas veto rēķina projektus?",
+    "number": 34
+  },
+  {
+    "question": "Ko dara prezidenta kabinets? (Note: This is the Latvian language with ISO code 'lv')",
+    "number": 35
+  },
+  {
+    "question": "Kādas ir divas kabineta līmeņa amatu pozīcijas? (lv)",
+    "number": 36
+  },
+  {
+    "question": "Ko dara tieslietu vara?",
+    "number": 37
+  },
+  {
+    "question": "Kāds ir augstākais tiesas instances Amerikas Savienotajās Valstīs?",
+    "number": 38
+  },
+  {
+    "question": "Cik tiesneši ir Augstākajā tiesā?",
+    "number": 39
+  },
+  {
+    "question": "Kurš ir pašreizējais Amerikas Savienoto Valstu Augstākais tiesnesis?",
+    "number": 40
+  },
+  {
+    "question": "Saskaņā ar mūsu Konstitūciju, dažas varas pieder federālajai valdībai. Kāda ir viena federālās valdības vara?",
+    "number": 41
+  },
+  {
+    "question": "Saskaņā ar mūsu Konstitūciju, dažas pilnvaras pieder štatiem. Kāda ir viena štatu pilnvara? (lv)",
+    "number": 42
+  },
+  {
+    "question": "Kurš ir jūsu valsts guvernieris tagad? (lv)",
+    "number": 43
+  },
+  {
+    "question": "Kāda ir jūsu štata galvaspilsēta? (lv)",
+    "number": 44
+  },
+  {
+    "question": "Kādas ir divas galvenās politiskās partijas Amerikas Savienotajās Valstīs? (lv)",
+    "number": 45
+  },
+  {
+    "question": "Kāda ir pašreizējā prezidenta politiskā partija? (lv)",
+    "number": 46
+  },
+  {
+    "question": "Kāds ir mājas pārstāvju palātas runātāja vārds tagad?",
+    "number": 47
+  },
+  {
+    "question": "Ir konstitūcijas grozījumi, kas attiecas uz to, kas var balsot. Aprakstiet vienu no tiem.",
+    "number": 48
+  },
+  {
+    "question": "Kāda ir viena atbildība, kas ir tikai Amerikas Savienoto Valstu pilsoņiem?",
+    "number": 49
+  },
+  {
+    "question": "Kādas ir divas tiesības, kas ir tikai Amerikas Savienoto Valstu pilsoņiem?",
+    "number": 50
+  },
+  {
+    "question": "Kādas ir divas ikvienam ASV dzīvojošajam cilvēkam piemītošās tiesības?",
+    "number": 51
+  },
+  {
+    "question": "Uz ko mēs parādām uzticību, kad mēs izsakām \"Pledge of Allegiance\"?",
+    "number": 52
+  },
+  {
+    "question": "Kādu zvērestu dodat, kļūstot par Amerikas Savienoto Valstu pilsoni? (lv)",
+    "number": 53
+  },
+  {
+    "question": "Cik veciem jābūt pilsoņiem, lai balsotu par prezidentu? (lv)",
+    "number": 54
+  },
+  {
+    "question": "Kā divi veidi, kā amerikāņi var piedalīties savā demokrātijā?",
+    "number": 55
+  },
+  {
+    "question": "Kad ir pēdējais diena, kad var iesniegt federālās ienākumu nodokļu formas?",
+    "number": 56
+  },
+  {
+    "question": "Kad visi vīrieši būtu jāreģistrē Izvēlnes dienestā?",
+    "number": 57
+  },
+  {
+    "question": "Kāds ir viens iemesls, kāpēc kolonisti ieradās Amerikā?",
+    "number": 58
+  },
+  {
+    "question": "Kas dzīvoja Amerikā pirms eiropeiešiem ieradās?",
+    "number": 59
+  },
+  {
+    "question": "Kāda cilvēku grupa tika atvesta uz Ameriku un pārdota kā vergi?",
+    "number": 60
+  },
+  {
+    "question": "Kāpēc kolonisti cīnījās pret britiem?",
+    "number": 61
+  },
+  {
+    "question": "Kas uzrakstīja Neatkarības deklarāciju?",
+    "number": 62
+  },
+  {
+    "question": "Kad tika pieņemta Neatkarības deklarācija?",
+    "number": 63
+  },
+  {
+    "question": "Ir bija 13 sākotnējās valstis. Nosauktiet trīs.",
+    "number": 64
+  },
+  {
+    "question": "Kas notika Konstitucionālajā konvencijā?",
+    "number": 65
+  },
+  {
+    "question": "Kad tika uzrakstīta Konstitūcija?",
+    "number": 66
+  },
+  {
+    "question": "Federalistu raksti atbalstīja ASV Konstitūcijas pieņemšanu. Nosaukiet vienu no rakstniekiem.",
+    "number": 67
+  },
+  {
+    "question": "Kāds ir viens liels Benjamīna Franklina ieguldījums? (lv)",
+    "number": 68
+  },
+  {
+    "question": "Kurš ir mūsu valsts tēvs? (Note: This is a translation to Latvian as there is no ISO code for the Latvian language)",
+    "number": 69
+  },
+  {
+    "question": "Kurš bija pirmā prezidents?",
+    "number": 70
+  },
+  {
+    "question": "Kādas teritorijas Savienotās Valstis iegādājās no Francijas 1803. gadā? (lv)",
+    "number": 71
+  },
+  {
+    "question": "Nosaukt vienu kara, kuru cīnījās Amerikas Savienotās Valstis 19. gadsimtā.",
+    "number": 72
+  },
+  {
+    "question": "Nosaukt ASV kara starp Ziemeļiem un Dienvidiem.",
+    "number": 73
+  },
+  {
+    "question": "Nosaukt vienu problēmu, kas noveda pie Pilsoņu kara.",
+    "number": 74
+  },
+  {
+    "question": "Kādu svarīgu lietu izdarīja Abrahams Linkolns? (lv)",
+    "number": 75
+  },
+  {
+    "question": "Kas bija Emancipācijas proklamācijas ietekme?",
+    "number": 76
+  },
+  {
+    "question": "Ko paveica Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Nosauciet vienu karu, kurā Amerikas Savienotās Valstis cīnījās 1900. gados.",
+    "number": 78
+  },
+  {
+    "question": "Kurš bija prezidents Pirmā pasaules kara laikā? (lv)",
+    "number": 79
+  },
+  {
+    "question": "Kurš bija ASV prezidents Lielās depresijas un Otrā pasaules kara laikā? (lv)",
+    "number": 80
+  },
+  {
+    "question": "Ar pretējo Padomju Savienību kara laikā cīnījās ASV?",
+    "number": 81
+  },
+  {
+    "question": "Pirms kļuva par prezidentu, Aizsenhauers bija ģenerālis. Kādā karā viņš bija iesaistīts? (lv)",
+    "number": 82
+  },
+  {
+    "question": "Dzelzs priekškaru laikā, kas bija galvenā rūpe Amerikas Savienotajām Valstīm? (lv)",
+    "number": 83
+  },
+  {
+    "question": "Kāda kustība mēģināja izbeigt rasu diskrimināciju? (lv)",
+    "number": 84
+  },
+  {
+    "question": "Ko darīja Martīns Luters Kingss Jr.? (lv)",
+    "number": 85
+  },
+  {
+    "question": "Kāds būtisks notikums notika 2001. gada 11. septembrī Amerikas Savienotajās Valstīs?",
+    "number": 86
+  },
+  {
+    "question": "Nosaukt vienu amerikāņu indiāņu cilti Amerikas Savienotajās Valstīs.",
+    "number": 87
+  },
+  {
+    "question": "Nosaukt vienu no diviem garākajiem upēm Amerikas Savienotajās Valstīs. (lv)",
+    "number": 88
+  },
+  {
+    "question": "Kura okeāns atrodas uz Amerikas Savienoto Valstu Rietumu krastiem?",
+    "number": 89
+  },
+  {
+    "question": "Kāda okeāna atrodas ASV Austrumu krastā? (lv)",
+    "number": 90
+  },
+  {
+    "question": "Nosauciet vienu ASV teritoriju.",
+    "number": 91
+  },
+  {
+    "question": "Nosauciet vienu štatu, kas robežojas ar Kanādu.",
+    "number": 92
+  },
+  {
+    "question": "Nosauciet vienu štatu, kas robežojas ar Meksiku.",
+    "number": 93
+  },
+  {
+    "question": "Kāda ir Amerikas Savienoto Valstu galvaspilsēta? (lv)",
+    "number": 94
+  },
+  {
+    "question": "Kur atrodas Brīvības Statuja?",
+    "number": 95
+  },
+  {
+    "question": "Kāpēc karogs ir ar 13 svītrām? (lv)",
+    "number": 96
+  },
+  {
+    "question": "Kāpēc karogs ir ar 50 zvaigznēm? (Note: Latvian language with ISO code lv)",
+    "number": 97
+  },
+  {
+    "question": "Kāds ir valsts himnas nosaukums?",
+    "number": 98
+  },
+  {
+    "question": "Nosaukiet divus Nacionālos ASV svētkus.",
+    "number": 99
+  },
+  {
+    "question": "Kad mēs svinam Neatkarības dienu?",
+    "number": 100
+  }
+]

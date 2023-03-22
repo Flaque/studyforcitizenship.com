@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Који је највиши закон земље? (sr)",
+    "number": 1
+  },
+  {
+    "question": "Šta Ustav radi?",
+    "number": 2
+  },
+  {
+    "question": "Идеја самоуправљања је у прве три речи Устава. Које су ове речи? (sr)",
+    "number": 3
+  },
+  {
+    "question": "Šta je amandman?",
+    "number": 4
+  },
+  {
+    "question": "Како називамо првих десет измена Устава? (sr)",
+    "number": 5
+  },
+  {
+    "question": "Које једно право или слобода из Првог додатка? (sr)",
+    "number": 6
+  },
+  {
+    "question": "Колико измена има Устав? (sr)",
+    "number": 7
+  },
+  {
+    "question": "Šta je Deklaracija nezavisnosti uradila?",
+    "number": 8
+  },
+  {
+    "question": "Koji su dva prava navedena u Deklaraciji nezavisnosti?",
+    "number": 9
+  },
+  {
+    "question": "Шта је слобода религије?",
+    "number": 10
+  },
+  {
+    "question": "Koji je ekonomski sistem u Sjedinjenim Državama? (sr)",
+    "number": 11
+  },
+  {
+    "question": "Каква је улога права? (sr)",
+    "number": 12
+  },
+  {
+    "question": "Navedite jedan ogranak ili dio vlade. (sr)",
+    "number": 13
+  },
+  {
+    "question": "Шта спречава једну грану власти да постане превише моћна?",
+    "number": 14
+  },
+  {
+    "question": "Ко је одговоран за извршну власт?",
+    "number": 15
+  },
+  {
+    "question": "Ko donosi federalne zakone? (Note: This is the Serbian language with the ISO code 'sr')",
+    "number": 16
+  },
+  {
+    "question": "Koji su dva dijela američkog Kongresa? (sr)",
+    "number": 17
+  },
+  {
+    "question": "Koliko ima senatora u Sjedinjenim Državama?",
+    "number": 18
+  },
+  {
+    "question": "Колико година траје мандат Сенатора САД-а? (sr)",
+    "number": 19
+  },
+  {
+    "question": "Ko je jedan od senatora za SAD iz vaše države sada? (sr)",
+    "number": 20
+  },
+  {
+    "question": "Koliko glasačkih članova ima Predstavnički dom? (sr)",
+    "number": 21
+  },
+  {
+    "question": "На колико година бирамо представника Сједињених Америчких Држава?",
+    "number": 22
+  },
+  {
+    "question": "Navedite svog predstavnika SAD-a.",
+    "number": 23
+  },
+  {
+    "question": "Кога преведено на језик са ИСО кодом \"sr\", прашањето од теста за државјанство на САД би било:\n\nКога представља СЕНАТОР САД?",
+    "number": 24
+  },
+  {
+    "question": "Зашто неке државе имају више представника него друге државе? (sr)",
+    "number": 25
+  },
+  {
+    "question": "На колико година бирамо председника? (sr)",
+    "number": 26
+  },
+  {
+    "question": "У ком месецу гласамо за председника? (sr-Cyrl)",
+    "number": 27
+  },
+  {
+    "question": "Како се зове председник Сједињених Америчких Држава сада? (sr)",
+    "number": 28
+  },
+  {
+    "question": "Како се зове садашњи Вице-президент Сједињених Америчких Држава?",
+    "number": 29
+  },
+  {
+    "question": "Ako predsednik više ne može da obavlja dužnost, ko postaje predsednik? (sr-Latn) \n\nАко председник више не може да обавља дужност, ко постаје председник? (sr-Cyrl)",
+    "number": 30
+  },
+  {
+    "question": "Ako ni predsednik ni potpredsednik više ne mogu da služe, ko postaje predsednik?",
+    "number": 31
+  },
+  {
+    "question": "Ko je vrhovni komandant vojske? (sr)",
+    "number": 32
+  },
+  {
+    "question": "Ко потписује законе да би постали закони?",
+    "number": 33
+  },
+  {
+    "question": "Ko ima pravo veta nad zakonima?",
+    "number": 34
+  },
+  {
+    "question": "Šta radi kabinet predsednika?",
+    "number": 35
+  },
+  {
+    "question": "Koja su dva položaja na nivou kabineta? (sr)",
+    "number": 36
+  },
+  {
+    "question": "Шта ради судски огранак?",
+    "number": 37
+  },
+  {
+    "question": "Šta je najviši sud u Sjedinjenim Državama?",
+    "number": 38
+  },
+  {
+    "question": "Koliko je pravosudnika u Vrhovnom sudu? (Note: \"sr\" refers to Serbian language)",
+    "number": 39
+  },
+  {
+    "question": "\"Ko je trenutno glavni sudija Sjedinjenih Država?\" (sr-Cyrl)",
+    "number": 40
+  },
+  {
+    "question": "По нашем Уставу, неке власти припадају федералној влади. Које је једна власт федералне владе? (sr)",
+    "number": 41
+  },
+  {
+    "question": "По нашем Уставу, неке полномоћи припадају државама. Која је једна полномоћ држава? (sr)",
+    "number": 42
+  },
+  {
+    "question": "Ko je sada guverner Vaše države?",
+    "number": 43
+  },
+  {
+    "question": "Које је главни град ваше државе? (sr)",
+    "number": 44
+  },
+  {
+    "question": "Koje su dvije glavne političke stranke u Sjedinjenim Američkim Državama? (sr)",
+    "number": 45
+  },
+  {
+    "question": "Која је политичка странка trenutnog председника? (sr)",
+    "number": 46
+  },
+  {
+    "question": "Ко је тренутни спикер Представничког дома? (sr)",
+    "number": 47
+  },
+  {
+    "question": "Постоје четири измене Устава о томе ко може гласати. Опишите једну од њих.",
+    "number": 48
+  },
+  {
+    "question": "Koje je jedna odgovornost namenjena samo državljanima Sjedinjenih Američkih Država?",
+    "number": 49
+  },
+  {
+    "question": "Koji su samo dva prava koja imaju samo građani Sjedinjenih Američkih Država? (sr)",
+    "number": 50
+  },
+  {
+    "question": "Која су два права све особе које живе у Сједињеним Америчким Државама?",
+    "number": 51
+  },
+  {
+    "question": "На шта показујемо лојалност када кажемо заклетву верности?",
+    "number": 52
+  },
+  {
+    "question": "Koje obećanje dajete kada postanete državljanin Sjedinjenih Država? (sr)",
+    "number": 53
+  },
+  {
+    "question": "Колико година морају имати грађани да би гласали за председника? (sr)",
+    "number": 54
+  },
+  {
+    "question": "Koji su dva načina na koja Amerikanci mogu učestvovati u svojoj demokratiji? (sr)",
+    "number": 55
+  },
+  {
+    "question": "\"Kada je poslednji dan kada možete poslati federalni poreski obrazac?\"",
+    "number": 56
+  },
+  {
+    "question": "Када морају сви мушкарци да се региструју за Селективну Службу? (sr)",
+    "number": 57
+  },
+  {
+    "question": "Koji je jedan razlog zbog kojeg su kolonisti došli u Ameriku?",
+    "number": 58
+  },
+  {
+    "question": "Ko je živeo u Americi pre dolaska Evropljana? (sr)",
+    "number": 59
+  },
+  {
+    "question": "Koja grupa ljudi je odvedena u Ameriku i prodana kao robovi? (Note: Serbian, ISO code 'sr')",
+    "number": 60
+  },
+  {
+    "question": "Зашто су се колонисти борили против Британаца?",
+    "number": 61
+  },
+  {
+    "question": "Ko je napisao Deklaraciju nezavisnosti?",
+    "number": 62
+  },
+  {
+    "question": "Кад је проглашење независности усвојено?",
+    "number": 63
+  },
+  {
+    "question": "Постојало је 13 оригиналних држава. Набројте три.",
+    "number": 64
+  },
+  {
+    "question": "Шта се десило на Уставотворној конвенцији?",
+    "number": 65
+  },
+  {
+    "question": "Kada je napisana Ustav?",
+    "number": 66
+  },
+  {
+    "question": "Федералистички записи су подржале прихватање Устава Сједињених Америчких Држава. Именујте једног од писаца. (sr)",
+    "number": 67
+  },
+  {
+    "question": "Šta je jedna stvar za koju je Benjamn Frenklin poznat?",
+    "number": 68
+  },
+  {
+    "question": "Ko je otac naše zemlje?",
+    "number": 69
+  },
+  {
+    "question": "Ko je bio prvi predsednik? (Note: Serbian language ISO code is \"sr\" but there are multiple variations of the language, this translation is in the standard Serbian language used in Serbia.)",
+    "number": 70
+  },
+  {
+    "question": "Koju teritoriju su Sjedinjene Države kupile od Francuske 1803. godine?",
+    "number": 71
+  },
+  {
+    "question": "Navedite jedan rat koji je Sjedinjene Države vodile u 19. vijeku.",
+    "number": 72
+  },
+  {
+    "question": "Назвати рат између Севера и Југа Сједињених Америчких Држава. (sr-Cyrl)",
+    "number": 73
+  },
+  {
+    "question": "Наведите један проблем који је довео до Грађанског рата.",
+    "number": 74
+  },
+  {
+    "question": "Шта је једна важна ствар коју је урадио Абрахам Линколн?",
+    "number": 75
+  },
+  {
+    "question": "Шта је урадио Прокламација о ослобођењу?",
+    "number": 76
+  },
+  {
+    "question": "Šta je Susan B. Anthony uradila?",
+    "number": 77
+  },
+  {
+    "question": "Назовите један рат који је Сједињене Америчке Државе водиле у 1900-им годинама.",
+    "number": 78
+  },
+  {
+    "question": "Ko je bio predsjednik tokom Prvog svjetskog rata? (Answer in Serbian language with the ISO code 'sr')",
+    "number": 79
+  },
+  {
+    "question": "Ko je bio predsednik tokom Velike depresije i Drugog svetskog rata? (sr)",
+    "number": 80
+  },
+  {
+    "question": "С ким је Сједињене Америчке Државе водиле рат у Другом светском рату?",
+    "number": 81
+  },
+  {
+    "question": "Пре него што је постао председник, Ајзенхауер је био генерал. У којем рату је учествовао? (Translation in Serbian - ISO code: sr)",
+    "number": 82
+  },
+  {
+    "question": "У време Хладног рата, која је била главна брига Сједињених Америчких Држава? (sr)",
+    "number": 83
+  },
+  {
+    "question": "Какво покретање је покушало да оконча расну дискриминацију?",
+    "number": 84
+  },
+  {
+    "question": "Шта је Мартин Лутер Кинг јуниор учинио? (sr)",
+    "number": 85
+  },
+  {
+    "question": "Koji se veliki događaj desio 11. septembra 2001. godine u Sjedinjenim Američkim Državama? (sr)",
+    "number": 86
+  },
+  {
+    "question": "Navajo (Navaho) (Навахо)",
+    "number": 87
+  },
+  {
+    "question": "Наведите име једне од две најдуже реке у Сједињеним Америчким Државама.",
+    "number": 88
+  },
+  {
+    "question": "Који океан се налази на западној обали Сједињених Држава? (sr)",
+    "number": 89
+  },
+  {
+    "question": "Какви океани се налазе на источној обали Сједињених Држава? (sr)",
+    "number": 90
+  },
+  {
+    "question": "Назовите једну територију САД-а.",
+    "number": 91
+  },
+  {
+    "question": "Navedi jednu državu koja graniči s Kanadom. (sr)",
+    "number": 92
+  },
+  {
+    "question": "Navedite jednu državu koja se graniči sa Meksikom. (sr)",
+    "number": 93
+  },
+  {
+    "question": "Šta je glavni grad Sjedinjenih Američkih Država?",
+    "number": 94
+  },
+  {
+    "question": "Где се налази Статуа слободе?",
+    "number": 95
+  },
+  {
+    "question": "Зашто застава има 13 пруга? (sr)",
+    "number": 96
+  },
+  {
+    "question": "Зашто застава има 50 звезда? (sr)",
+    "number": 97
+  },
+  {
+    "question": "Како се зове државна химна?",
+    "number": 98
+  },
+  {
+    "question": "Назовите два национална америчка празника. (sr)",
+    "number": 99
+  },
+  {
+    "question": "Када славимо Дан независности?",
+    "number": 100
+  }
+]

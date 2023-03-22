@@ -1,0 +1,402 @@
+[
+  {
+    "question": "\"देश का सर्वोच्च नियम क्या है?\" (Desha ka sarvochch niyam kya hai?)",
+    "number": 1
+  },
+  {
+    "question": "कस्तो नेपालको संविधानले गर्छ?",
+    "number": 2
+  },
+  {
+    "question": "शासन स्वयंक्रियता विचार का संविधान के पहले तीन शब्दों में है। ये शब्द क्या हैं?",
+    "number": 3
+  },
+  {
+    "question": "एनाली माथि कसरी अनुवाद गर्ने: 'ne':\n\nसंशोधन के हो?",
+    "number": 4
+  },
+  {
+    "question": "हामी संविधानको पहिला दस संशोधनलाई के बोलाउँछौं? (hamī saṃvidhānako pahilā das sanśodhanlā'ī ke bolā'uṅchauṅ?)",
+    "number": 5
+  },
+  {
+    "question": "'ne': पहिलो संशोधनबाट एउटा अधिकार वा स्वतन्त्रता के हो?",
+    "number": 6
+  },
+  {
+    "question": "'Sanskrit' is not a language with an ISO code of 'ne'. However, the question translated into Nepali (ISO code: 'ne') is:\n\nसंविधानमा कति संशोधनहरू छन्?",
+    "number": 7
+  },
+  {
+    "question": "\"Gyaro Jhaghadara ke kya kaam hue?\"",
+    "number": 8
+  },
+  {
+    "question": "Declaration of Independence दो हकथ के हैं?",
+    "number": 9
+  },
+  {
+    "question": "केहाे प्रारम्भिक बहुमतिवादको निषेध गर्दछ?",
+    "number": 10
+  },
+  {
+    "question": "संयुक्त राज्यका आर्थिक व्यवस्था के हो? (ne)",
+    "number": 11
+  },
+  {
+    "question": "न्याय का नियम क्या होता है?",
+    "number": 12
+  },
+  {
+    "question": "कुनै सरकारी शाखा वा भागको नाम भन्नुहोस्। (kunai sarakari shakha va bhagako naam bhannuhos.)",
+    "number": 13
+  },
+  {
+    "question": "कुनै सरकारी शाखाले बलियो नहुने के बटोर रोक्छ? (ne)",
+    "number": 14
+  },
+  {
+    "question": "कुन सञ्चालन शाखा मार्गदर्शक हुन्छ? (kun sanchalan shākhā mārgadarshak hun chha?)",
+    "number": 15
+  },
+  {
+    "question": "कुन फेरेल ऐन बनाउँछन्? (kun pherel ain banaunchhan?)",
+    "number": 16
+  },
+  {
+    "question": "यूएस कांग्रेस के दो भाग कौन से हैं?",
+    "number": 17
+  },
+  {
+    "question": "\"U. S. सेनेटरहरुको संख्या कति छ?\"",
+    "number": 18
+  },
+  {
+    "question": "हामी कति वर्षसम्मका लागि अमेरिकी सेनेटरलाई निर्वाचित गर्दछौं? (hamī kati varshasammakā lāgi amerikī senētarlāī nirvācit gardachauṁ?)",
+    "number": 19
+  },
+  {
+    "question": "तपाईंको राज्यको तपाईंको संयुक्त राज्यको एक सेनेटरहरूमध्ये एक हो?",
+    "number": 20
+  },
+  {
+    "question": "दी जनसभा (संसद) में कितने वोटिंग सदस्य होते हैं? (The House of Representatives has how many voting members?)",
+    "number": 21
+  },
+  {
+    "question": "हामीले कति वर्षको लागि संयुक्त राज्य निर्णयका लागि निर्वाचन गर्ने हैं? (ne)",
+    "number": 22
+  },
+  {
+    "question": "तपाईंको संयुक्त राज्य वालपका प्रतिनिधिलाई नाम गर्नुहोस्। (tapā'īṁkō sanyukta rājya wālpakā pratiniḍhilā'ī nām garnuhōs)",
+    "number": 23
+  },
+  {
+    "question": "U.S. सेन्टर कसलाई प्रतिनिधित्व गर्दछ? \n\n(ne)",
+    "number": 24
+  },
+  {
+    "question": "किन किन राज्यहरुलाई अरु राज्यहरुभन्दा धेरै प्रतिनिधि हुन्छन्? (ne)",
+    "number": 25
+  },
+  {
+    "question": "हामी कति बर्ष सम्मको लागि राष्ट्रपति निर्वाचित गर्छौं? (ne)",
+    "number": 26
+  },
+  {
+    "question": "हामी प्रधानमन्त्रीको लागि कुन महिनामा मतदान गर्छौं? (hamī pradhānamantrīkō lāgi kun mahināmā matdān garchaun?)",
+    "number": 27
+  },
+  {
+    "question": "संयुक्त राज्य अमेरिका को वर्तमान में राष्ट्रपति का नाम क्या है?",
+    "number": 28
+  },
+  {
+    "question": "संयुक्त राज्य अमेरिका को उपराष्ट्रपति का नाम अब क्या है? (ne)",
+    "number": 29
+  },
+  {
+    "question": "राष्ट्रपति अधिकार का उपयोग नहीं कर सकते हैं, तो कौन राष्ट्रपति बनता है? (ne)",
+    "number": 30
+  },
+  {
+    "question": "यदि दोनों राष्ट्रपति और उपराष्ट्रपति अधिकार नहीं निभा सकते हो, तो कौन राष्ट्रपति बनता है?",
+    "number": 31
+  },
+  {
+    "question": "'ne': सशस्त्र सेना का कमांडर कौन है? (Sashastr sena ka commander kaun hai?)",
+    "number": 32
+  },
+  {
+    "question": "कुन व्यक्ति विधेयकलाई कानून बनाउनुहुन्छ?",
+    "number": 33
+  },
+  {
+    "question": "कुन बिललाई वेटो गर्छन्? (Nepali)",
+    "number": 34
+  },
+  {
+    "question": "प्रधानमन्त्रीको क्याबिनेटले के गर्छ? (pradhānamantrīko kyābinetale ke garcha?)",
+    "number": 35
+  },
+  {
+    "question": "कुनै दुई मन्त्रालय स्तरका पदहरु हुन्? (kunai dui mantralaya staraka padharu hun?)",
+    "number": 36
+  },
+  {
+    "question": "कानूनी शाखा क्या करती है? (kānūnī śākhā kyā kartī hai?)",
+    "number": 37
+  },
+  {
+    "question": "संयुक्त राज्यको सर्वोच्च अदालत के हो?",
+    "number": 38
+  },
+  {
+    "question": "सुप्रीम कोर्टमा कति न्यायाधीशहरू छन्? (Nepali)",
+    "number": 39
+  },
+  {
+    "question": "संयुक्त राज्यको मुख्य न्यायाधीश को हाल जसले हुनुहुन्छ?",
+    "number": 40
+  },
+  {
+    "question": "संविधान अनुसार, संघ सरकार के कुछ शक्तियां होती हैं। संघ सरकार की एक शक्ति क्या है?",
+    "number": 41
+  },
+  {
+    "question": "हाम्रो संविधान अनुसार, केही शक्तिहरू राज्यहरूलाई सम्झौता गरिएका छन्। राज्यको एक शक्ति के हो? (ISO code: ne)",
+    "number": 42
+  },
+  {
+    "question": "तपाईंको प्रदेशको राज्यपाल अहिले कहाँ हुनुहुन्छ?",
+    "number": 43
+  },
+  {
+    "question": "तपाईंको प्रदेशको राजधानी के हो? (Nepali)",
+    "number": 44
+  },
+  {
+    "question": "संयुक्त राज्यहरूमा दुई प्रमुख राजनीतिक दल के हुन्? (ne)",
+    "number": 45
+  },
+  {
+    "question": "हालको राष्ट्रपति कुन राजनैतिक दलको हुनुहुन्छ? (Translation in Nepali - ISO code: ne)",
+    "number": 46
+  },
+  {
+    "question": "वर्तमान में संसद के रिप्रेजेंटेटिव हाउस के वक्ता का नाम क्या है?",
+    "number": 47
+  },
+  {
+    "question": "संविधानमा मतदान गर्न सक्ने व्यक्ति सम्बन्धी चार संशोधनहरू छन्। तिन मध्ये एकलाई वर्णन गर।",
+    "number": 48
+  },
+  {
+    "question": "युनाइटेड स्टेट्स नागरिकहरूको लागि केवल एक जिम्मेवारी के हो?",
+    "number": 49
+  },
+  {
+    "question": "अमेरिकी नागरिकों के लिए केवल दो अधिकार क्या होते हैं?",
+    "number": 50
+  },
+  {
+    "question": "संयुक्त राज्य अमेरिका में रहने वाले हर किसी के दो अधिकार क्या होते हैं? (ne)",
+    "number": 51
+  },
+  {
+    "question": "हामी पूजा गरिरहेका केही कुराहरूमा प्रतिवद्धता देखाउँदा हामी के देखाउँदछौँ? (ne)",
+    "number": 52
+  },
+  {
+    "question": "तपाईं संयुक्त राज्य नागरिक भएमा तपाईंले गर्ने एउटा वचन के हो? (ne)",
+    "number": 53
+  },
+  {
+    "question": "\"Prasidente vote garne nagarik lai kati barsa ko huna parchha?\" (नेपाली)",
+    "number": 54
+  },
+  {
+    "question": "अमेरिकीहरू सो संविधान व्यवस्थामा अधिकार हासिल गर्न सक्छन्, त्यसको दुई उपाय के हुन्? (ne)",
+    "number": 55
+  },
+  {
+    "question": "तपाईं फेडरल आयकर फारम पठाउन सक्नुको अन्तिम मिति के हो? (ne)",
+    "number": 56
+  },
+  {
+    "question": "सेलेक्टिभ सेवा के लिए सभी पुरुषों को कब पंजीकृत होना चाहिए? (ne)",
+    "number": 57
+  },
+  {
+    "question": "अमेरिकामा आइनुभएको भूमिकोको एक कारण के हो? (ne)",
+    "number": 58
+  },
+  {
+    "question": "युरोपियाले पुग्नु भन्ने अघि अमेरिकामा के बासिन्छन्? (ne)",
+    "number": 59
+  },
+  {
+    "question": "अमेरिका मा कुन जातीका लोग सम्मान मा राखेर गुनाहगार बनेर बेचिएका थिए?",
+    "number": 60
+  },
+  {
+    "question": "कोलोनिस्टहरूले ब्रिटिशसँग लड्ने किन गर्थ्यो?",
+    "number": 61
+  },
+  {
+    "question": "\"Deklaration of Independence kasto lekheko?\"",
+    "number": 62
+  },
+  {
+    "question": "स्वतन्त्रता घोषणा कब स्वीकृत हुई थी? (swatantrata ghoshana kab sveekrit hui thi?)",
+    "number": 63
+  },
+  {
+    "question": "13 मूल राज्य थे। तीन नाम बताएँ।",
+    "number": 64
+  },
+  {
+    "question": "के विधायिका संवेदना में क्या हुआ? (ke vidhaayika sanvedana mein kya hua?)",
+    "number": 65
+  },
+  {
+    "question": "Constitution kati lekheko thyo?",
+    "number": 66
+  },
+  {
+    "question": "U.S. संसद के गुजरात का समर्थन करते थे। लेखकों में से एक का नाम बताएं।\n\nTranslated to Nepali (ISO code: 'ne'): \n\nयुएस नागरिकता परीक्षामा भएको यो प्रश्न अनुवाद गर्नुहोस्: \n\nफेडरलिस्ट पेपर्सले युएस संविधान निर्णयको समर्थन गर्नुभयो। लेखकहरूमध्येबाट एकको नाम उल्लेख गर्नुहोस्।",
+    "number": 67
+  },
+  {
+    "question": "बेंजामिन फ्रैंकलिन का एक चीज़ भारतीय नागरिकता परीक्षा में प्रसिद्ध है?",
+    "number": 68
+  },
+  {
+    "question": "हाम्रो देशको बुवा को हुन्? (Nepali)",
+    "number": 69
+  },
+  {
+    "question": "फर्स्ट प्रेसिडेंट को हो? (Translation in Nepali with the ISO code 'ne')",
+    "number": 70
+  },
+  {
+    "question": "1803 मा संयुक्त राज्यहरूले फ्रान्सबाट कुन क्षेत्र खरिद गरेका थिए? (Translation in Nepali with ISO code 'ne')",
+    "number": 71
+  },
+  {
+    "question": "संयुक्त राज्यहरूबीचको एक १८०० को दशकमा लडदा एक युद्धको नाम लेख्नुहोस्।",
+    "number": 72
+  },
+  {
+    "question": "उत्तर र दक्षिण बीचको संघर्ष मा भारतीय संघवाडा खेलकुद कहिले हुँदो थियो? (ne)",
+    "number": 73
+  },
+  {
+    "question": "कुनै समस्या जो ग्रामीण युद्धमा लीड गर्नु भएको थियो भने नाम गर्नुहोस्। (ko)",
+    "number": 74
+  },
+  {
+    "question": "अब्राहम लिंकन ने एक महत्वपूर्ण चीज किया था, वह क्या था?",
+    "number": 75
+  },
+  {
+    "question": "इमानसिपेसन प्रोक्लमेशनले के गर्यो? (ne)",
+    "number": 76
+  },
+  {
+    "question": "सुजान बी. एन्थोनीले के गरे? (Nepali)",
+    "number": 77
+  },
+  {
+    "question": "सन् १९०० मा संयुक्त राज्यहरूद्वारा लड़िएको एक युद्ध नाम गर्नुहोस्।",
+    "number": 78
+  },
+  {
+    "question": "विश्व युद्ध-१ कालभर महामान्यवर कुन अमेरिकी राष्ट्रपति थिए?",
+    "number": 79
+  },
+  {
+    "question": "बहुत अधिक मंदी और द्वितीय विश्वयुद्ध के दौरान कौन राष्ट्रपति थे?",
+    "number": 80
+  },
+  {
+    "question": "संसार युद्ध – IIमा संयुक्त राज्य अमेरिकाले कससङ्ग लड्यो? (ne)",
+    "number": 81
+  },
+  {
+    "question": "पहिले वह राष्ट्रपति नहीं थे, ईजेनहावर एक जनरल थे। वह कौनसी युद्ध में थे? (Translated from English to Nepali)",
+    "number": 82
+  },
+  {
+    "question": "शीत युद्ध के दौरान, संयुक्त राज्यों की प्रमुख चिंता क्या थी? (ne)",
+    "number": 83
+  },
+  {
+    "question": "कुन आन्दोलनले जातिय भेदभाव समाप्त गर्न सिक्षित गर्छ? (ISO code for Nepali: ne)",
+    "number": 84
+  },
+  {
+    "question": "मार्टिन लुथर किंग जूनियर ने क्या किया? (maart̪in luthar king juuniyar ne kyaa kiya?)",
+    "number": 85
+  },
+  {
+    "question": "संयुक्त राज्यहरुमा सेप्टेम्बर ११, २००१ मा कुन महत्वपूर्ण घटना घटेको थियो?",
+    "number": 86
+  },
+  {
+    "question": "संयुक्त राज्यमा कुनै अमेरिकी इन्डियन जाति नाम बताउनुहोस्।",
+    "number": 87
+  },
+  {
+    "question": "अमेरिका राज्यको दुई सबैभन्दा लामो खोलाको नाम एउटा भन्नुहोस्। (ne)",
+    "number": 88
+  },
+  {
+    "question": "अमेरिका के पश्चिमी तट पर कौन सा सागर है?",
+    "number": 89
+  },
+  {
+    "question": "संयुक्त राज्यका पुर्वी तराईमा कुन सागर छ? (sanyukta rajyaka purvi taraima kun sagar cha?)",
+    "number": 90
+  },
+  {
+    "question": "एक यूएस क्षेत्र का नाम बताएं। (eko yu/es kshetra ka naam bataayeṁ?)",
+    "number": 91
+  },
+  {
+    "question": "जन कनाडा संबंधित एक राज्य का नाम बताएं।",
+    "number": 92
+  },
+  {
+    "question": "Mexico ko satek maa konai pade paaincha?",
+    "number": 93
+  },
+  {
+    "question": "संयुक्त राज्यको राजधानी के हो?",
+    "number": 94
+  },
+  {
+    "question": "स्टेचू अफ लिबर्टी कहाँ स्थित है? (Sṭēcū aph libertī kahā̃ sthit hai?)",
+    "number": 95
+  },
+  {
+    "question": "किनभने झण्डामा १३ झण्डाको झलक छ? (kinbhane jhanda ma 13 jhanda ko jhalak cha?)",
+    "number": 96
+  },
+  {
+    "question": "किनगेरा झण्डामा ५० तारा छन्?",
+    "number": 97
+  },
+  {
+    "question": "राष्ट्रिय गान को के नाम है? (rāṣṭriya gāna ko ke nām hai?)",
+    "number": 98
+  },
+  {
+    "question": "एकीकृत राज्य अमेरिका अमेरिकाका दो राष्ट्रिय छुट्टीहरुको नाम भन्नुहोस्।",
+    "number": 99
+  },
+  {
+    "question": "हामी स्वतन्त्रता दिवस कसरी मनाउँछौं? (Hamī svatantratā divas kasarī manāuṅchauṅ?)",
+    "number": 100
+  }
+]

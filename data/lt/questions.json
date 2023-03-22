@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Kokia yra viršenybės žemės įstatymas?",
+    "number": 1
+  },
+  {
+    "question": "Ką daro Konstitucija?",
+    "number": 2
+  },
+  {
+    "question": "\"lt\": Valdžios teisės idėja yra Konstitucijos pirmose trijose žodžiuose. Kokie šie žodžiai?",
+    "number": 3
+  },
+  {
+    "question": "Kas yra pataisa?",
+    "number": 4
+  },
+  {
+    "question": "Kaip mes vadiname pirmąsias dešimt pakeitimų Konstitucijai?",
+    "number": 5
+  },
+  {
+    "question": "Koks teisių ar laisvių iš pirmojo pakeitimo?",
+    "number": 6
+  },
+  {
+    "question": "Kelių pataisų yra Konstitucijoje?",
+    "number": 7
+  },
+  {
+    "question": "Ką padarė Nepriklausomybės deklaracija?",
+    "number": 8
+  },
+  {
+    "question": "Kokie yra du teisių Deklaracijoje dėl Nepriklausomybės?",
+    "number": 9
+  },
+  {
+    "question": "Kas yra religijos laisvė?",
+    "number": 10
+  },
+  {
+    "question": "Koks yra ekonominė sistema Jungtinėse Valstijose?",
+    "number": 11
+  },
+  {
+    "question": "Koks yra teisės viršenybės principas?",
+    "number": 12
+  },
+  {
+    "question": "Pavadinę vieną vyriausybės šaką ar dalį.",
+    "number": 13
+  },
+  {
+    "question": "Kas sustabdo vieną valdžios šaką neperžengti savo galių ribų? (Translation in Lithuanian with the ISO code 'lt')",
+    "number": 14
+  },
+  {
+    "question": "Kas yra atsakingas už vykdomąją valdžią?",
+    "number": 15
+  },
+  {
+    "question": "Kas kuria federalinius įstatymus?",
+    "number": 16
+  },
+  {
+    "question": "Kokie yra JAV Kongreso du padaliniai?",
+    "number": 17
+  },
+  {
+    "question": "Kiek JAV senatorių yra?",
+    "number": 18
+  },
+  {
+    "question": "Mesiamai, kiek laiko renkamas JAV senatorius?",
+    "number": 19
+  },
+  {
+    "question": "Kas yra vienas jūsų valstijos JAV senatorių dabar?",
+    "number": 20
+  },
+  {
+    "question": "Kelių narių yra balsavimo Narodų atstovų rūmuose? (Note: This is the question translated into Lithuanian, which is the language with the ISO code 'lt'.)",
+    "number": 21
+  },
+  {
+    "question": "Keliame JAV atstovą į kongresą keliais metais?",
+    "number": 22
+  },
+  {
+    "question": "Koks yra Jūsų JAV atstovo vardas?",
+    "number": 23
+  },
+  {
+    "question": "Kam JAV senatorius atstovauja?",
+    "number": 24
+  },
+  {
+    "question": "Kodėl kai kurioms valstijoms tenka daugiau atstovų nei kitiems?",
+    "number": 25
+  },
+  {
+    "question": "Keliame prezidentą kiek metų?",
+    "number": 26
+  },
+  {
+    "question": "Kuriame mėnesyje mes balsuojame už prezidentą?",
+    "number": 27
+  },
+  {
+    "question": "Koks dabar Jungtinių Valstijų prezidento vardas?",
+    "number": 28
+  },
+  {
+    "question": "Koks yra dabartinio Jungtinių Valstijų JAV viceprezidento vardas?",
+    "number": 29
+  },
+  {
+    "question": "Jeigu Prezidentas negali toliau tarnauti, kas tampa Prezidentu? (lt)",
+    "number": 30
+  },
+  {
+    "question": "Jei prezidentas ir viceprezidentas negali toliau tarnauti, kas tampa prezidentu? (lt)",
+    "number": 31
+  },
+  {
+    "question": "Kas yra kariuomenės viršininkas?",
+    "number": 32
+  },
+  {
+    "question": "Kas pasirašo sąskaitas įstatymais tapti? (Note: This is the question translated into Lithuanian, which has the ISO code \"lt\".)",
+    "number": 33
+  },
+  {
+    "question": "Kas vetuoja teisės aktus?",
+    "number": 34
+  },
+  {
+    "question": "Ką daro prezidento kabinetas?",
+    "number": 35
+  },
+  {
+    "question": "Kokie yra du kabineto lygio pareigūnai?",
+    "number": 36
+  },
+  {
+    "question": "Ką daro teisėtvarkos atstovybė?",
+    "number": 37
+  },
+  {
+    "question": "Kas yra aukščiausiasis tribunolas Jungtinėse Amerikos Valstijose?",
+    "number": 38
+  },
+  {
+    "question": "Kelių teisėjų yra Aukščiausiojo Teismo?",
+    "number": 39
+  },
+  {
+    "question": "Kas yra Jungtinių Valstijų vyriausiasis teisėjas dabar?",
+    "number": 40
+  },
+  {
+    "question": "Pagal Konstituciją, kai kurioms galioms priklauso federalinė vyriausybė. Kokia yra federalinės vyriausybės viena galia?",
+    "number": 41
+  },
+  {
+    "question": "Pagal mūsų Konstituciją tam tikros galybės priklauso valstijoms. Kokia yra viena valstijų galybė?",
+    "number": 42
+  },
+  {
+    "question": "Kas yra jūsų valstijos gubernatorius dabar?",
+    "number": 43
+  },
+  {
+    "question": "Koks yra jūsų valstijos sostinė?",
+    "number": 44
+  },
+  {
+    "question": "Kokie yra du pagrindiniai politiniai partijos Jungtinėse Valstijose?",
+    "number": 45
+  },
+  {
+    "question": "Kokia yra dabartinio Prezidento politinė partija?",
+    "number": 46
+  },
+  {
+    "question": "Koks yra dabartinio JAV Reprresentatyvų rūmų pirmininko vardas?",
+    "number": 47
+  },
+  {
+    "question": "Yra keturi pakeitimai Konstitucijoje dėl to, kas gali balsuoti. Aprašykite vieną iš jų.",
+    "number": 48
+  },
+  {
+    "question": "Kokia yra viena pareiga, kuri priklauso tik Jungtinių Valstijų piliečiams?",
+    "number": 49
+  },
+  {
+    "question": "Kokios yra dvi teisės, kurias turi tik Jungtinių Valstijų piliečiai?",
+    "number": 50
+  },
+  {
+    "question": "Kokie yra du kiekvienoje Jungtinių Valstijų gyvenančios asmenų teisės?",
+    "number": 51
+  },
+  {
+    "question": "Kam mes išreiškiame ištikimybę, sakydami \"Pramonės priesaika\"? (lt)",
+    "number": 52
+  },
+  {
+    "question": "Kokias žadetas padarysite, taptęs Jungtinių Valstijų piliečiu?",
+    "number": 53
+  },
+  {
+    "question": "Kokio amžiaus piliečiai turi būti, kad galėtų balsuoti už prezidentą?",
+    "number": 54
+  },
+  {
+    "question": "Kokios yra dvi Amerikiečių demokratijos dalyvavimo būdai?",
+    "number": 55
+  },
+  {
+    "question": "Kada yra paskutinė diena, kurią galite pateikti federacinius pajamų mokesčių formas?",
+    "number": 56
+  },
+  {
+    "question": "Kada visi vyrai turi registruotis Pasirenkamąją tarnybą?",
+    "number": 57
+  },
+  {
+    "question": "Kokia yra viena priežastis, dėl kurios kolonistai atvyko į Ameriką?",
+    "number": 58
+  },
+  {
+    "question": "Kas gyveno Amerikoje prieš atvykstant europiečiams?",
+    "number": 59
+  },
+  {
+    "question": "Kokia žmonių grupė buvo paimta į Ameriką ir parduota kaip vergai? (Note: The language with the ISO code 'lt' stands for Lithuanian.)",
+    "number": 60
+  },
+  {
+    "question": "Kodėl kolonistai kovojo su britais?",
+    "number": 61
+  },
+  {
+    "question": "Kas parašė Nepriklausomybės deklaraciją?",
+    "number": 62
+  },
+  {
+    "question": "Kada buvo priimta Nepriklausomybės deklaracija?",
+    "number": 63
+  },
+  {
+    "question": "Yra 13 originalių valstijų. Pavadinę tris.",
+    "number": 64
+  },
+  {
+    "question": "Kas vyko Konstitucinėje konvencijoje?",
+    "number": 65
+  },
+  {
+    "question": "Kada buvo parašyta Konstitucija?",
+    "number": 66
+  },
+  {
+    "question": "Federalistų tekstai palaikė Jungtinių Valstijų Konstitucijos priėmimą. Pavadinus vieną rašytoją.",
+    "number": 67
+  },
+  {
+    "question": "Kuo veikmuo yra žinomas Benjamino Franklino? (Note: this is an approximate translation as there is no official ISO code for Lithuanian)",
+    "number": 68
+  },
+  {
+    "question": "Kas yra mūsų šalies tėvas?",
+    "number": 69
+  },
+  {
+    "question": "Kas buvo pirmasis prezidentas?",
+    "number": 70
+  },
+  {
+    "question": "Kokias teritorijas Jungtinės Valstijos nupirko iš Prancūzijos 1803 metais?",
+    "number": 71
+  },
+  {
+    "question": "Pavadinimą vieno karo, kurį Jungtinės Valstijos kovojo XIX amžiuje.",
+    "number": 72
+  },
+  {
+    "question": "Pavadinimas JAV karui tarp šiaurės ir pietų.",
+    "number": 73
+  },
+  {
+    "question": "Pavadinękite vieną problemą, dėl kurios prasidėjo pilietinis karas.",
+    "number": 74
+  },
+  {
+    "question": "Ką svarbaus padarė Abraomas Linkolnas?",
+    "number": 75
+  },
+  {
+    "question": "Kas padarė Emancipacijos Proklamacija?",
+    "number": 76
+  },
+  {
+    "question": "Ką padarė Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Pavadinimas vienas karas kovojo Jungtinės Valstijos XX amžiuje.",
+    "number": 78
+  },
+  {
+    "question": "Kas buvo prezidentu per Pirmąjį pasaulinį karą?",
+    "number": 79
+  },
+  {
+    "question": "Kas buvo prezidentu laikotarpiu, kai buvo Didžioji depresija ir II pasaulinis karas? (lt)",
+    "number": 80
+  },
+  {
+    "question": "Su kova buvo kovojama Jungtinėms Valstijoms II pasaulinio karo metu?",
+    "number": 81
+  },
+  {
+    "question": "Prieš tapdamas prezidentu, Eisenhoweris buvo generolas. Kokio karo jis dalyvavo? (in language with ISO code 'lt')",
+    "number": 82
+  },
+  {
+    "question": "Šaltojo karo metu kokia buvo pagrindinė Jungtinių Valstijų susirūpinimo priežastis?",
+    "number": 83
+  },
+  {
+    "question": "Koks judėjimas bandė baigti rasinę diskriminaciją?",
+    "number": 84
+  },
+  {
+    "question": "Ką padarė Martinas Lutheris Kingas Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Kokios svarbios įvykio įvyko rugsėjo 11 dieną 2001 metais Jungtinėse Amerikos Valstijose?",
+    "number": 86
+  },
+  {
+    "question": "Paminėkite vieną amerikiečių indėnų gentį Jungtinėse Valstijose.",
+    "number": 87
+  },
+  {
+    "question": "Nurodykite vieną iš dviejų ilgiausių upių Jungtinėse Valstijose.",
+    "number": 88
+  },
+  {
+    "question": "Kokiu vandenynu yra Javos vakaro pakrantėje?",
+    "number": 89
+  },
+  {
+    "question": "Kuriame vandenyne yra JAV Rytų pakrantė?",
+    "number": 90
+  },
+  {
+    "question": "Nurodykite vieną JAV teritoriją.",
+    "number": 91
+  },
+  {
+    "question": "Pavadinkite valstiją, kurios sienos ribojasi su Kanada.",
+    "number": 92
+  },
+  {
+    "question": "Pavadinimas vienos valstijos, ribojančios Meksiką.",
+    "number": 93
+  },
+  {
+    "question": "Kokia yra Jungtinių Valstijų sostinė?",
+    "number": 94
+  },
+  {
+    "question": "Kur yra laisvės statula?",
+    "number": 95
+  },
+  {
+    "question": "Kodėl vėliava turi 13 juostų?",
+    "number": 96
+  },
+  {
+    "question": "Kodėl vėliava turi 50 žvaigždžių?",
+    "number": 97
+  },
+  {
+    "question": "Koks yra nacionalinės himno pavadinimas?",
+    "number": 98
+  },
+  {
+    "question": "Pavadinėkite dvi nacionalines JAV šventes.",
+    "number": 99
+  },
+  {
+    "question": "Kada švenčiame Nepriklausomybės dieną?",
+    "number": 100
+  }
+]

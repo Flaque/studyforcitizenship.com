@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Jaka jest najwyższa ustawa kraju?",
+    "number": 1
+  },
+  {
+    "question": "Co robi Konstytucja?",
+    "number": 2
+  },
+  {
+    "question": "Idea samorządu znajduje się w pierwszych trzech słowach Konstytucji. Jakie to słowa?",
+    "number": 3
+  },
+  {
+    "question": "Co to jest poprawka do Konstytucji?",
+    "number": 4
+  },
+  {
+    "question": "Jak nazywamy pierwsze dziesięć poprawek do Konstytucji?",
+    "number": 5
+  },
+  {
+    "question": "Jaki jest jeden z praw lub wolności z Pierwszej Poprawki? (pl)",
+    "number": 6
+  },
+  {
+    "question": "Ile poprawek ma Konstytucja?",
+    "number": 7
+  },
+  {
+    "question": "Co zrobiła Deklaracja Niepodległości?",
+    "number": 8
+  },
+  {
+    "question": "Jakie są dwa prawa zawarte w Deklaracji Niepodległości?",
+    "number": 9
+  },
+  {
+    "question": "Co to jest wolność wyznania?",
+    "number": 10
+  },
+  {
+    "question": "Jaki jest system ekonomiczny w Stanach Zjednoczonych?",
+    "number": 11
+  },
+  {
+    "question": "Jaka jest zasada praworządności?",
+    "number": 12
+  },
+  {
+    "question": "Podaj nazwę jednego z trzech oddziałów lub gałęzi rządu.",
+    "number": 13
+  },
+  {
+    "question": "Co zapobiega temu, żeby jedna gałąź władzy nie zrobiła się zbyt potężna?",
+    "number": 14
+  },
+  {
+    "question": "Kto jest odpowiedzialny za władzę wykonawczą?",
+    "number": 15
+  },
+  {
+    "question": "Kto tworzy ustawy federalne?",
+    "number": 16
+  },
+  {
+    "question": "Jakie są dwie części Kongresu Stanów Zjednoczonych?",
+    "number": 17
+  },
+  {
+    "question": "Ile senatorów ma Stany Zjednoczone?",
+    "number": 18
+  },
+  {
+    "question": "Na ile lat wybieramy senatora Stanów Zjednoczonych?",
+    "number": 19
+  },
+  {
+    "question": "Kto jest jednym z senatorów Stanów Zjednoczonych w twoim stanie teraz?",
+    "number": 20
+  },
+  {
+    "question": "Ile członków Zgromadzenia Reprezentantów ma prawo do głosowania? (ISO code: pl)",
+    "number": 21
+  },
+  {
+    "question": "Na ile lat wybieramy przedstawiciela USA?",
+    "number": 22
+  },
+  {
+    "question": "Jak się nazywa Twój przedstawiciel w Kongresie USA?",
+    "number": 23
+  },
+  {
+    "question": "Kogo reprezentuje senator Stanów Zjednoczonych?",
+    "number": 24
+  },
+  {
+    "question": "Dlaczego niektóre stany mają więcej przedstawicieli niż inne stany?",
+    "number": 25
+  },
+  {
+    "question": "Na ile lat wybieramy Prezydenta?",
+    "number": 26
+  },
+  {
+    "question": "W jakim miesiącu głosujemy na prezydenta?",
+    "number": 27
+  },
+  {
+    "question": "Jaki jest obecny prezydent Stanów Zjednoczonych?",
+    "number": 28
+  },
+  {
+    "question": "Jaki jest obecnie nazwisko Wiceprezydenta Stanów Zjednoczonych?",
+    "number": 29
+  },
+  {
+    "question": "Jeśli prezydent nie może już pełnić swojego urzędu, kto zostaje prezydentem? (pl)",
+    "number": 30
+  },
+  {
+    "question": "Jeśli prezydent i wiceprezydent już nie mogą pełnić swoich funkcji, kto staje się prezydentem? (pl)",
+    "number": 31
+  },
+  {
+    "question": "Kto jest Dowódcą Naczelnym sił zbrojnych?",
+    "number": 32
+  },
+  {
+    "question": "Kto podpisuje rachunki, aby stały się prawami? (pl)",
+    "number": 33
+  },
+  {
+    "question": "Kto zawetuje ustawy?",
+    "number": 34
+  },
+  {
+    "question": "Co robi Gabinet Prezydenta?",
+    "number": 35
+  },
+  {
+    "question": "Jakie są dwie pozycje na szczeblu gabinetu?",
+    "number": 36
+  },
+  {
+    "question": "Co robi władza sądownicza?",
+    "number": 37
+  },
+  {
+    "question": "Jaki jest najwyższy sąd w Stanach Zjednoczonych? (Language: pl)",
+    "number": 38
+  },
+  {
+    "question": "Ilu sędziów zasiada w Sądzie Najwyższym?",
+    "number": 39
+  },
+  {
+    "question": "Kto jest obecnie Naczelnym Sędzią Stanów Zjednoczonych?",
+    "number": 40
+  },
+  {
+    "question": "Zgodnie z naszą Konstytucją niektóre uprawnienia należą do rządu federalnego. Jakie jest jedno uprawnienie rządu federalnego?\n\nTranslated: Zgodnie z naszą Konstytucją niektóre uprawnienia należą do rządu federalnego. Jakie jest jedno uprawnienie rządu federalnego?",
+    "number": 41
+  },
+  {
+    "question": "Zgodnie z naszą Konstytucją niektóre władze należą do stanów. Jaka jest jedna władza stanów?",
+    "number": 42
+  },
+  {
+    "question": "Kto jest obecnie gubernatorem twojego stanu?",
+    "number": 43
+  },
+  {
+    "question": "Jaka jest stolica twojego stanu?",
+    "number": 44
+  },
+  {
+    "question": "Jakie są dwie główne partie polityczne w Stanach Zjednoczonych?",
+    "number": 45
+  },
+  {
+    "question": "Jaka jest obecna partia polityczna Prezydenta?",
+    "number": 46
+  },
+  {
+    "question": "Jaki jest obecny nazwisko Przewodniczącego Izby Reprezentantów?",
+    "number": 47
+  },
+  {
+    "question": "Istnieją cztery poprawki do Konstytucji dotyczące prawa do głosowania. Opisz jedną z nich.",
+    "number": 48
+  },
+  {
+    "question": "Jakie są obowiązki, które są przeznaczone tylko dla obywateli Stanów Zjednoczonych?",
+    "number": 49
+  },
+  {
+    "question": "Jakie są dwa prawa tylko dla obywateli Stanów Zjednoczonych?",
+    "number": 50
+  },
+  {
+    "question": "Jakie są dwa prawa każdej osoby mieszkającej w Stanach Zjednoczonych?",
+    "number": 51
+  },
+  {
+    "question": "Do czego okazujemy lojalność, mówiąc Przysięgę Wierności?",
+    "number": 52
+  },
+  {
+    "question": "Jaki jest jeden obietnica, którą składasz, gdy zostaniesz obywatelem Stanów Zjednoczonych? (ISO code: pl)",
+    "number": 53
+  },
+  {
+    "question": "Jakiego wieku muszą być obywatele, aby móc głosować na prezydenta?",
+    "number": 54
+  },
+  {
+    "question": "Jakie są dwie sposoby, w jakie Amerykanie mogą uczestniczyć w swojej demokracji?",
+    "number": 55
+  },
+  {
+    "question": "Kiedy jest ostatni dzień, w którym można wysłać formularze federalnego podatku dochodowego?",
+    "number": 56
+  },
+  {
+    "question": "Kiedy wszyscy mężczyźni muszą się zarejestrować w Selective Service?",
+    "number": 57
+  },
+  {
+    "question": "Jednym z powodów, dla których koloniści przybyli do Ameryki, był...",
+    "number": 58
+  },
+  {
+    "question": "Kto mieszkał w Ameryce przed przybyciem Europejczyków?",
+    "number": 59
+  },
+  {
+    "question": "Która grupa ludzi została zabrana do Ameryki i sprzedana jako niewolnicy?",
+    "number": 60
+  },
+  {
+    "question": "Dlaczego koloniści walczyli z Brytyjczykami?",
+    "number": 61
+  },
+  {
+    "question": "Kto napisał Deklarację Niepodległości?",
+    "number": 62
+  },
+  {
+    "question": "Kiedy przyjęto Deklarację Niepodległości?",
+    "number": 63
+  },
+  {
+    "question": "Było 13 oryginalnych stanów. Podaj trzy.",
+    "number": 64
+  },
+  {
+    "question": "Co się wydarzyło na Konwencji Konstytucyjnej?",
+    "number": 65
+  },
+  {
+    "question": "Kiedy została napisana Konstytucja?",
+    "number": 66
+  },
+  {
+    "question": "Papiery Federalistyczne poparły uchwalenie Konstytucji USA. Podaj nazwisko jednego z jej autorów.",
+    "number": 67
+  },
+  {
+    "question": "Co najmniej jednym powodem, za który Benjamin Franklin jest sławny, jest ...",
+    "number": 68
+  },
+  {
+    "question": "Kto jest Ojcem Naszego Kraju?",
+    "number": 69
+  },
+  {
+    "question": "Kto był pierwszym prezydentem?",
+    "number": 70
+  },
+  {
+    "question": "Jakie terytorium kupiły Stany Zjednoczone od Francji w 1803 roku? (pl)",
+    "number": 71
+  },
+  {
+    "question": "Wymień jedną wojnę, w której walczyły Stany Zjednoczone w XIX wieku.",
+    "number": 72
+  },
+  {
+    "question": "Jak nazywa się wojna w Stanach Zjednoczonych między Północą a Południem?",
+    "number": 73
+  },
+  {
+    "question": "Jakie było jedno z problemów, które doprowadziły do wojny secesyjnej?",
+    "number": 74
+  },
+  {
+    "question": "Co ważne zrobił Abraham Lincoln?",
+    "number": 75
+  },
+  {
+    "question": "Co zrobiła Proklamacja Emancypacyjna? (pl)",
+    "number": 76
+  },
+  {
+    "question": "Co zrobiła Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Jaką wojnę toczyły Stany Zjednoczone w latach 1900-1999? (pl)",
+    "number": 78
+  },
+  {
+    "question": "Który prezydent był podczas I wojny światowej?",
+    "number": 79
+  },
+  {
+    "question": "Kto był prezydentem podczas Wielkiego Kryzysu i II Wojny Światowej?",
+    "number": 80
+  },
+  {
+    "question": "Z kim Stany Zjednoczone walczyły w II wojnie światowej?",
+    "number": 81
+  },
+  {
+    "question": "Przed objęciem urzędu Prezydenta Eisenhower był generałem. W jakiej wojnie brał udział?",
+    "number": 82
+  },
+  {
+    "question": "Podczas zimnej wojny, co było głównym zmartwieniem Stanów Zjednoczonych?",
+    "number": 83
+  },
+  {
+    "question": "Jaki ruch próbował zakończyć dyskryminację rasową?",
+    "number": 84
+  },
+  {
+    "question": "Co dokonał Martin Luther King Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Jaka znacząca wydarzenie miało miejsce 11 września 2001 roku w Stanach Zjednoczonych?",
+    "number": 86
+  },
+  {
+    "question": "Podaj nazwę jednego plemienia indiańskiego w Stanach Zjednoczonych.",
+    "number": 87
+  },
+  {
+    "question": "Podaj nazwę jednej z dwóch najdłuższych rzek w Stanach Zjednoczonych.",
+    "number": 88
+  },
+  {
+    "question": "Jakie ocean jest na zachodnim wybrzeżu Stanów Zjednoczonych? (ISO code: pl)",
+    "number": 89
+  },
+  {
+    "question": "Jaki ocean znajduje się na wschodnim wybrzeżu Stanów Zjednoczonych?",
+    "number": 90
+  },
+  {
+    "question": "Podaj nazwę jednego terytorium Stanów Zjednoczonych.",
+    "number": 91
+  },
+  {
+    "question": "Podaj nazwę jednego stanu granicznego z Kanadą.",
+    "number": 92
+  },
+  {
+    "question": "Podaj nazwę jednego stanu, który graniczy z Meksykiem.",
+    "number": 93
+  },
+  {
+    "question": "Jaka jest stolica Stanów Zjednoczonych? (ISO code: pl)",
+    "number": 94
+  },
+  {
+    "question": "Gdzie znajduje się Statua Wolności?",
+    "number": 95
+  },
+  {
+    "question": "Dlaczego flaga ma 13 pasów?",
+    "number": 96
+  },
+  {
+    "question": "Dlaczego flaga ma 50 gwiazd? (pl)",
+    "number": 97
+  },
+  {
+    "question": "Jaki jest tytuł hymnu narodowego?",
+    "number": 98
+  },
+  {
+    "question": "Podaj nazwy dwóch narodowych świąt w Stanach Zjednoczonych.",
+    "number": 99
+  },
+  {
+    "question": "Kiedy obchodzimy Dzień Niepodległości?",
+    "number": 100
+  }
+]

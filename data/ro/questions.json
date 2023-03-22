@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Care este legea supremă a țării?",
+    "number": 1
+  },
+  {
+    "question": "Ce face Constituția?",
+    "number": 2
+  },
+  {
+    "question": "\"Care este fraza care conține primele trei cuvinte din Constituție care exprimă ideea de autoguvernare?\"",
+    "number": 3
+  },
+  {
+    "question": "Ce este o amendă?",
+    "number": 4
+  },
+  {
+    "question": "Cum numim primele zece amendamente la Constituție?",
+    "number": 5
+  },
+  {
+    "question": "Care este un drept sau o libertate garantată de primul amendament?",
+    "number": 6
+  },
+  {
+    "question": "Câte amendamente are Constituția?",
+    "number": 7
+  },
+  {
+    "question": "Ce a făcut Declarația de Independență?",
+    "number": 8
+  },
+  {
+    "question": "Care sunt două drepturi menționate în Declarația de Independență?",
+    "number": 9
+  },
+  {
+    "question": "Care este libertatea religioasă?",
+    "number": 10
+  },
+  {
+    "question": "Care este sistemul economic în Statele Unite?",
+    "number": 11
+  },
+  {
+    "question": "Care este regula de drept?",
+    "number": 12
+  },
+  {
+    "question": "Numește una dintre ramurile sau părțile guvernului.",
+    "number": 13
+  },
+  {
+    "question": "Ce oprește o ramură a guvernului să devină prea puternică?",
+    "number": 14
+  },
+  {
+    "question": "Cine este responsabil de ramura executivă?",
+    "number": 15
+  },
+  {
+    "question": "Cine face legile federale? (ro)",
+    "number": 16
+  },
+  {
+    "question": "Care sunt cele două părți ale Congresului SUA? (ro)",
+    "number": 17
+  },
+  {
+    "question": "Câți senatori americani există?",
+    "number": 18
+  },
+  {
+    "question": "\"Pe câți ani alegem un senator american?\"",
+    "number": 19
+  },
+  {
+    "question": "Cine este unul dintre senatorii SUA ai statului dvs. acum?",
+    "number": 20
+  },
+  {
+    "question": "Câți membri cu drept de vot are Camera Reprezentanților?",
+    "number": 21
+  },
+  {
+    "question": "Alegem un reprezentant american pentru câți ani?",
+    "number": 22
+  },
+  {
+    "question": "Enumerați reprezentantul SUA.",
+    "number": 23
+  },
+  {
+    "question": "Pe cine reprezintă un senator american?",
+    "number": 24
+  },
+  {
+    "question": "De ce unele state au mai mulți Reprezentanți decât alte state?",
+    "number": 25
+  },
+  {
+    "question": "În câți ani alegem un președinte?",
+    "number": 26
+  },
+  {
+    "question": "În ce lună votăm pentru Președinte?",
+    "number": 27
+  },
+  {
+    "question": "Care este numele Președintelui Statelor Unite în prezent?",
+    "number": 28
+  },
+  {
+    "question": "Care este numele Vicepreședintelui Statelor Unite în prezent?",
+    "number": 29
+  },
+  {
+    "question": "Dacă președintele nu mai poate serve, cine devine președinte?",
+    "number": 30
+  },
+  {
+    "question": "Dacă atât președintele cât și vicepreședintele nu mai pot sluji, cine devine președinte? (ro)",
+    "number": 31
+  },
+  {
+    "question": "Cine este comandantul suprem al armatei? (ro)",
+    "number": 32
+  },
+  {
+    "question": "Cine semnează proiectele de lege pentru a deveni legi?",
+    "number": 33
+  },
+  {
+    "question": "Cine folosește dreptul de veto asupra legilor?",
+    "number": 34
+  },
+  {
+    "question": "Ce face cabinetul președintelui?",
+    "number": 35
+  },
+  {
+    "question": "Care sunt două poziții de nivel Cabinet?",
+    "number": 36
+  },
+  {
+    "question": "Ce face ramura judecătorească?",
+    "number": 37
+  },
+  {
+    "question": "Care este cel mai înalt tribunal din Statele Unite ale Americii?",
+    "number": 38
+  },
+  {
+    "question": "Câți judecători sunt pe Curtea Supremă?",
+    "number": 39
+  },
+  {
+    "question": "Cine este Șeful Justiției din Statele Unite acum?",
+    "number": 40
+  },
+  {
+    "question": "Potrivit Constituției noastre, unele puteri aparțin guvernului federal. Care este una dintre puterile guvernului federal?",
+    "number": 41
+  },
+  {
+    "question": "În conformitate cu Constituția noastră, unele puteri aparțin statelor. Care este una dintre puterile statelor?",
+    "number": 42
+  },
+  {
+    "question": "Cine este Guvernatorul statului tău în prezent?",
+    "number": 43
+  },
+  {
+    "question": "Care este capitala statului tău?",
+    "number": 44
+  },
+  {
+    "question": "Care sunt cele două partide politice majore din Statele Unite?",
+    "number": 45
+  },
+  {
+    "question": "Care este partidul politic al Președintelui acum?",
+    "number": 46
+  },
+  {
+    "question": "Care este numele vorbitorului Camerei Reprezentanților acum?",
+    "number": 47
+  },
+  {
+    "question": "Există patru amendamente la Constituție referitoare la cine poate vota. Descrieți unul dintre acestea. (ro)",
+    "number": 48
+  },
+  {
+    "question": "Care este o responsabilitate care este doar pentru cetățenii Statelor Unite? (ro)",
+    "number": 49
+  },
+  {
+    "question": "Care sunt două drepturi doar pentru cetățenii Statelor Unite?",
+    "number": 50
+  },
+  {
+    "question": "Care sunt două drepturi ale tuturor persoanelor care locuiesc în Statele Unite?",
+    "number": 51
+  },
+  {
+    "question": "Ce reprezintă loialitatea noastră atunci când spunem Jurământul de credință (Pledge of Allegiance)?",
+    "number": 52
+  },
+  {
+    "question": "Care este o promisiune pe care o faci atunci când devii cetățean al Statelor Unite?",
+    "number": 53
+  },
+  {
+    "question": "Cât de vechi trebuie să fie cetățenii pentru a putea vota pentru Președinte?",
+    "number": 54
+  },
+  {
+    "question": "Care sunt două modalități în care americanii pot participa la democrația lor?",
+    "number": 55
+  },
+  {
+    "question": "Care este ultima zi în care poți trimite formularele federale de impozit pe venit?",
+    "number": 56
+  },
+  {
+    "question": "Când trebuie să se înregistreze toți bărbații pentru Serviciul Selectiv?",
+    "number": 57
+  },
+  {
+    "question": "Care este unul dintre motivele pentru care coloniștii au venit în America?",
+    "number": 58
+  },
+  {
+    "question": "Cine a locuit în America înainte de sosirea europenilor?",
+    "number": 59
+  },
+  {
+    "question": "Ce grup de oameni a fost luat în America și vândut ca sclavi?",
+    "number": 60
+  },
+  {
+    "question": "De ce au luptat coloniștii împotriva britanicilor?",
+    "number": 61
+  },
+  {
+    "question": "Cine a scris Declarația de Independență?",
+    "number": 62
+  },
+  {
+    "question": "Când a fost adoptată Declarația de Independență?",
+    "number": 63
+  },
+  {
+    "question": "Au fost 13 state originale. Numește trei.",
+    "number": 64
+  },
+  {
+    "question": "Ce s'est passé lors de la Convention constitutionnelle?",
+    "number": 65
+  },
+  {
+    "question": "Când a fost scrisă Constituția?",
+    "number": 66
+  },
+  {
+    "question": "\"Documentele federaliste au susținut adoptarea Constituției SUA. Numește unul dintre autori.\"",
+    "number": 67
+  },
+  {
+    "question": "Ce este un lucru pentru care Benjamin Franklin este renumit?",
+    "number": 68
+  },
+  {
+    "question": "Cine este tatăl țării noastre?",
+    "number": 69
+  },
+  {
+    "question": "Cine a fost primul președinte?",
+    "number": 70
+  },
+  {
+    "question": "Ce teritoriu a cumpărat Statele Unite de la Franța în 1803?",
+    "number": 71
+  },
+  {
+    "question": "Care este unul dintre războaiele luptate de Statele Unite în secolul al XIX-lea?",
+    "number": 72
+  },
+  {
+    "question": "Numele războiului din SUA dintre Nord și Sud. (ro)",
+    "number": 73
+  },
+  {
+    "question": "Numeți o problemă care a condus la Războiul Civil.",
+    "number": 74
+  },
+  {
+    "question": "Care a fost un lucru important pe care l-a făcut Abraham Lincoln?",
+    "number": 75
+  },
+  {
+    "question": "Ce a făcut Proclamația de Eliberare?",
+    "number": 76
+  },
+  {
+    "question": "Ce a făcut Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Numeți un război dus de Statele Unite în anii 1900. (ro)",
+    "number": 78
+  },
+  {
+    "question": "Cine a fost Președinte în timpul Primului Război Mondial? (ro)",
+    "number": 79
+  },
+  {
+    "question": "Care a fost președintele în timpul Marelui Depresiune și celui de-Al Doilea Război Mondial?",
+    "number": 80
+  },
+  {
+    "question": "Cine a luptat Statele Unite în cel de-al Doilea Război Mondial?",
+    "number": 81
+  },
+  {
+    "question": "Înainte să fie președinte, Eisenhower a fost general. În ce război a fost?",
+    "number": 82
+  },
+  {
+    "question": "În timpul Războiului Rece, care a fost principala preocupare a Statelor Unite?",
+    "number": 83
+  },
+  {
+    "question": "Ce mișcare a încercat să pună capăt discriminării rasiale?",
+    "number": 84
+  },
+  {
+    "question": "Ce a făcut Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Ce eveniment major s-a produs pe 11 septembrie 2001 în Statele Unite?",
+    "number": 86
+  },
+  {
+    "question": "Numește o trib indiană americană din Statele Unite.",
+    "number": 87
+  },
+  {
+    "question": "Numează unul dintre cele două râuri cele mai lungi în Statele Unite.",
+    "number": 88
+  },
+  {
+    "question": "Ce ocean se află la coasta de vest a Statelor Unite?",
+    "number": 89
+  },
+  {
+    "question": "Ce ocean se află pe coasta de est a Statelor Unite?",
+    "number": 90
+  },
+  {
+    "question": "Numește un teritoriu al SUA.",
+    "number": 91
+  },
+  {
+    "question": "Numește un stat care se învecinează cu Canada.",
+    "number": 92
+  },
+  {
+    "question": "Numește unul dintre statele care se învecinează cu Mexicul.",
+    "number": 93
+  },
+  {
+    "question": "Care este capitala Statelor Unite ale Americii?",
+    "number": 94
+  },
+  {
+    "question": "Unde se află Statuia Libertății?",
+    "number": 95
+  },
+  {
+    "question": "De ce steagul are 13 dungi?",
+    "number": 96
+  },
+  {
+    "question": "De ce are drapelul 50 de stele?",
+    "number": 97
+  },
+  {
+    "question": "Care este numele imnului național?",
+    "number": 98
+  },
+  {
+    "question": "Numește două sărbători naționale americane.",
+    "number": 99
+  },
+  {
+    "question": "Când sărbătorim Ziua Independenței?",
+    "number": 100
+  }
+]

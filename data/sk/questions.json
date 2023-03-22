@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Qual é a lei suprema da terra?",
+    "number": 1
+  },
+  {
+    "question": "Čo robí Ústava?",
+    "number": 2
+  },
+  {
+    "question": "Idea samosprávy sa nachádza v prvých troch slovách Ústavy. Aké sú tieto slová?",
+    "number": 3
+  },
+  {
+    "question": "Čo znamená dodatok?",
+    "number": 4
+  },
+  {
+    "question": "Ako sa nazývajú prvých desať dodatkov k ústave? (sk)",
+    "number": 5
+  },
+  {
+    "question": "Akoé právo alebo sloboda z Prvého dodatku?",
+    "number": 6
+  },
+  {
+    "question": "Koľko dodatkov má Ústava? (ISO code: sk)",
+    "number": 7
+  },
+  {
+    "question": "Čo urobila Deklarácia nezávislosti?",
+    "number": 8
+  },
+  {
+    "question": "Ako dva práva sú uvedené v Deklarácii nezávislosti?",
+    "number": 9
+  },
+  {
+    "question": "Čo je sloboda náboženstva?",
+    "number": 10
+  },
+  {
+    "question": "Aký je hospodársky systém v Spojených štátoch?",
+    "number": 11
+  },
+  {
+    "question": "Ako znie pravidlo práva?",
+    "number": 12
+  },
+  {
+    "question": "Uveďte jeden zákonodarný alebo výkonný orgán štátu.",
+    "number": 13
+  },
+  {
+    "question": "Čo bráni jednej vetve vlády stať sa príliš mocnou?",
+    "number": 14
+  },
+  {
+    "question": "Kto je zodpovedný za výkonnú moc?",
+    "number": 15
+  },
+  {
+    "question": "Kto tvorí federálne zákony?",
+    "number": 16
+  },
+  {
+    "question": "Ako sa volajú dve časti Kongresu USA?",
+    "number": 17
+  },
+  {
+    "question": "Koľko senátorov USA existuje?",
+    "number": 18
+  },
+  {
+    "question": "Pre koľko rokov volíme amerického senátora?",
+    "number": 19
+  },
+  {
+    "question": "Kto je teraz jeden z vašich senátorov v USA v štáte, v ktorom bývate? (ISO code: sk)",
+    "number": 20
+  },
+  {
+    "question": "Koľko má hlasujúcich členov Snemovne reprezentantov?  (sk)",
+    "number": 21
+  },
+  {
+    "question": "Zvolíme amerického zástupcu na koľko rokov? (sk)",
+    "number": 22
+  },
+  {
+    "question": "Ak sa pýtate na USA občianstvo, otázka znie: \"Aké je meno vášho kongresmana?\" v jazyku s ISO kódom 'sk':",
+    "number": 23
+  },
+  {
+    "question": "Koho zastupuje americký senátor?",
+    "number": 24
+  },
+  {
+    "question": "Prečo má niektoré štáty viac zástupcov ako iné štáty?",
+    "number": 25
+  },
+  {
+    "question": "Na koľko rokov volíme prezidenta? (Note: this is Slovak language, not Slovenian. ISO code for Slovak is 'sk'.)",
+    "number": 26
+  },
+  {
+    "question": "V ktorom mesiaci volíme prezidenta?",
+    "number": 27
+  },
+  {
+    "question": "\"Aké je meno súčasného prezidenta Spojených štátov?\" (sk)",
+    "number": 28
+  },
+  {
+    "question": "Ako sa volá podpredseda Spojených štátov teraz?",
+    "number": 29
+  },
+  {
+    "question": "\"Akým spôsobom sa dostane nový prezident, ak už doterajší nie je schopný slúžiť?\"",
+    "number": 30
+  },
+  {
+    "question": "\"Aký doteraz vymenovaný úradník by sa stal prezidentom, ak by prezident aj viceprezident neboli schopní plniť svoje povinnosti?\"",
+    "number": 31
+  },
+  {
+    "question": "Kto je veliteľom ozbrojených síl? (sk)",
+    "number": 32
+  },
+  {
+    "question": "Kto podpisuje faktúry a mení ich na zákony?",
+    "number": 33
+  },
+  {
+    "question": "Kto vetuje zákony?",
+    "number": 34
+  },
+  {
+    "question": "Čo robí prezidentova vláda?",
+    "number": 35
+  },
+  {
+    "question": "Ako sa nazývajú dve pozície na úrovni kabinetu?",
+    "number": 36
+  },
+  {
+    "question": "Čo robí súdna moc?",
+    "number": 37
+  },
+  {
+    "question": "Ako sa volá najvyšší súd Spojených štátov?",
+    "number": 38
+  },
+  {
+    "question": "Koľko sudcov je v Najvyššom súde?",
+    "number": 39
+  },
+  {
+    "question": "Kto je v súčasnosti najvyšší sudca Spojených štátov?",
+    "number": 40
+  },
+  {
+    "question": "Podľa našej Ústavy patria niektoré právomoci federálnemu vládnutiu. Aká je jedna právomoc federálnej vlády? (sk)",
+    "number": 41
+  },
+  {
+    "question": "Podľa našej Ústavy majú niektoré právomoci štáty. Aká je jedna moc štátov? (sk)",
+    "number": 42
+  },
+  {
+    "question": "Kto je teraz guvernérom vášho štátu?",
+    "number": 43
+  },
+  {
+    "question": "\"Aký je hlavné mesto vášho štátu?\"",
+    "number": 44
+  },
+  {
+    "question": "Aké sú dve hlavné politické strany v Spojených štátoch?",
+    "number": 45
+  },
+  {
+    "question": "\"Ktorá politická strana je teraz na čele krajiny?\"",
+    "number": 46
+  },
+  {
+    "question": "Aký je názov rečníka Snemovne reprezentantov teraz?",
+    "number": 47
+  },
+  {
+    "question": "Existujú štyri dodatky ústavy týkajúce sa toho, kto môže voliť. Opíšte jeden z nich.",
+    "number": 48
+  },
+  {
+    "question": "Akoú to plnenie, ktoré patri iba občanom Spojených štátov? (sk)",
+    "number": 49
+  },
+  {
+    "question": "Aké sú dva práva iba pre občanov Spojených štátov?",
+    "number": 50
+  },
+  {
+    "question": "Akoé sú dva práva každého človeka žijúceho v Spojených štátoch? (sk)",
+    "number": 51
+  },
+  {
+    "question": "K čomu prejavujeme lojalitu, keď prezentujeme Prísahu vernosti?",
+    "number": 52
+  },
+  {
+    "question": "Ako sa zaväzuješ po tom, čo získaš americké občianstvo?",
+    "number": 53
+  },
+  {
+    "question": "Koľko-ročný musí byť občan, aby mohol voliť prezidenta? (sk)",
+    "number": 54
+  },
+  {
+    "question": "Akými dvoma spôsobmi môžu Američania participovať v demokracii?",
+    "number": 55
+  },
+  {
+    "question": "Kedy je posledný deň, kedy môžete odoslať federálne daňové prípady?",
+    "number": 56
+  },
+  {
+    "question": "Kedy sa musia všetci muži registrovať do Výberovej služby?",
+    "number": 57
+  },
+  {
+    "question": "Ako dôvod pre príchod kolonistov do Americkej?",
+    "number": 58
+  },
+  {
+    "question": "Kto žil v Amerike pred príchodom Európanov?",
+    "number": 59
+  },
+  {
+    "question": "Ako sa nazýva skupina ľudí, ktorí boli do Ameriky dovezení a predávaní ako otroci?",
+    "number": 60
+  },
+  {
+    "question": "Prečo bojovali osadníci proti Britom?",
+    "number": 61
+  },
+  {
+    "question": "Kto napísal Deklaráciu nezávislosti?",
+    "number": 62
+  },
+  {
+    "question": "Kedy bola prijatá Deklarácia nezávislosti?",
+    "number": 63
+  },
+  {
+    "question": "Boli tam trinásť pôvodných štátov. Menovat tri.",
+    "number": 64
+  },
+  {
+    "question": "Čo sa stalo na ústavnej konvencii?",
+    "number": 65
+  },
+  {
+    "question": "Kedy bola napísaná Ústava?",
+    "number": 66
+  },
+  {
+    "question": "Federálne listy podporili prijatie Ústavy USA. Meno jedného z autorov.",
+    "number": 67
+  },
+  {
+    "question": "Za čo je Benjamín Franklin známy?",
+    "number": 68
+  },
+  {
+    "question": "Kto je Otec našej krajiny?",
+    "number": 69
+  },
+  {
+    "question": "Kto bol prvý prezident?",
+    "number": 70
+  },
+  {
+    "question": "Ake územie kúpili Spojené štáty od Francúzska v roku 1803?",
+    "number": 71
+  },
+  {
+    "question": "Ako sa volal jeden vojnový konflikt, ktorej sa zúčastnili Spojené štáty v 19. storočí?",
+    "number": 72
+  },
+  {
+    "question": "Ako sa volala vojna medzi Severom a Juhom v Spojených štátoch? (ISO code: sk)",
+    "number": 73
+  },
+  {
+    "question": "Ako sa volal jeden problém, ktorý viedol ku Občianskej vojne?",
+    "number": 74
+  },
+  {
+    "question": "Čo bol jedným dôležitým krokom, ktorý urobil Abraham Lincoln? (sk)",
+    "number": 75
+  },
+  {
+    "question": "Čo urobilo vyhlásenie o emancipácii?",
+    "number": 76
+  },
+  {
+    "question": "Čo urobila Susan B. Anthonyová?",
+    "number": 77
+  },
+  {
+    "question": "Aká vojna bola bojovala Spojenými štátmi v rokoch 1900?",
+    "number": 78
+  },
+  {
+    "question": "Kto bol prezidentom počas Prvej svetovej vojny? (sk)",
+    "number": 79
+  },
+  {
+    "question": "Kto bol prezidentom počas Veľkej hospodárskej krízy a druhej svetovej vojny?",
+    "number": 80
+  },
+  {
+    "question": "S ktorými krajinami bojovali Spojené štáty počas druhej svetovej vojny?",
+    "number": 81
+  },
+  {
+    "question": "Predtým, než bol Eisenhower prezidentom, bol generálom. V akej vojne bol?",
+    "number": 82
+  },
+  {
+    "question": "Počas studenej vojny čo bolo hlavnou obavou Spojených štátov?",
+    "number": 83
+  },
+  {
+    "question": "Ako sa nazýva pohyb, ktorý sa usiloval ukončiť rasovú diskrimináciu?",
+    "number": 84
+  },
+  {
+    "question": "Čo urobil Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Ako sa volala významná udalosť, ktorá sa stala v Spojených štátoch 11. septembra 2001? (sk)",
+    "number": 86
+  },
+  {
+    "question": "Menovite jedno americké indiánske kmeňa v Spojených štátoch.",
+    "number": 87
+  },
+  {
+    "question": "Aký je názov jednej z dvoch najdlhších riek v Spojených štátoch?",
+    "number": 88
+  },
+  {
+    "question": "Ako sa volá oceán na západnom pobreží Spojených štátov?",
+    "number": 89
+  },
+  {
+    "question": "Akocean sa nachádza na Východnom pobreží Spojených štátov?",
+    "number": 90
+  },
+  {
+    "question": "Meno jedného teritória Spojených štátov.",
+    "number": 91
+  },
+  {
+    "question": "Uveďte názov jedného štátu, ktorý hraničí s Kanadou.",
+    "number": 92
+  },
+  {
+    "question": "Meno jedným štátom, ktorý hraničí s Mexikom?",
+    "number": 93
+  },
+  {
+    "question": "Ako sa volá hlavné mesto Spojených štátov? (Note: This is Slovak, not Slovenian, which unfortunately does not have an ISO code assigned to it)",
+    "number": 94
+  },
+  {
+    "question": "Kde sa nachádza Socha slobody?",
+    "number": 95
+  },
+  {
+    "question": "Prečo má vlajka 13 pruhov?",
+    "number": 96
+  },
+  {
+    "question": "Prečo má vlajka 50 hviezd?",
+    "number": 97
+  },
+  {
+    "question": "Aký je názov národnej hymny?",
+    "number": 98
+  },
+  {
+    "question": "Uveďte dva národné sviatky v USA.",
+    "number": 99
+  },
+  {
+    "question": "Kedy oslavujeme Deň nezávislosti?",
+    "number": 100
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "\"Hiến pháp là luật tối cao của đất nước là gì?\"",
+    "number": 1
+  },
+  {
+    "question": "Hiểu rõ Hiến pháp làm gì?",
+    "number": 2
+  },
+  {
+    "question": "Ý tưởng tự chính là ở ba từ đầu tiên của Hiến pháp. Những từ đó là gì? (vi)",
+    "number": 3
+  },
+  {
+    "question": "\"Một sửa đổi là gì?\"",
+    "number": 4
+  },
+  {
+    "question": "Chúng ta gọi điều gì là Thẩm quyền Sửa đổi đầu tiên cho Hiến pháp?",
+    "number": 5
+  },
+  {
+    "question": "Một quyền hoặc tự do nào được ghi trong Phụ lục Đầu tiên của Hiến pháp Hoa Kỳ?",
+    "number": 6
+  },
+  {
+    "question": "Bộ Hiến pháp Mỹ đã có bao nhiêu sửa đổi?",
+    "number": 7
+  },
+  {
+    "question": "Bản Tuyên ngôn Độc lập đã làm gì?",
+    "number": 8
+  },
+  {
+    "question": "Trong Tuyên ngôn Độc lập, có hai quyền gì? (vi)",
+    "number": 9
+  },
+  {
+    "question": "\"Tự do tín ngưỡng là gì?\"",
+    "number": 10
+  },
+  {
+    "question": "Hệ thống kinh tế của Hoa Kỳ là gì?",
+    "number": 11
+  },
+  {
+    "question": "Luật pháp là gì? (translation in Vietnamese with ISO code 'vi')",
+    "number": 12
+  },
+  {
+    "question": "Tên một phần hoặc nhánh chính phủ là gì? (vi)",
+    "number": 13
+  },
+  {
+    "question": "\"Những yếu tố gì ngăn chặn một nhánh chính phủ trở nên quá mạnh?\"",
+    "number": 14
+  },
+  {
+    "question": "Ai đứng đầu bộ máy hành pháp? (Vietnamese - vi)",
+    "number": 15
+  },
+  {
+    "question": "Ai tạo luật liên bang?",
+    "number": 16
+  },
+  {
+    "question": "Hai phần của Nghị viện Hoa Kỳ là gì?",
+    "number": 17
+  },
+  {
+    "question": "\"Bao nhiêu thượng nghị sĩ Hoa Kỳ?\"",
+    "number": 18
+  },
+  {
+    "question": "Chúng ta bầu một Thượng nghị sĩ Hoa Kỳ trong bao nhiêu năm? (vi)",
+    "number": 19
+  },
+  {
+    "question": "Ai là một trong các Thượng nghị sĩ Hoa Kỳ đại diện cho tiểu bang của bạn hiện nay?",
+    "number": 20
+  },
+  {
+    "question": "Nhà đại diện có bao nhiêu thành viên có quyền bỏ phiếu? (vi)",
+    "number": 21
+  },
+  {
+    "question": "Chúng ta bình chọn cho một Đại biểu Hoa Kỳ trong bao nhiêu năm? (vi)",
+    "number": 22
+  },
+  {
+    "question": "Hãy đề cập đến Đại diện Hoa Kỳ của bạn.",
+    "number": 23
+  },
+  {
+    "question": "Người đại diện cho Thượng nghị sĩ Hoa Kỳ là ai?",
+    "number": 24
+  },
+  {
+    "question": "Tại sao một số tiểu bang có nhiều đại biểu hơn các tiểu bang khác? (vi)",
+    "number": 25
+  },
+  {
+    "question": "Chúng ta bầu một Tổng thống trong bao nhiêu năm? (vi)",
+    "number": 26
+  },
+  {
+    "question": "\"Trong tháng nào chúng ta bầu cử Tổng thống?\"",
+    "number": 27
+  },
+  {
+    "question": "Tên của Tổng thống Hoa Kỳ hiện nay là gì? (vi)",
+    "number": 28
+  },
+  {
+    "question": "Tên của Phó Tổng thống Hoa Kỳ hiện tại là gì?",
+    "number": 29
+  },
+  {
+    "question": "Nếu Tổng thống không còn thể hoàn thành nhiệm vụ, ai sẽ trở thành Tổng thống? (vi)",
+    "number": 30
+  },
+  {
+    "question": "Nếu tổng thống và phó tổng thống đều không thể tiếp tục nhiệm kỳ, ai sẽ trở thành tổng thống? (Vietnamese)",
+    "number": 31
+  },
+  {
+    "question": "Ai là Tổng Tư lệnh quân đội? (vi)",
+    "number": 32
+  },
+  {
+    "question": "Ai ký các dự luật để trở thành luật? \n\nISO code: vi",
+    "number": 33
+  },
+  {
+    "question": "Ai phủ quyết các dự luật?",
+    "number": 34
+  },
+  {
+    "question": "Bộ trưởng Tổng thống làm gì? (vi)",
+    "number": 35
+  },
+  {
+    "question": "Điều gì là hai vị trí cấp Thượng tạng?",
+    "number": 36
+  },
+  {
+    "question": "Nhánh tư pháp làm gì?",
+    "number": 37
+  },
+  {
+    "question": "\"Pháp đình cao nhất của Hoa Kỳ là gì?\"",
+    "number": 38
+  },
+  {
+    "question": "Bao nhiêu thẩm phán có trong Tòa án Tối cao?",
+    "number": 39
+  },
+  {
+    "question": "Ai là Tòa Án Tối Cao Hoa Kỳ hiện tại? (vi)",
+    "number": 40
+  },
+  {
+    "question": "Dưới Hiến pháp của chúng tôi, một số quyền lực thuộc về chính phủ liên bang. Một quyền lực của chính phủ liên bang là gì?",
+    "number": 41
+  },
+  {
+    "question": "Dưới Hiến pháp của chúng ta, một số quyền được thuộc về các tiểu bang. Một quyền của tiểu bang là gì? (Vietnamese - vi)",
+    "number": 42
+  },
+  {
+    "question": "\"Hiện nay, Thống đốc của tiểu bang của bạn là ai?\"",
+    "number": 43
+  },
+  {
+    "question": "\"Thủ đô của tiểu bang của bạn là gì?\"",
+    "number": 44
+  },
+  {
+    "question": "\"Ủy ban cử tri Hoa Kỳ hỏi: Đảng Chính phủ lớn nhất hai trong Hoa Kỳ là gì?\" (Note: The above is written in Vietnamese using the standard written form.)",
+    "number": 45
+  },
+  {
+    "question": "Đảng chính trị của Tổng thống hiện tại là gì? (Vietnamese - vi)",
+    "number": 46
+  },
+  {
+    "question": "Tên của Chủ tịch Hạ viện hiện nay là gì? (vi)",
+    "number": 47
+  },
+  {
+    "question": "Có bốn sửa đổi Hiến pháp về ai có quyền bỏ phiếu. Miêu tả một trong số đó.",
+    "number": 48
+  },
+  {
+    "question": "Một trách nhiệm chỉ dành cho công dân Hoa Kỳ là gì? (vi)",
+    "number": 49
+  },
+  {
+    "question": "\"Những quyền hạn nào chỉ có cho công dân Hoa Kỳ?\"",
+    "number": 50
+  },
+  {
+    "question": "Hai quyền được bảo vệ của mọi người sống tại Hoa Kỳ là gì?",
+    "number": 51
+  },
+  {
+    "question": "Chúng ta thể hiện lòng trung thành đối với điều gì khi nói Lời Tuyên Thệ Trung Tín?",
+    "number": 52
+  },
+  {
+    "question": "Một lời hứa mà bạn đưa ra khi trở thành công dân Hoa Kỳ là gì? (vi)",
+    "number": 53
+  },
+  {
+    "question": "Bao nhiêu tuổi công dân phải đạt để bỏ phiếu cho Tổng thống?",
+    "number": 54
+  },
+  {
+    "question": "\"Có hai cách nào mà người Mỹ có thể tham gia vào nền dân chủ của họ là gì?\"",
+    "number": 55
+  },
+  {
+    "question": "Khi nào là ngày cuối cùng bạn có thể gửi các biểu mẫu thuế thu nhập liên bang?",
+    "number": 56
+  },
+  {
+    "question": "Khi nào phải đăng ký Dịch vụ Lựa chọn?",
+    "number": 57
+  },
+  {
+    "question": "Một lý do để những thực dân đến Mỹ là gì?",
+    "number": 58
+  },
+  {
+    "question": "Ai đã sống tại Mỹ trước khi người Châu Âu đến?",
+    "number": 59
+  },
+  {
+    "question": "Nhóm người nào đã bị đưa đến Mỹ và bán làm nô lệ?",
+    "number": 60
+  },
+  {
+    "question": "Tại sao các thuộc địa chiến đấu chống lại Anh? (vi)",
+    "number": 61
+  },
+  {
+    "question": "Ai đã viết Tuyên ngôn Độc lập?",
+    "number": 62
+  },
+  {
+    "question": "Khi nào Tuyên ngôn Độc lập được ban hành? (vi)",
+    "number": 63
+  },
+  {
+    "question": "Có 13 tiểu bang ban đầu. Hãy đặt tên ba tiểu bang.",
+    "number": 64
+  },
+  {
+    "question": "Điều gì đã xảy ra tại Đại hội Hiến pháp?",
+    "number": 65
+  },
+  {
+    "question": "\"The Constitution được viết vào thời điểm nào?\"",
+    "number": 66
+  },
+  {
+    "question": "Các Bài luận Liên bang đã hỗ trợ việc thông qua Hiến pháp Hoa Kỳ. Hãy đề cập tên của một tác giả.",
+    "number": 67
+  },
+  {
+    "question": "Một việc mà Benjamin Franklin nổi tiếng là gì?",
+    "number": 68
+  },
+  {
+    "question": "Ai là Cha của Đất nước chúng ta?",
+    "number": 69
+  },
+  {
+    "question": "Ai là Tổng thống đầu tiên?",
+    "number": 70
+  },
+  {
+    "question": "Lãnh thổ nào mà Hoa Kỳ đã mua từ Pháp vào năm 1803?",
+    "number": 71
+  },
+  {
+    "question": "Hãy đưa ra tên của một cuộc chiến tranh mà Hoa Kỳ tham gia trong thế kỷ 19.",
+    "number": 72
+  },
+  {
+    "question": "Tên cuộc chiến của Hoa Kỳ giữa miền Bắc và miền Nam là gì?",
+    "number": 73
+  },
+  {
+    "question": "Tên một vấn đề dẫn đến Cuộc nội chiến là gì?",
+    "number": 74
+  },
+  {
+    "question": "\"Một việc quan trọng mà Abraham Lincoln đã làm là gì?\"",
+    "number": 75
+  },
+  {
+    "question": "Lời Tuyên Bố Giải Phóng có tác dụng gì?",
+    "number": 76
+  },
+  {
+    "question": "Susan B. Anthony đã làm gì? (in Vietnamese)",
+    "number": 77
+  },
+  {
+    "question": "Tên một cuộc chiến mà Hoa Kỳ tham gia trong thế kỷ 20 là gì? (vi)",
+    "number": 78
+  },
+  {
+    "question": "Ai là Tổng thống trong Thế chiến I?",
+    "number": 79
+  },
+  {
+    "question": "Ai đã là Tổng thống trong thời kỳ Đại khủng hoảng và Thế chiến II? (vi)",
+    "number": 80
+  },
+  {
+    "question": "Mỹ đã chiến đấu với Ai Cập trong Thế chiến II?",
+    "number": 81
+  },
+  {
+    "question": "Trước khi ông trở thành Tổng thống, Eisenhower là một tướng. Ông tham gia cuộc chiến tranh nào? (vi)",
+    "number": 82
+  },
+  {
+    "question": "Trong thời kỳ Chiến tranh Lạnh, chính vấn đề chính của Hoa Kỳ là gì? (vi)",
+    "number": 83
+  },
+  {
+    "question": "Phong trào nào đã cố gắng chấm dứt phân biệt chủng tộc? (vi)",
+    "number": 84
+  },
+  {
+    "question": "Martin Luther King, Jr. đã làm gì?",
+    "number": 85
+  },
+  {
+    "question": "Sự kiện lớn nào đã xảy ra vào ngày 11 tháng 9 năm 2001 tại Hoa Kỳ? (vi)",
+    "number": 86
+  },
+  {
+    "question": "Hãy đưa ra tên của một bộ tộc người Mỹ thuộc Hoa Kỳ.",
+    "number": 87
+  },
+  {
+    "question": "Tên một trong hai con sông dài nhất ở Hoa Kỳ là gì? (vi)",
+    "number": 88
+  },
+  {
+    "question": "Đại Tây Dương nằm ở bờ Tây của Hoa Kỳ? (vi)",
+    "number": 89
+  },
+  {
+    "question": "Đại Tây Dương nằm ở bờ Đông của Hoa Kỳ? (Note: This is Vietnamese)",
+    "number": 90
+  },
+  {
+    "question": "Hãy cho biết một lãnh thổ của Hoa Kỳ.",
+    "number": 91
+  },
+  {
+    "question": "Tên một bang giáp biên giới với Canada.",
+    "number": 92
+  },
+  {
+    "question": "Hãy chỉ ra một tiểu bang giáp với Mexico.",
+    "number": 93
+  },
+  {
+    "question": "\"Thủ đô của Hoa Kỳ là gì?\"",
+    "number": 94
+  },
+  {
+    "question": "Đài Tượng Nữ thần Tự do nằm ở đâu? (translation in Vietnamese - ISO code: vi)",
+    "number": 95
+  },
+  {
+    "question": "Tại sao lá cờ có 13 sọc? (vi)",
+    "number": 96
+  },
+  {
+    "question": "Tại sao lá cờ có 50 ngôi sao? (in Vietnamese)",
+    "number": 97
+  },
+  {
+    "question": "\"Quốc ca là gì?\"",
+    "number": 98
+  },
+  {
+    "question": "Tên của hai ngày lễ quốc gia tại Hoa Kỳ là gì?",
+    "number": 99
+  },
+  {
+    "question": "Khi nào chúng ta kỷ niệm Ngày Độc lập?  (vi)",
+    "number": 100
+  }
+]

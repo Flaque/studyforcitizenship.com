@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Yerin en üstün yasası nedir?",
+    "number": 1
+  },
+  {
+    "question": "Anayasa ne yapar?",
+    "number": 2
+  },
+  {
+    "question": "Anayasa'nın ilk üç kelimesinde özyönetim fikri vardır. Bu kelimeler nelerdir? (ISO kodu: tr)",
+    "number": 3
+  },
+  {
+    "question": "Bir düzeltme nedir?",
+    "number": 4
+  },
+  {
+    "question": "Anayasaya ilk on değişiklik olarak adlandırdığımız nedir?",
+    "number": 5
+  },
+  {
+    "question": "Birinci Değişiklik'ten bir hak veya özgürlük nedir?",
+    "number": 6
+  },
+  {
+    "question": "Anayasa kaç düzeltme (değişiklik) içeriyor?",
+    "number": 7
+  },
+  {
+    "question": "Bağımsızlık Bildirisi ne yaptı?",
+    "number": 8
+  },
+  {
+    "question": "Bağımsızlık Bildirisi'nde belirtilen iki hak nedir? (ISO kodu 'tr' için)",
+    "number": 9
+  },
+  {
+    "question": "Din özgürlüğü nedir?",
+    "number": 10
+  },
+  {
+    "question": "Amerika Birleşik Devletleri'nde ekonomik sistem nedir?",
+    "number": 11
+  },
+  {
+    "question": "Hukukun kuralı nedir?",
+    "number": 12
+  },
+  {
+    "question": "Hükümetin bir dalını veya bir parçasını adlandırın. (tr)",
+    "number": 13
+  },
+  {
+    "question": "Hükümetin bir dalının çok güçlenmesini ne engeller?",
+    "number": 14
+  },
+  {
+    "question": "\"Yürütme gücünden kim sorumludur?\"",
+    "number": 15
+  },
+  {
+    "question": "Federal yasaları kim yapar?",
+    "number": 16
+  },
+  {
+    "question": "ABD Kongresi'nin iki bölümü nedir?",
+    "number": 17
+  },
+  {
+    "question": "Kaç ABD Senatörü vardır?",
+    "number": 18
+  },
+  {
+    "question": "Kaç yıl için Amerika Birleşik Devletleri Senatörü seçiyoruz?",
+    "number": 19
+  },
+  {
+    "question": "Şu anda eyaletinizin ABD Senatörlerinden biri kimdir?",
+    "number": 20
+  },
+  {
+    "question": "\"Temsilciler Meclisi oy veren kaç üyeye sahiptir?\"",
+    "number": 21
+  },
+  {
+    "question": "Kaç yıl boyunca bir ABD Temsilcisi seçiyoruz?",
+    "number": 22
+  },
+  {
+    "question": "ABD Temsilcinizi adlandırın. (Turkish)",
+    "number": 23
+  },
+  {
+    "question": "Bir ABD Senatörü kimleri temsil eder? \n\nNote: The language with the ISO code 'tr' stands for Turkish.",
+    "number": 24
+  },
+  {
+    "question": "Neden bazı eyaletler diğer eyaletlerden daha fazla Temsilciye sahip? \n\n(tr)",
+    "number": 25
+  },
+  {
+    "question": "Kaç yıl için bir başkan seçiyoruz? (ISO code: tr)",
+    "number": 26
+  },
+  {
+    "question": "\"Başkanlık için hangi ay oy kullanırız?\"",
+    "number": 27
+  },
+  {
+    "question": "\"Şu anda Amerika Birleşik Devletleri Başkanı'nın adı nedir?\"",
+    "number": 28
+  },
+  {
+    "question": "ABD'nin Şu Anki Başkan Yardımcısının Adı Nedir?",
+    "number": 29
+  },
+  {
+    "question": "Başkan artık görev yapamazsa, kim başkan olur?",
+    "number": 30
+  },
+  {
+    "question": "Eğer hem Başkan hem de Başkan Yardımcısı görevlerini yapamazsa, kim Başkan olur?",
+    "number": 31
+  },
+  {
+    "question": "Askeri kuvvetlerin Komutanı Kimdir? (Note: This is the translation of \"Who is the Commander in Chief of the military?\" in Turkish language with the ISO code 'tr'.)",
+    "number": 32
+  },
+  {
+    "question": "Hangileri yasalara dönüşmek için tasarıları imzalar?",
+    "number": 33
+  },
+  {
+    "question": "Kimler tasarıları veto eder?",
+    "number": 34
+  },
+  {
+    "question": "Başkanın Kabinesi ne yapar?",
+    "number": 35
+  },
+  {
+    "question": "İki kabine düzeyindeki pozisyon nedir?",
+    "number": 36
+  },
+  {
+    "question": "Adli kolluk ne yapar?",
+    "number": 37
+  },
+  {
+    "question": "ABD'de en yüksek mahkeme nedir?",
+    "number": 38
+  },
+  {
+    "question": "Yüksek Mahkeme'de kaç hakim vardır?",
+    "number": 39
+  },
+  {
+    "question": "\"Amerika Birleşik Devletleri'nin Baş Yargıcı kimdir şu anda?\"",
+    "number": 40
+  },
+  {
+    "question": "Anayasamıza göre, bazı yetkiler federal hükümete aittir. Federal hükümetin bir gücü nedir?",
+    "number": 41
+  },
+  {
+    "question": "Anayasamıza göre, bazı güçler eyaletlere aittir. Devletlerin bir gücü nedir?",
+    "number": 42
+  },
+  {
+    "question": "Şu anda eyaletinizin valisi kimdir?",
+    "number": 43
+  },
+  {
+    "question": "Eyaletinizin başkenti nedir?",
+    "number": 44
+  },
+  {
+    "question": "ABD'de iki ana siyasi parti nedir?",
+    "number": 45
+  },
+  {
+    "question": "Şu anda Cumhurbaşkanı'nın siyasi partisi nedir?",
+    "number": 46
+  },
+  {
+    "question": "\"Şu anda Temsilciler Meclisi Başkanı'nın adı nedir?\"",
+    "number": 47
+  },
+  {
+    "question": "Anayasaya kimlerin oy kullanabileceği hakkında dört düzeltme getirildi. Onlardan birini açıklayın.",
+    "number": 48
+  },
+  {
+    "question": "Amerika Birleşik Devletleri vatandaşlarına özgü olan bir sorumluluk nedir?",
+    "number": 49
+  },
+  {
+    "question": "Amerika Birleşik Devletleri vatandaşlarına özgü olan iki hak nedir?",
+    "number": 50
+  },
+  {
+    "question": "Amerika Birleşik Devletleri'nde yaşayan herkesin sahip olduğu iki hak nedir?",
+    "number": 51
+  },
+  {
+    "question": "Vatandaşlık sınavındaki bu soruyu 'tr' ISO kodlu dile çevirin:\n\nYurttaşlık yemini yaparken sadakatimizi neye gösteriyoruz?",
+    "number": 52
+  },
+  {
+    "question": "Birleşik Devletler vatandaşı olduğunuzda verdiğiniz sözlerden biri nedir?",
+    "number": 53
+  },
+  {
+    "question": "\"Vatandaşlar başkanlık seçimlerinde oy kullanmak için kaç yaşında olmalıdır?\"",
+    "number": 54
+  },
+  {
+    "question": "Amerikalılar demokrasilerine nasıl katılabilirler? İki yol nedir?",
+    "number": 55
+  },
+  {
+    "question": "Federal gelir vergisi formlarını gönderebileceğiniz son gün ne zamandır?",
+    "number": 56
+  },
+  {
+    "question": "Tüm erkekler Seçici Hizmet için ne zaman kayıt olmalıdır? (ISO code for Turkish: 'tr')",
+    "number": 57
+  },
+  {
+    "question": "Amerika'ya sömürgecilerin gelme nedenlerinden biri nedir?",
+    "number": 58
+  },
+  {
+    "question": "Avrupalılar gelmeden önce Amerika'da kim yaşadı?",
+    "number": 59
+  },
+  {
+    "question": "\"Kime ait bir grup insan Amerika'ya götürüldü ve köle olarak satıldı?\"",
+    "number": 60
+  },
+  {
+    "question": "Koloniler neden İngilizlere karşı savaştılar?",
+    "number": 61
+  },
+  {
+    "question": "Bağımsızlık Bildirisi'ni kim yazdı?",
+    "number": 62
+  },
+  {
+    "question": "Bağımsızlık Bildirisi ne zaman kabul edildi?",
+    "number": 63
+  },
+  {
+    "question": "13 orijinal eyalet vardı. Üçünü adlandırın. (tr)",
+    "number": 64
+  },
+  {
+    "question": "Anayasa Konvansiyonu'nda ne oldu?",
+    "number": 65
+  },
+  {
+    "question": "Anayasa ne zaman yazılmıştır?",
+    "number": 66
+  },
+  {
+    "question": "ABD vatandaşlık testindeki bu soruyu diline çevirin: 'tr':\n\nFederalist Kağıtları, ABD Anayasası'nın kabulünü destekledi. Yazarlardan birini adlandırın.",
+    "number": 67
+  },
+  {
+    "question": "Benjamin Franklin için ünlü bir şey nedir?",
+    "number": 68
+  },
+  {
+    "question": "\"Ülkemizin babası kimdir?\"",
+    "number": 69
+  },
+  {
+    "question": "İlk başkan kimdi?",
+    "number": 70
+  },
+  {
+    "question": "Amerika Birleşik Devletleri, 1803 yılında hangi toprakları Fransa'dan satın aldı?",
+    "number": 71
+  },
+  {
+    "question": "Birleşik Devletler'in 1800’lerde savaştığı bir savaşı adlandırın. (tr)",
+    "number": 72
+  },
+  {
+    "question": "Kuzey ve Güney arasındaki ABD savaşına ne ad verilir?",
+    "number": 73
+  },
+  {
+    "question": "Sivil Savaş'a yol açan bir sorunu isimlendirin.",
+    "number": 74
+  },
+  {
+    "question": "\"Abraham Lincoln'ün yaptığı önemli bir şey nedir?\"",
+    "number": 75
+  },
+  {
+    "question": "\"Emansipasyon Bildirgesi ne işe yaradı?\"",
+    "number": 76
+  },
+  {
+    "question": "Susan B. Anthony ne yaptı?",
+    "number": 77
+  },
+  {
+    "question": "Birleşik Devletler'in 1900'lerde savaştığı bir savaş adı verin.",
+    "number": 78
+  },
+  {
+    "question": "Birinci Dünya Savaşı sırasında kim başkanlık yaptı?",
+    "number": 79
+  },
+  {
+    "question": "Büyük Buhran ve İkinci Dünya Savaşı sırasında Başkan kimdi?",
+    "number": 80
+  },
+  {
+    "question": "Birleşik Devletler II. Dünya Savaşı'nda kimlerle savaştı? (Note: Turkish is the language with the ISO code 'tr')",
+    "number": 81
+  },
+  {
+    "question": "Başkan olmadan önce, Eisenhower bir generaldi. Hangi savaşta yer aldı? (translated to 'tr')",
+    "number": 82
+  },
+  {
+    "question": "Soğuk Savaş döneminde, Amerika Birleşik Devletleri'nin ana endişesi neydi?",
+    "number": 83
+  },
+  {
+    "question": "\"ırk ayrımcılığını sona erdirmeye çalışan hareket nedir?\"",
+    "number": 84
+  },
+  {
+    "question": "Martin Luther King, Jr. ne yaptı?",
+    "number": 85
+  },
+  {
+    "question": "11 Eylül 2001'de Amerika Birleşik Devletleri'nde hangi önemli olay gerçekleşti?",
+    "number": 86
+  },
+  {
+    "question": "ABD'deki Amerikan yerlilerinden bir kabileyi adlandırın.",
+    "number": 87
+  },
+  {
+    "question": "Amerika Birleşik Devletleri'ndeki en uzun iki nehirden birinin adını söyleyin.",
+    "number": 88
+  },
+  {
+    "question": "\"Amerika Birleşik Devletleri'nin Batı Kıyısında hangi okyanus bulunur?\"",
+    "number": 89
+  },
+  {
+    "question": "ABD'nin Doğu Sahili'nde hangi okyanus bulunur?",
+    "number": 90
+  },
+  {
+    "question": "Bir ABD bölgesi adı verin.",
+    "number": 91
+  },
+  {
+    "question": "Kanada'ya komşu olan bir eylül ismi verin.",
+    "number": 92
+  },
+  {
+    "question": "Meksika'ya komşu olan eyaletlerden birini adı veriniz.",
+    "number": 93
+  },
+  {
+    "question": "Amerika Birleşik Devletleri'nin başkenti nedir?",
+    "number": 94
+  },
+  {
+    "question": "Özgürlük Heykeli nerede?",
+    "number": 95
+  },
+  {
+    "question": "Bayrak neden 13 şeritli?",
+    "number": 96
+  },
+  {
+    "question": "Bayrak neden 50 yıldızı var?",
+    "number": 97
+  },
+  {
+    "question": "Mili marşın adı nedir?",
+    "number": 98
+  },
+  {
+    "question": "İki adet ABD milli tatil ismi verin.",
+    "number": 99
+  },
+  {
+    "question": "Bağımsızlık Günü'nü ne zaman kutlarız?",
+    "number": 100
+  }
+]

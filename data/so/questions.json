@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Maxaa yeelay dastuurka ugu sareeya ee dhulka?",
+    "number": 1
+  },
+  {
+    "question": "Maxaa ka soo horjeedka qabyada?",
+    "number": 2
+  },
+  {
+    "question": "Fikirka hoggaanka arrimaha shaqada ah wuxuu ku jira laba ereyada ugu horreeya ee Dastuurka. Ereyadaani waa maxaa?",
+    "number": 3
+  },
+  {
+    "question": "Maqlayo waa maxkamad?",
+    "number": 4
+  },
+  {
+    "question": "Maxaa ka mid ah ugu horeeyayda saddexda midow ee Dastuurka la yiraahdo? (Language: so)",
+    "number": 5
+  },
+  {
+    "question": "Maxaa ka mid ah xaquuq ama xoriyad maamulka 1aad ee Mabadan?",
+    "number": 6
+  },
+  {
+    "question": "Qof kaddib waxay Constitution ka qeeybinaysaa?",
+    "number": 7
+  },
+  {
+    "question": "Maxaa ka hor istaaga xeerka Xuduudda Qaranka?",
+    "number": 8
+  },
+  {
+    "question": "Magaalooyinka labaad ee Declaration of Independence waa mid waxa loo qoray oo sharaf leh?",
+    "number": 9
+  },
+  {
+    "question": "Ma aha calaamadda diinta xuruuf?",
+    "number": 10
+  },
+  {
+    "question": "Maxaa sidiisa nidaamka dhaqaale ee Mareykanka?",
+    "number": 11
+  },
+  {
+    "question": "Maxaa ka saarista qaanuunka sharciga ah?",
+    "number": 12
+  },
+  {
+    "question": "Magaca halgan ama qayb ka mid ah xukunka government-ka.",
+    "number": 13
+  },
+  {
+    "question": "Maxay u ogolaysaa geeska mid ka mid ah ee hanti-yada in uu awooda ugu yaraan tahay?",
+    "number": 14
+  },
+  {
+    "question": "Maxaa ka sareyay xubinhooda xukuumadda sare?",
+    "number": 15
+  },
+  {
+    "question": "Maxaa ka yimid qaanuunka federaalka ah?",
+    "number": 16
+  },
+  {
+    "question": "Maxaa ka mid ah labada xubnood ee Congress ee Maraykanka?",
+    "number": 17
+  },
+  {
+    "question": "Meel kasta leh Sanaatoreeyada Maraykanka ah?",
+    "number": 18
+  },
+  {
+    "question": "Ma awooddaan hoggaamiyaha Mareykanka ee Senator ee Mareykanka ilaa qaar sannadood?",
+    "number": 19
+  },
+  {
+    "question": "Ma aha qofka mid ka mid ah Hal-ganaha Qaramada Midoobay ee dalkaada hadda?",
+    "number": 20
+  },
+  {
+    "question": "Qaabdhanka Wakiilada waxaa ka kooban meelaha codsaneeya?",
+    "number": 21
+  },
+  {
+    "question": "Maanta laba sano, waxa loo dooran karaa wakiilka Mareykanka ee Maraykanka?",
+    "number": 22
+  },
+  {
+    "question": "Ma joojiya afarteeyaha Maraykanka.",
+    "number": 23
+  },
+  {
+    "question": "Maxaa ka mid ah Ruux-gaaladda Maraykanka ayaa ka dhigi kara?",
+    "number": 24
+  },
+  {
+    "question": "Maxaa sababay in baadheeraha uu dalka ku leeyahay ay leeyihiin wakiilo badan?",
+    "number": 25
+  },
+  {
+    "question": "Waannu ayaa wax looga dooran karaa Madaxweyne ee sannadka siddeed?",
+    "number": 26
+  },
+  {
+    "question": "Inta ka bilawda ayaa waxaa dhicis doona Agaasime ka?",
+    "number": 27
+  },
+  {
+    "question": "Maxaa magaca madaxweyne ka ah Mareykanka hadda?",
+    "number": 28
+  },
+  {
+    "question": "Waa maxay magaca Madaxweynaha Kumeelgaarka ah ee Maraykanka madhanaha? (Somali)",
+    "number": 29
+  },
+  {
+    "question": "Hadii madaxweyne awoodda ka jira lama yaqaanno, waxay ku dhiman karaan?",
+    "number": 30
+  },
+  {
+    "question": "Haddii dhamaan Madaxweynaha iyo Madaxweyne ku nool lahaa, maxaa loo noqon doonaa Madaxweyne? (ISO code: so)",
+    "number": 31
+  },
+  {
+    "question": "Maxaa laga filayo Guddoomiyaha Maxkamadda sare ee qaranka? (ISO code for Somali language is 'so')",
+    "number": 32
+  },
+  {
+    "question": "Maxaa yeelayaa wuxuu qorayaasha qiyaasaha u ekaa xeerarka?",
+    "number": 33
+  },
+  {
+    "question": "Maxaa u xisaabtanka sharciga u dhiibayaa?",
+    "number": 34
+  },
+  {
+    "question": "Maxaa loo sameeyey Maktabada Madaxweyne?",
+    "number": 35
+  },
+  {
+    "question": "Maxaa ka xiga saddex arrimaha dhowrka ah ee Xeer-ilaaqda ka qeybgalaya?",
+    "number": 36
+  },
+  {
+    "question": "Maxay ka qeybgaleen cawkeeda qaadi doona?",
+    "number": 37
+  },
+  {
+    "question": "Yaa ka naxariista ugu sareysa ee Maraykanka? (Note: This translation is in Somali, which has the ISO code \"so\" as requested. However, it should be noted that \"so\" is also the ISO code for the Songhai language, and the translation for that language would be different.)",
+    "number": 38
+  },
+  {
+    "question": "Runtii hogaamiyayaasha Qaranka Kowaad?",
+    "number": 39
+  },
+  {
+    "question": "\"Waa maxay Guddoomiye Fadhiga Mareykanka hadda?\"",
+    "number": 40
+  },
+  {
+    "question": "Deganka hogaanka ee Maraykanka, waxa ay qaar ka mid ah wakiiladaha ka jooga hogaamiyaha federaalka ah. Waa maxay mid ka mid ah wakiilka hogaanka federaalka?",
+    "number": 41
+  },
+  {
+    "question": "Sida looma dhashay qabyo-yaddaasheena, waxa ay qabyada ku leeyihiin wadanka. Waa maxay shuruucyada qabyada?",
+    "number": 42
+  },
+  {
+    "question": "Mudooga gobolkaaga hadda?",
+    "number": 43
+  },
+  {
+    "question": "Madaxweynaha gobolkaaga maxaa magaalada?",
+    "number": 44
+  },
+  {
+    "question": "Maxaa ugu muhiimsan labada xisbiyada siyaasadda ee Maraykanka?",
+    "number": 45
+  },
+  {
+    "question": "Maxaa ka taqaanaa xisbiga siyaasadda madaxweynaha hadda?",
+    "number": 46
+  },
+  {
+    "question": "Maxaa magaca Hoggaanka Wakiilada ee hadda?",
+    "number": 47
+  },
+  {
+    "question": "Waxaa jira afar qodob ee saxaafadda ee ku saabsan qofka ee codka ka qaadato. Sharax sidan.",
+    "number": 48
+  },
+  {
+    "question": "Maxaa ka fekeraas ka qaadista ah ee ay ka shaqeeyaan qowmiyada Maraykanka ah?",
+    "number": 49
+  },
+  {
+    "question": "Maxaa daahfurka laba sharaf oo ka-mida qaxootiga Maraykanka?",
+    "number": 50
+  },
+  {
+    "question": "Mawqifka ugu horeeyay ee kuwa ku nool Maraykanka iyo laba xaqood oo leh?",
+    "number": 51
+  },
+  {
+    "question": "Maxaa ka muuqdaa ninka Qaxootiga ah kadib markii aanan ka tagay Maraykanka?",
+    "number": 52
+  },
+  {
+    "question": "Maxaa ka mid ah wada shaqeynta waddanka Maraykanka aad joojiso markaad aqoonsatid cidiiqaba marka aad tahay shacabka Maraykanka?",
+    "number": 53
+  },
+  {
+    "question": "Maxaa iyada uusan kuu diiwaan gelin Telefishinada ?",
+    "number": 54
+  },
+  {
+    "question": "Maxaa ka horaysaa qowmiyadda Mareykanka si ay dadku u qabtaan?",
+    "number": 55
+  },
+  {
+    "question": "Maxaa ka baxsan ugu dambaysay maalinta aad ku dirto foomka cukuse ee dhaqaalaha wadanka?",
+    "number": 56
+  },
+  {
+    "question": "Markii kasta oo dhan waa inay soo diyaariyaan adeegga Xidhiidhka Xidhiidhka?",
+    "number": 57
+  },
+  {
+    "question": "Maxaa sababta ugu dambeeyay ee qurbaajooyinka iska soo keenay America?",
+    "number": 58
+  },
+  {
+    "question": "Maxaa ka soo baxay America ka hor Europeanka soo laabatay?",
+    "number": 59
+  },
+  {
+    "question": "Qeybtii dadka waxay la qabsadeen Mareykanka iyo waxay ku iibsadeen dad Gilgilan?",
+    "number": 60
+  },
+  {
+    "question": "Maxaa sabab u ahoo ciidankaasi laga dagaalamay Britaanniyah?",
+    "number": 61
+  },
+  {
+    "question": "Maninka: Konu nàti yala Declaration of Independence? \n\nSorry, 'so' is not a valid language code according to ISO standards.",
+    "number": 62
+  },
+  {
+    "question": "Maxaa ka hor inta ay soo muujin lahaay Karin caddaaladda dhinaca hoggaamiya?",
+    "number": 63
+  },
+  {
+    "question": "Maalintiisaadii ugu horeeyey waxay ahayd 13 dowladood isbeeye. Magaca saddexaad ee la daray.",
+    "number": 64
+  },
+  {
+    "question": "Maxaa ka dhacay Shirweynaha Dastuurka?",
+    "number": 65
+  },
+  {
+    "question": "Markii ayaa qorey Dastuurka?",
+    "number": 66
+  },
+  {
+    "question": "Maalintii Federalist waa taageeraynta Dastuurka Mareykanka. Magaca qoraaga mid ka mid ah.",
+    "number": 67
+  },
+  {
+    "question": "Maxaa ka mid ah waxa uu mashruuc ku ahaan jiray Benjamin Franklin? (Language: so)",
+    "number": 68
+  },
+  {
+    "question": "Waa maxay Aabbaha Waddankaaga?",
+    "number": 69
+  },
+  {
+    "question": "Maanta waa madaxweynaha ugu horeeyay?",
+    "number": 70
+  },
+  {
+    "question": "Falal ka dhelin ci United States lagaafi soo ka beesha France ku dhacay sanadka 1803?",
+    "number": 71
+  },
+  {
+    "question": "Magaca mid kasta haddii ay Maraykanka dagaal ka qabsadeen dagaalka 1800s-ka.",
+    "number": 72
+  },
+  {
+    "question": "Codsiga qaranka ee Maraykanka oo ku saabsan dagaalka waqooyiga iyo koonfureed Soomaaliya.",
+    "number": 73
+  },
+  {
+    "question": "Waa maxay dhibaatooyinka ay jirto ciilka sare?",
+    "number": 74
+  },
+  {
+    "question": "Maxaad ka taqaanay dhibaatada ee Abraham Lincoln?",
+    "number": 75
+  },
+  {
+    "question": "Ma waxay qabatay Dekrigga Qiyaastii?",
+    "number": 76
+  },
+  {
+    "question": "Maxaa Susan B. Anthony waxay sameynaysaa?",
+    "number": 77
+  },
+  {
+    "question": "Magaca mid ka mid ah dagaalka Mareykanka ka dhexeeya sanadkii 1900.",
+    "number": 78
+  },
+  {
+    "question": "Maxaa ka ahaa madaxweynaha dagaalka adduunka ee kowaad?",
+    "number": 79
+  },
+  {
+    "question": "Madaxweynihii ka horreeyey dhibaatada weyn iyo Cimilada Adduunka?",
+    "number": 80
+  },
+  {
+    "question": "Guddoomiyaha Mareykanka oo la sameeyey Dagaaladda Adduunka Labaad waxaa la sameynayey shantaasi: iso: 'so':\nMareykanka waxay dagaalameen sidan jahanadda IIadad.",
+    "number": 81
+  },
+  {
+    "question": "Dhibaato kale waxaa uu ahaa Eisenhower jeneral. Wadanka ayaa ka dhacay qaddiyaad ka baxsan?",
+    "number": 82
+  },
+  {
+    "question": "Maalinta Qaraxyada Bariga, shaqada ugu muhiimsan ee Maraykanka?",
+    "number": 83
+  },
+  {
+    "question": "Maxaad ka tahay liiska ardayda da'aha dunida?",
+    "number": 84
+  },
+  {
+    "question": "Maxaa ka ahaa Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Maalinta Setambaar 11, 2001, in ay la qaadanayso Mareykanka oo ku taala?",
+    "number": 86
+  },
+  {
+    "question": "Magac ka yimaadeen qabiil American ah oo ku yaalla Maraykanka.",
+    "number": 87
+  },
+  {
+    "question": "Magaca mid ka mid ah ee labaadka ugu sareeya ee Maraykanka.",
+    "number": 88
+  },
+  {
+    "question": "Bada kan galbeedha dalka Maraykanka waa mid?",
+    "number": 89
+  },
+  {
+    "question": "Badda keenta bariga bari ee Maraykanka isaga oo bari haya?",
+    "number": 90
+  },
+  {
+    "question": "Magaca gumaysiga ka hor inta ay mareykan tahay.",
+    "number": 91
+  },
+  {
+    "question": "Magaca hal-agaar ah ee dhulkaaga u dhexeeya Canada.",
+    "number": 92
+  },
+  {
+    "question": "Magaca gobolka kala dhaxeysa Mexico.",
+    "number": 93
+  },
+  {
+    "question": "Maxaa kasoo qoray caasimadda Maraykanka?",
+    "number": 94
+  },
+  {
+    "question": "Aynu waa Statue of Liberty?",
+    "number": 95
+  },
+  {
+    "question": "Maxaa sababay calanka 13aad ee qaranka?",
+    "number": 96
+  },
+  {
+    "question": "Maxaa ka sababsanayaa calanka 50 cisho?",
+    "number": 97
+  },
+  {
+    "question": "Maxaa ka hadlayaa magacyada waddanka?",
+    "number": 98
+  },
+  {
+    "question": "Magaca labaad ee dhalinyarada Mareykanka ee qarameed waa ula yaqaanaa weynta Mareykanka.",
+    "number": 99
+  },
+  {
+    "question": "Maalinta Qiyaamaha Kuma Naftaada Kuoga?",
+    "number": 100
+  }
+]

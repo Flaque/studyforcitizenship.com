@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Hvað er yfirstjórnarlög landsins?",
+    "number": 1
+  },
+  {
+    "question": "Hvað gerir stjórnarskráin?",
+    "number": 2
+  },
+  {
+    "question": "Hvað eru fyrstu þrjár orðin í stjórnarskrá Bandaríkjanna sem tilgreina hugmyndina um eigið stjórnarval í? (ISO code: is)",
+    "number": 3
+  },
+  {
+    "question": "Hvað er viðlagasetning?",
+    "number": 4
+  },
+  {
+    "question": "Hvað köllum við fyrstu tíu viðbætur stjórnarskrárinnar?",
+    "number": 5
+  },
+  {
+    "question": "Hvað er ein réttur eða frelsi fyrir Fyrsta viðauka?",
+    "number": 6
+  },
+  {
+    "question": "Hversu mörg breytingar eru á stjórnarskrá Ameríku?",
+    "number": 7
+  },
+  {
+    "question": "Hvað gerði Sjálfstæðisyfirlýsingin?",
+    "number": 8
+  },
+  {
+    "question": "Hvað eru tvenns konar réttindi í yfirlýsingu sjálfstæðisins?",
+    "number": 9
+  },
+  {
+    "question": "Hvað er trúfrelsi?",
+    "number": 10
+  },
+  {
+    "question": "Hvað er efnahagskerfið í Bandaríkjunum?",
+    "number": 11
+  },
+  {
+    "question": "Hvað er lögreglan?",
+    "number": 12
+  },
+  {
+    "question": "Nefnaðu eina grein af eða hluta af stjórnsýslunni.",
+    "number": 13
+  },
+  {
+    "question": "Hvað hindrar eina grein ríkisstjórnarinnar í því að verða of valdameiri?",
+    "number": 14
+  },
+  {
+    "question": "Hver er í embættisstjórninni í ráðuneytinu?",
+    "number": 15
+  },
+  {
+    "question": "Hverjir gera alríkislög?",
+    "number": 16
+  },
+  {
+    "question": "Hvað eiga tvenns konar hlutir í Bandaríkjaþinginu?",
+    "number": 17
+  },
+  {
+    "question": "Hversu margir ríkisstjórnarflokkar eru til í Bandaríkjunum?",
+    "number": 18
+  },
+  {
+    "question": "Hversu mörg ár eru í tímabilskjalinu ísland?",
+    "number": 19
+  },
+  {
+    "question": "Hver er einn af senatórum Bandaríkjanna í þinni ríkisstjórn núna?",
+    "number": 20
+  },
+  {
+    "question": "Hvað eru margir atkvæðagreiddir meðlimir í neðri deild hátíðarins?",
+    "number": 21
+  },
+  {
+    "question": "Við kjósum bandaríska fulltrúa í hversu mörg ár í Bandaríkjunum?",
+    "number": 22
+  },
+  {
+    "question": "Nefnið fulltrúa í Bandaríkjanna.",
+    "number": 23
+  },
+  {
+    "question": "Hverjum standa yfirvöld í Bandaríkjunum til?",
+    "number": 24
+  },
+  {
+    "question": "Af hverju hafa sumar stjórnir fleiri fulltrúa en aðrar stjórnir?",
+    "number": 25
+  },
+  {
+    "question": "Hve mörg ár kjósum við forseta?",
+    "number": 26
+  },
+  {
+    "question": "Í hvaða mánuði höfum við kosningar til forseta?",
+    "number": 27
+  },
+  {
+    "question": "Hvað heitir núverandi forseti Bandaríkjanna?",
+    "number": 28
+  },
+  {
+    "question": "Hvað heitir núverandi námundaforseti Bandaríkjanna?",
+    "number": 29
+  },
+  {
+    "question": "Ef hinn forseti getur ekki lengur gegnt, hver verður forseti?",
+    "number": 30
+  },
+  {
+    "question": "Ef bæði Forseti og Víceforseti geta ekki þjónað lengur, hver verður Forseti?",
+    "number": 31
+  },
+  {
+    "question": "Hver er yfirherra herinnar?",
+    "number": 32
+  },
+  {
+    "question": "Hver undirritar lagaákvæði?",
+    "number": 33
+  },
+  {
+    "question": "Hver hafnar lagabreytingum?",
+    "number": 34
+  },
+  {
+    "question": "Hvað gera ráðherrar forsetans?",
+    "number": 35
+  },
+  {
+    "question": "Hvað eru tvær embættisstöður í ráðherranefndinni?",
+    "number": 36
+  },
+  {
+    "question": "Hvað gerir dómsvaldið?",
+    "number": 37
+  },
+  {
+    "question": "Hvað er hæsta dómstóll Bandaríkjanna?",
+    "number": 38
+  },
+  {
+    "question": "Hve margir dómendur eru á yfirréttinum?",
+    "number": 39
+  },
+  {
+    "question": "Hver er yfirmaður hæstaréttar Bandaríkjanna núna?",
+    "number": 40
+  },
+  {
+    "question": "Undir stjórnarskrá okkar, eiga sum valdið að tilheyra bandaríska ríkisstjórninni. Hvað er eitt af valdum bandaríska ríkisstjórnarinnar?",
+    "number": 41
+  },
+  {
+    "question": "Undir stjórnarskránni okkar taka sumar völd til ríkisins. Hvað er eitt vald ríkisins? (is)",
+    "number": 42
+  },
+  {
+    "question": "Hver er landshöfðingi þíns ríkis núna?",
+    "number": 43
+  },
+  {
+    "question": "Hvað er höfuðborg ríkisins þíns?",
+    "number": 44
+  },
+  {
+    "question": "Hvað eru tvennar aðalstjórnmálapartíirnar í Bandaríkjunum?",
+    "number": 45
+  },
+  {
+    "question": "Hvaða stjórnmálaparti er forseti núna?",
+    "number": 46
+  },
+  {
+    "question": "Hvað heitir talari hússins ríkisstjórnarinnar núna?",
+    "number": 47
+  },
+  {
+    "question": "Eru fjórar aukningar gerðar á stjórnarskránni varðandi hverjir mega kjósa. Lýstu einni af þeim.",
+    "number": 48
+  },
+  {
+    "question": "Hvað er ein ábyrgð sem eingöngu á aðdraganda Bandaríkjamanna?",
+    "number": 49
+  },
+  {
+    "question": "Hvað eru tvenns konar réttindi sem eingöngu bandarískir borgarar njóta?",
+    "number": 50
+  },
+  {
+    "question": "Hverjum er kennt hvorki réttindi tveggja allra sem búa í Bandaríkjunum?",
+    "number": 51
+  },
+  {
+    "question": "Hvað sýnum við trúnað þegar við segjum fyrirheit um trúsemi? (is)",
+    "number": 52
+  },
+  {
+    "question": "Hvaða loforð skulir þú gefa þegar þú verður ríkisborgari Bandaríkjanna?",
+    "number": 53
+  },
+  {
+    "question": "Hve gamalt þurfa borgarar að vera til að kjósa forseta?",
+    "number": 54
+  },
+  {
+    "question": "Hvað eru tvo vegir sem Ameríkumenn geta tekið þátt í lýðræði sínu?",
+    "number": 55
+  },
+  {
+    "question": "Hvenær er síðasti dagurinn sem þú getur sent inn skattaréttargerðir alríkis tekjuskatts?",
+    "number": 56
+  },
+  {
+    "question": "Eru öll menn skyldugir til þess að skrá sig í veldiskjöriðaþjónustu á ákveðnum tímapunkti?",
+    "number": 57
+  },
+  {
+    "question": "Hvað er ein ástæða þess að landnámsmenn komu til Ameríku?",
+    "number": 58
+  },
+  {
+    "question": "Hver bjó í Ameríku áður en Evrópubúar komu?",
+    "number": 59
+  },
+  {
+    "question": "Hvaða hópur fólks var fært til Ameríku og selt sem þrælar?",
+    "number": 60
+  },
+  {
+    "question": "Af hverju berjuðust landnámsmennin við Bretland?",
+    "number": 61
+  },
+  {
+    "question": "Hver skrifaði Sjálfstæðisyfirlýsinguna?",
+    "number": 62
+  },
+  {
+    "question": "Hvenær var yfirlýsingin um sjálfstæði í þ Verkalýðsfélagskönnun?",
+    "number": 63
+  },
+  {
+    "question": "Það voru 13 upphafsríki. Nefnið þrjú.",
+    "number": 64
+  },
+  {
+    "question": "Hvað gerðist á stjórnarskráráðstefnunni?",
+    "number": 65
+  },
+  {
+    "question": "Hvenær var stjórnarskráin ritað?",
+    "number": 66
+  },
+  {
+    "question": "Eru Federalist Papers underskotuðu samþykkt stjórnarskrár Bandaríkjanna. Nefnið einn höfundanna.",
+    "number": 67
+  },
+  {
+    "question": "Hvað er eitt hlutverk sem Benjamin Franklin er frægur fyrir?",
+    "number": 68
+  },
+  {
+    "question": "Hver er faðir land okkar?",
+    "number": 69
+  },
+  {
+    "question": "Hver var fyrsti forseti?",
+    "number": 70
+  },
+  {
+    "question": "Hvaða svæði keypti Bandaríkin frá Frakklandi árið 1803?",
+    "number": 71
+  },
+  {
+    "question": "\"Skiptið eina styrjöld sem Bandaríkin sóttu á 19. öldinni.\"",
+    "number": 72
+  },
+  {
+    "question": "Nefndu stríð Bandaríkjanna á milli Norðurs og Suðurs.",
+    "number": 73
+  },
+  {
+    "question": "Hvaða vandamál leiddu til borgarastyrjaldarinnar?",
+    "number": 74
+  },
+  {
+    "question": "Hvað er ein mikilvæg hlutverk sem Abraham Lincoln framkvæmdi?",
+    "number": 75
+  },
+  {
+    "question": "Hvað gerði Frelsisyfirlýsingin?",
+    "number": 76
+  },
+  {
+    "question": "Hvað gerði Susan B. Anthony?",
+    "number": 77
+  },
+  {
+    "question": "Nefndu eitt stríð sem Bandaríkjamenn stóðu í í 1900.",
+    "number": 78
+  },
+  {
+    "question": "Hver var Forseti á Þjóðarsamböndum í heimsstyrjöldinni fyrri?",
+    "number": 79
+  },
+  {
+    "question": "Hver var forseti á Íslandi og stjórnarfjöldi?",
+    "number": 80
+  },
+  {
+    "question": "Hverjir voru á móti Bandaríkjum í Seinni heimsstyrjöldinni?",
+    "number": 81
+  },
+  {
+    "question": "Áður en Eisenhower var forseti, var hann hershöfðingi. Í hvaða stríði tók hann þátt? (is)",
+    "number": 82
+  },
+  {
+    "question": "Í kalda stríðinu, hvað var helsta áhyggja Bandaríkjanna?",
+    "number": 83
+  },
+  {
+    "question": "Hvaða hreyfing reyndi að setja loksins stopp fyrir kynþáttaskiptingu?",
+    "number": 84
+  },
+  {
+    "question": "Hvað gerði Martin Luther King, Jr.?",
+    "number": 85
+  },
+  {
+    "question": "Hvaða stóra atburður gerðist 11. september 2001 í Bandaríkjunum?",
+    "number": 86
+  },
+  {
+    "question": "Nefnðu eitt indjánafólk í Bandaríkjunum.",
+    "number": 87
+  },
+  {
+    "question": "Hvað heitir einn af tveimur lengstu fljótum Bandaríkjanna?",
+    "number": 88
+  },
+  {
+    "question": "Hvaða haf er á vesturströnd Bandaríkjanna?",
+    "number": 89
+  },
+  {
+    "question": "Hvaða haf er á austurströnd Bandaríkjanna?",
+    "number": 90
+  },
+  {
+    "question": "Nefnið eitt landssvæði Bandaríkjanna.",
+    "number": 91
+  },
+  {
+    "question": "Nefnaðu eina ríkis, sem grenzt við Kanadu.",
+    "number": 92
+  },
+  {
+    "question": "Hvaða ríki grennast við Mexíkó?",
+    "number": 93
+  },
+  {
+    "question": "Hvað er höfuðborg Bandaríkjanna?",
+    "number": 94
+  },
+  {
+    "question": "Hvar er Frelsisstofnan staðsett?",
+    "number": 95
+  },
+  {
+    "question": "Af hverju eru 13 stripu á fánanum?",
+    "number": 96
+  },
+  {
+    "question": "Af hverju eru 50 stjörnur á fánanum?",
+    "number": 97
+  },
+  {
+    "question": "Hvað heitir þjóðsöngurinn?",
+    "number": 98
+  },
+  {
+    "question": "Nefnaðu tvö þjóðleg amerísk helgidagar.",
+    "number": 99
+  },
+  {
+    "question": "Hvenær fira vit  sjálfstøðudagin?",
+    "number": 100
+  }
+]

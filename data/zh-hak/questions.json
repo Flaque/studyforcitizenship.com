@@ -1,0 +1,402 @@
+[
+  {
+    "question": "土地的最高法律是什麼？",
+    "number": 1
+  },
+  {
+    "question": "憲法的作用是什麼？",
+    "number": 2
+  },
+  {
+    "question": "憲法的前三個詞反映了自治的思想。這三個詞是什麼？",
+    "number": 3
+  },
+  {
+    "question": "\"什么是修正案？\"",
+    "number": 4
+  },
+  {
+    "question": "我們稱憲法的前十條修正案為什麼？ (zh-hak)",
+    "number": 5
+  },
+  {
+    "question": "第一修正案赋予人们哪些权利或自由？",
+    "number": 6
+  },
+  {
+    "question": "憲法有多少修正條款？ (zh-hak)",
+    "number": 7
+  },
+  {
+    "question": "独立宣言有什么作用？ (zh-hak)",
+    "number": 8
+  },
+  {
+    "question": "申明独立宣言中有哪两项权利？",
+    "number": 9
+  },
+  {
+    "question": "宗教自由是什么？ (Note: This is in Hakka Chinese)",
+    "number": 10
+  },
+  {
+    "question": "美国的经济体系是什么？ (zh-hak)",
+    "number": 11
+  },
+  {
+    "question": "法治是什么？",
+    "number": 12
+  },
+  {
+    "question": "請列舉一個政府機構或部分。",
+    "number": 13
+  },
+  {
+    "question": "一個政府分支過於強大的問題如何被解決？ (yī gè zhèngfǔ fēnzhī guò yú qiángdà de wèntí rúhé bèi jiějué?)",
+    "number": 14
+  },
+  {
+    "question": "誰負責執行部門？(Chinese Hakka)",
+    "number": 15
+  },
+  {
+    "question": "誰制定聯邦法律？",
+    "number": 16
+  },
+  {
+    "question": "美国国会由哪两部分组成？",
+    "number": 17
+  },
+  {
+    "question": "有多少位美国参议员？",
+    "number": 18
+  },
+  {
+    "question": "我們會選舉一位美國參議員擔任多少年？",
+    "number": 19
+  },
+  {
+    "question": "你们州现在的一位美国参议员是谁？ (zh-hak)",
+    "number": 20
+  },
+  {
+    "question": "衆議院有多少投票成員？(zh-hak)",
+    "number": 21
+  },
+  {
+    "question": "我們選舉一位美國眾議院議員多少年？",
+    "number": 22
+  },
+  {
+    "question": "請問您的美國眾議員姓名是什麼？",
+    "number": 23
+  },
+  {
+    "question": "一位美国参议员代表谁？ (zh-hak)",
+    "number": 24
+  },
+  {
+    "question": "為什麼有些州比其他州擁有更多的代表？",
+    "number": 25
+  },
+  {
+    "question": "我們選舉總統多少年？ (zh-hak)",
+    "number": 26
+  },
+  {
+    "question": "我們在哪個月投票選舉總統？ (zh-hak)",
+    "number": 27
+  },
+  {
+    "question": "現在美國的總統名字是什麼？",
+    "number": 28
+  },
+  {
+    "question": "現在的美國副總統名字是什麼？",
+    "number": 29
+  },
+  {
+    "question": "如总统无法继续服务，谁将成为总统？(zh-hak)",
+    "number": 30
+  },
+  {
+    "question": "如果总统和副总统都无法继续任职，谁将成为总统？ (Translated in Traditional Chinese)",
+    "number": 31
+  },
+  {
+    "question": "誰是軍隊的總司令？ (zh-hak)",
+    "number": 32
+  },
+  {
+    "question": "誰簽署法案成為法律？",
+    "number": 33
+  },
+  {
+    "question": "誰否決法案？",
+    "number": 34
+  },
+  {
+    "question": "总统的内阁做什么？",
+    "number": 35
+  },
+  {
+    "question": "有哪两个内阁级别职位？",
+    "number": 36
+  },
+  {
+    "question": "司法部门有什么职责？",
+    "number": 37
+  },
+  {
+    "question": "美國最高法院是哪一個？",
+    "number": 38
+  },
+  {
+    "question": "最高法院有多少法官？ (zh-hak)",
+    "number": 39
+  },
+  {
+    "question": "現在是誰是美國的首席大法官？",
+    "number": 40
+  },
+  {
+    "question": "依照我们的宪法，联邦政府具备某些权力。联邦政府的哪个权力是其中之一？",
+    "number": 41
+  },
+  {
+    "question": "按照我们的宪法，一些权力属于各州。其中一项州的权力是什么？",
+    "number": 42
+  },
+  {
+    "question": "你所在的州现在的州长是谁？",
+    "number": 43
+  },
+  {
+    "question": "你所在州的首府是哪里？",
+    "number": 44
+  },
+  {
+    "question": "美國有哪兩個主要政黨？",
+    "number": 45
+  },
+  {
+    "question": "現在總統所屬的政黨是什麼？",
+    "number": 46
+  },
+  {
+    "question": "現任的眾議院議長是誰？",
+    "number": 47
+  },
+  {
+    "question": "憲法有四個修正案關於誰能投票。請描述其中一個。",
+    "number": 48
+  },
+  {
+    "question": "美國公民唯一責任之一是什麼？",
+    "number": 49
+  },
+  {
+    "question": "兩個僅適用於美國公民的權利是什麼？",
+    "number": 50
+  },
+  {
+    "question": "每个居住在美国的人都拥有的两项权利是什么？",
+    "number": 51
+  },
+  {
+    "question": "我們在說忠誠誓言時向什麼表示忠誠？",
+    "number": 52
+  },
+  {
+    "question": "當你成為美國公民時，你要承諾什麼？",
+    "number": 53
+  },
+  {
+    "question": "公民必須多大才有資格投票選舉總統？",
+    "number": 54
+  },
+  {
+    "question": "美国人参与民主的两种方式是什么？",
+    "number": 55
+  },
+  {
+    "question": "你可以寄出联邦所得税表的最后一天是什么？",
+    "number": 56
+  },
+  {
+    "question": "所有男子何时必须注册选举服务？ (zh-hak)",
+    "number": 57
+  },
+  {
+    "question": "壹個原因是殖民者來到美國的原因是什麼？",
+    "number": 58
+  },
+  {
+    "question": "歐洲人抵達之前，誰住在美洲？",
+    "number": 59
+  },
+  {
+    "question": "哪个族群被带到美国并作为奴隶出售？",
+    "number": 60
+  },
+  {
+    "question": "殖民者为什么与英国人战斗？",
+    "number": 61
+  },
+  {
+    "question": "誰寫了《獨立宣言》？",
+    "number": 62
+  },
+  {
+    "question": "獨立宣言是在什麼時候制定的？(Translation in zh-hak: Dak-lîp sin-giān sī mài sî ho sió-tèng ê?)",
+    "number": 63
+  },
+  {
+    "question": "有13个原始州，说出其中三个。",
+    "number": 64
+  },
+  {
+    "question": "憲法制定會議上發生了什麼事情？",
+    "number": 65
+  },
+  {
+    "question": "憲法是何時寫成的？",
+    "number": 66
+  },
+  {
+    "question": "美國聯邦論文支持通過美國憲法。列舉其中一位作者。",
+    "number": 67
+  },
+  {
+    "question": "本杰明·富兰克林因何而闻名？",
+    "number": 68
+  },
+  {
+    "question": "我国的国父是谁？ (zh-hak)",
+    "number": 69
+  },
+  {
+    "question": "誰是第一任總統？ (zh-hak)",
+    "number": 70
+  },
+  {
+    "question": "美国在1803年从法国购买了哪个领土？ (In zh-hak: Mî-koet tû'i Hoat-ngoet sûi Fa̍t-lông kói -cha̍p ê tē-rit-ló͘ sī?)",
+    "number": 71
+  },
+  {
+    "question": "美国在19世纪参加了哪一场战争？",
+    "number": 72
+  },
+  {
+    "question": "美国南北战争是哪场战争？ (zh-hak)",
+    "number": 73
+  },
+  {
+    "question": "提出导致南北战争的一个问题的名称。",
+    "number": 74
+  },
+  {
+    "question": "亚伯拉罕·林肯做了一件重要的事情是什么？ (Yà bó lā hǎn Lín kěn zuò le yī jiàn zhòng yào de shì qíng shì shén me?)",
+    "number": 75
+  },
+  {
+    "question": "解放宣言做了什么？ (This is Simplified Chinese, which is the written form used in mainland China. Hakka does not have an ISO code, but it is a language spoken in several countries including China.)",
+    "number": 76
+  },
+  {
+    "question": "蘇珊·B·安東尼(Susan B. Anthony)做了什麼？",
+    "number": 77
+  },
+  {
+    "question": "美國在 1900 年代打過哪一場戰爭？",
+    "number": 78
+  },
+  {
+    "question": "第一次世界大战期间是谁当总统的？",
+    "number": 79
+  },
+  {
+    "question": "誰是大蕭條和二戰期間的總統？",
+    "number": 80
+  },
+  {
+    "question": "美國在二戰中與誰作戰？",
+    "number": 81
+  },
+  {
+    "question": "埃森豪威尔成为总统之前，他是将军。他参加了哪场战争？",
+    "number": 82
+  },
+  {
+    "question": "在冷战期间，美国的主要关注点是什么？",
+    "number": 83
+  },
+  {
+    "question": "何种运动试图结束种族歧视？ (Hé zhǒng yùndòng shìtú jiéshù zhǒngzú qíshì?)",
+    "number": 84
+  },
+  {
+    "question": "馬丁·路德·金博士做了什麼？ (Mǎdīng Lùdé Jīn bóshì zuòle shénme?)",
+    "number": 85
+  },
+  {
+    "question": "2001年9月11日，美国发生了什么重大事件？ (zh-hak)",
+    "number": 86
+  },
+  {
+    "question": "美国境内有哪些印第安部落？",
+    "number": 87
+  },
+  {
+    "question": "美國最長的兩條河流中的其中一條。",
+    "number": 88
+  },
+  {
+    "question": "美國西海岸靠近哪個海洋？ (Měiguó xī hǎi'àn kào jìněi ge hǎiyáng?)",
+    "number": 89
+  },
+  {
+    "question": "美國東岸面向哪個海洋？",
+    "number": 90
+  },
+  {
+    "question": "美國有哪些大區？",
+    "number": 91
+  },
+  {
+    "question": "提到一個與加拿大接壤的州。",
+    "number": 92
+  },
+  {
+    "question": "命名与墨西哥接壤的一个州。",
+    "number": 93
+  },
+  {
+    "question": "美國的首都是哪裡？ (Měiguó de shǒudū shì nǎlǐ?)",
+    "number": 94
+  },
+  {
+    "question": "自由女神像在哪裡？ (Where is the Statue of Liberty?)",
+    "number": 95
+  },
+  {
+    "question": "為什麼旗幟有十三條條紋？ (zh-hak)",
+    "number": 96
+  },
+  {
+    "question": "為什麼國旗有50顆星星？ (wai5 ngo5 gwok3 kei4 jau5 50 fo1 sing1sing1?)",
+    "number": 97
+  },
+  {
+    "question": "國歌的名字是什麼？",
+    "number": 98
+  },
+  {
+    "question": "請列舉兩個美國的國定假日。",
+    "number": 99
+  },
+  {
+    "question": "我們何時慶祝獨立日？",
+    "number": 100
+  }
+]

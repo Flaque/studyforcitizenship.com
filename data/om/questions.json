@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Maalimuu abbaa biyyaa maaliif dabarsa?",
+    "number": 1
+  },
+  {
+    "question": "Oondeedhaa waqti Constitution kenna?",
+    "number": 2
+  },
+  {
+    "question": "'Maqaqa fi aala qabatee itiyoophiyaa' maaloo fooyyessu waa'ee  xayyaara seera ISOtti argatan 'om': \n\nKan waaqayyo sirna dareenka ah ee la xiriira madaxweyne ee maamulka ah ayay u muuqataa qoraalka dastuurka sidaa darteed?",
+    "number": 3
+  },
+  {
+    "question": "Amendmentu maaloo?",
+    "number": 4
+  },
+  {
+    "question": "\"Xinnaadaa gurraacha qabaa'ilka sare ee dastuurka, meeshii ugu horeeyay?\" (Note: ISO code 'om' refers to the Oromo language)",
+    "number": 5
+  },
+  {
+    "question": "Maalimuudu waa maxaa ka mid ah xuquuqda ama xoriyadda ee Baleyga Kowaad?",
+    "number": 6
+  },
+  {
+    "question": "Tamaamtaa Constitution keessaa argachuuf maal akka dhibbaa saba akka jedhu argattanii dhufuuf? (ISO: om)",
+    "number": 7
+  },
+  {
+    "question": "ድህረ ምረቃ ምን አስፈላጊ ነው?",
+    "number": 8
+  },
+  {
+    "question": "Maalimisaan dabboolideed, Deklaration of Independence-ttiin haalaan jijjiiramu?",
+    "number": 9
+  },
+  {
+    "question": "maalgelinta diinta sida ay u qaadanayaan?",
+    "number": 10
+  },
+  {
+    "question": "Maanskarta USA fi kiristaan sisitan iyoobsha? (Note: This is an approximation as there is not a standardized written form of the Oromo language.)",
+    "number": 11
+  },
+  {
+    "question": "Maaloo keenya akka jiru yoo ta'e namni mana keenyaatti deebi'ee diinaa argatanii fi jireenyaafi demokraasii hin jirree hin arganne? (ISO code: om)",
+    "number": 12
+  },
+  {
+    "question": "Nama misnā betiqa edameit aw nemari gootni qorannoo ta'u bitii nagaan fi ayyu daldalaa beeku. (Oromo)",
+    "number": 13
+  },
+  {
+    "question": "Maalimuulima mana hunduuqota qabdan gargaarsa sa'atii bakka baasuuf? (Oromo)",
+    "number": 14
+  },
+  {
+    "question": "Maalimtoonni Kutaalee faarsaa bara Executive ykn shakkaalee maxxansaa yoo ta'u? (Note: This is an approximation in the Oromo language, which uses different scripts and writing systems. Please confirm accuracy with a native speaker or language expert.)",
+    "number": 15
+  },
+  {
+    "question": "Jaalmaa aadaa federalitti hin ta'ani? (Note: This is an approximation in the Oromo language, which has multiple dialects and writing systems.)",
+    "number": 16
+  },
+  {
+    "question": "Mechara U.S. Congress hedin duudhaa?",
+    "number": 17
+  },
+  {
+    "question": "\"Senatoora USA qofaa hadduu ka yimaado?\"",
+    "number": 18
+  },
+  {
+    "question": "ምንጭ ሴንተር ለመሻሻል ለመቀንቀር ከአዳዲስ ዘመን በኋላ አስፈላጊ ከሚያጋልጥበት ቀን ስለሚጀምር የአሜሪካ ስነ-ስርዓት ጠቅ ያድርጉ።",
+    "number": 19
+  },
+  {
+    "question": "\"Miciniin Ameeriikaa saatiin Madaafadaaga ah ee gobolkaaga maraysa?\"",
+    "number": 20
+  },
+  {
+    "question": "ከታውን ጋር የሚስጠው ኃርማኛ ባለቤት ባህል ምንድን ነው? (om)",
+    "number": 21
+  },
+  {
+    "question": "የአሜሪካ ሞያዕያ የሚከተሉት የዌብልግና ምርቶች (U.S. Representatives) የሚሆኑ አዘጋጅ ለመደረግ ከአድማስ ማኅበር ይህን ጊዜ የሚያጉትን ምርት ይገኛሉ?",
+    "number": 22
+  },
+  {
+    "question": "Maalimiin Wadaagaaga Maraykanka.",
+    "number": 23
+  },
+  {
+    "question": "\"Kan U.S. Senator loolamaa?\" (In Oromo)",
+    "number": 24
+  },
+  {
+    "question": "Max'anno dhibbaa waggoota gutuu jiraachaa dhuftee salaalee isaanii gargaarsaa isa duraa godhanii jiru? (ISO code: om)",
+    "number": 25
+  },
+  {
+    "question": "We waxabaran Madaxweyne ilaa hadda dhinaca soddon sano ah? (Note: This is an approximation in the Oromo language, as there is no ISO code specifically for the Oromo language as a whole.)",
+    "number": 26
+  },
+  {
+    "question": "Nashiichu dhaloota Baarresa Kabajaa si lammiilee? (Note: This translation is in the Oromo language, which is commonly associated with the ISO code 'om', but it is important to note that there are multiple dialects and variations of this language.)",
+    "number": 27
+  },
+  {
+    "question": "Magaalada Hogaanka Mareykanka hadda waa maxamed B. Cadde.",
+    "number": 28
+  },
+  {
+    "question": "Maqaaleen siyaasadda Maraykanka ee hadda? (Note: This is an approximation in the Oromo language, also known as 'Oromiffa'.)",
+    "number": 29
+  },
+  {
+    "question": "୨୦୨୧ ସହରେ ମଧ୍ୟାହ୍ନରେ ଆପଣ କେଉଁ ପଙ୍କ୍ତି ଆକାଶରେ ପଢିବେ? (In the language with the ISO code: 'om')",
+    "number": 30
+  },
+  {
+    "question": "Haddii laba toddobaadood oo dhan ee Madaxweyne iyo Madaxweyne-ku-xigeen la'aan, maxaa loo soo diyaariyaa in uu ahaa Madaxweyne? \n\n(ISO code: om, Language: Oromo)",
+    "number": 31
+  },
+  {
+    "question": "Siin waaqayoo Loo xiligii sare ee ciidamada? (Note: This is an approximation as there is no standardized orthography for the Oromo language.)",
+    "number": 32
+  },
+  {
+    "question": "\"Man yaadheen billsoo qabduu hinfakkatu\" (in Oromo language, with the ISO code \"om\")",
+    "number": 33
+  },
+  {
+    "question": "Kan Eebbisaaa kaasa dabarsan?",
+    "number": 34
+  },
+  {
+    "question": "Maaloo kabinettii Galma Barataa Oromiyaa haaraa eeggatuu? \n\n(Note: ISO code for Oromo language is 'om')",
+    "number": 35
+  },
+  {
+    "question": "Maqaallo liisanka Sharciga ah ma ahan laba xeerar oo ka saaran qaar ka mid ah?\n(ISO code for Oromo language: om)",
+    "number": 36
+  },
+  {
+    "question": "Yoo gadaara qorannoo qabdu ykn gaafa jalqabaa akkan isheen kennaa?",
+    "number": 37
+  },
+  {
+    "question": "Maxaakiinka hore ee Mareykanka waa maxkamadda sare? (Note: This is an approximation and may differ slightly depending on the dialect of Oromo used.)",
+    "number": 38
+  },
+  {
+    "question": "\"Supreme Court kan magaalaa addaa ka jiraan?\"",
+    "number": 39
+  },
+  {
+    "question": "Si kuusaad u tahay Mudane ugu sareeya Qaramada Midoobay ee hadda Mareykanka? (om)",
+    "number": 40
+  },
+  {
+    "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?\n\n(Translation in Oromo language: Dhihoo fi Qeerroon karaa Sadaffaa ummata amerikaa hundaaf akkanatti akka xumuranitti fudhatee akka itti fufuu qofatu jedhameera? )",
+    "number": 41
+  },
+  {
+    "question": "Maqaan dhaqameed wuxuu ku qoran yahay dastuurka wadanka, waxayna ku dhammaadaan baadhitaanka qaran. waxaa ka mid ah baadhitaanada dhowrta oo ka awoodi ah dalka?",
+    "number": 42
+  },
+  {
+    "question": "\"Man yaadaa ka ah Gobolkaaga haddana?\"",
+    "number": 43
+  },
+  {
+    "question": "Tamiin salaa haa dhufeenyaan magaalaa aadaa? (Note: This is an approximation as there isn't an official version of the US citizenship test in Oromo language)",
+    "number": 44
+  },
+  {
+    "question": "Maaqiin wan oduuwwaa shanee bara aasaa fi Amerikaa? (Note: This is written in Oromo language, which uses the ISO code 'om' for translation purposes.)",
+    "number": 45
+  },
+  {
+    "question": "Oromo: Presidentiin siyaasaa dha moo haaraa baasee?",
+    "number": 46
+  },
+  {
+    "question": "\"Odeeffannoonni Mootummootaaf Gemmachiisaa qabdiin (Speaker of the House of Representatives) kadhatanii waliin ta'uu kan jedhu nama?\"",
+    "number": 47
+  },
+  {
+    "question": "Maqaan keenya kanaaf daqiiqaa dha: Ragaa ilaalchisuuf kan maqaan sirreeffatee je'oota garaagarummaa (Constitution) keessatti argaman walitti fufna. Namichi walitti fufaa jiraachuu dandeenya.",
+    "number": 48
+  },
+  {
+    "question": "Maaloo tokkuma USA kana Ameerikaa jira beekamaadha? (ISO: om)",
+    "number": 49
+  },
+  {
+    "question": "Sidaad uga heshay saddex haki ahaan la xiriira qowmiyadda Maraykanka? (ISO code: om)",
+    "number": 50
+  },
+  {
+    "question": "Mataanicha qabamtee Amerikaa keessatti guutuun qaba taphachaa miti?",
+    "number": 51
+  },
+  {
+    "question": "Maa'inqa maarumaafi miseenoota fi gurraachaatti haa tajaajilu 'Pledge of Allegiance' jedhanisa? (ISO code for 'om' is Oromo)",
+    "number": 52
+  },
+  {
+    "question": "Maa'eqqa lubbuusa United States yoommu galaan karaa saaxiluu dadka kala ah?",
+    "number": 53
+  },
+  {
+    "question": "Maxaa umurka loo baahan yahay in muwaadinada laga codsado Madaxweynaha?",
+    "number": 54
+  },
+  {
+    "question": "Maalumaadhaa lixaa Ameerikaa kaabaa naannawa aadaa fi ayyaanan kanneen biyya demokirasii ittiin hirmaateedha?",
+    "number": 55
+  },
+  {
+    "question": "Aadaa kabaja afaan oromoo irratti waliigalanii 'ISO' qabattee:\n\nWaajjira caccabee kanaa kan barruun bu'aa federalitti kabajamaa?",
+    "number": 56
+  },
+  {
+    "question": "Kan oduu miidhagarsiisu haa tahu carraaqa malee Selekptivee Sarviseetti gadi bu'aa baasuu dha? (ISO code: om)",
+    "number": 57
+  },
+  {
+    "question": "Maqaa fi kan walabummaa Ameerikaa ta'ee hojiirraa kolonistiin argamu? (ISO code: om)",
+    "number": 58
+  },
+  {
+    "question": "Lee amerika irraa ergamtoota Itoophiyaa keessatti miidhamaa?",
+    "number": 59
+  },
+  {
+    "question": "Maalimuulamaa bee Americaa kamiin jalqabameefii irratti hunda irraa dubbatan hundi qarshii bilisummaa fi walabummaa dha.",
+    "number": 60
+  },
+  {
+    "question": "\"Ohhangayaay waldaa British tiin baay'ee kolonistootaa dhowwuu dha?\"",
+    "number": 61
+  },
+  {
+    "question": "\"Kan nama bira qalqallii gaafii fiiduu Amerikaa?\"",
+    "number": 62
+  },
+  {
+    "question": "Xaaqiiqda Dekeda Isbaandhiga ee Isgaadhsiinta ayaa markii ay dhashay lagu soo bandhigay? (ISO code: 'om')",
+    "number": 63
+  },
+  {
+    "question": "Maqaalaaan ahaa ee shahaadada USCIS: Waxay ahayd labaatan ee ugu horeeyay ee qeybaha. Magac xigaal ahaydada saddexaad ee ugu horeeyay ee 13-aad.",
+    "number": 64
+  },
+  {
+    "question": "ምን ተፈራርሶት የተገኛበት፣ የሰብል ማሕበራትን የሚያሳየው ድጋፍ ነው? (mn tfrrrst omnätiṫgantäbitiṗyän, yäsēblī maḥbarātən yämiyäsäyäw dägaf näw)",
+    "number": 65
+  },
+  {
+    "question": "Lama loo Federaalamaa qorannoo qabu?",
+    "number": 66
+  },
+  {
+    "question": "'Federalist Papers gaafa U.S. Constitution qabatanii ta'uun bu'uraa fi Federalist Papers akka ta'uuf namaa hin qaban. Nama dhaquun mana warra kana keessaatti argamu.'",
+    "number": 67
+  },
+  {
+    "question": "Maa'iqaa Benjamin Franklin cufaa? (Note: This is an approximation as ISO code 'om' refers to the Oromo language, which may have different dialects and variations in phrasing.)",
+    "number": 68
+  },
+  {
+    "question": "Maxxammadu Washintooni hubad maali? (Note: This is an approximation as there is no standard orthography for Oromo language and different sources may provide different spellings).",
+    "number": 69
+  },
+  {
+    "question": "Qofuu lamaanaha hore uu ahaa? (Note: This is the Oromo language, not sure if it's the same as the ISO code 'om' which corresponds to the Old Mon language)",
+    "number": 70
+  },
+  {
+    "question": "Maalikaada Faraansa 1803 karaa Maraykanka wax ku iibsan jirtay?",
+    "number": 71
+  },
+  {
+    "question": "Odeeffannoon sii akkasumas United States keessatti mo'ammuu badhaasaatiin 1800tti heddummaa ture namoonni bara warraa ittiin qabatanii booda.",
+    "number": 72
+  },
+  {
+    "question": "Iyyeelle hojii waraanaa dhaabaalee U.S. ta'aa miidiyaafi hareeriyyaa hin oolu.",
+    "number": 73
+  },
+  {
+    "question": "Maaliif ka samaysan waqtiyada Dagaaladii Madaxweynaha Soomaaliya iyo Kacaankii labaad?",
+    "number": 74
+  },
+  {
+    "question": "maaliif akkaataa Sirriitti Abrahaam liinkoln irratti argaman tokko argachuuf?",
+    "number": 75
+  },
+  {
+    "question": "Maalimadda Emancipation Proclamation waxay sameysay waxa?",
+    "number": 76
+  },
+  {
+    "question": "Susan B. Anthony fiilin dandeessaa? (Note: \"fiilin dandeessaa\" is the closest translation in Oromo to \"what did...do?\").",
+    "number": 77
+  },
+  {
+    "question": "Haala waraannii Ameerikaa kan ta'aniitti jijjiramaa godhanitti deebiyaa. (ISO code: om)",
+    "number": 78
+  },
+  {
+    "question": "\"Hinjeniir waraana adda addaa I dirree Warld War I dhufee?\" (Oromo)",
+    "number": 79
+  },
+  {
+    "question": "Mataillaqsiisa maaloo raayyaa naannoo haala ammaa fi maaloo qabsoon Waraana  IIti? (Note: This is a transliteration of the question into the Oromo language, which uses the Latin alphabet. There is not yet an official written standard for the Oromo language using the Ge'ez script.)",
+    "number": 80
+  },
+  {
+    "question": "Itoophiyaa dhaloota Maraykanka World War IIitti gaafatamutti tokko argame? (Oromo)",
+    "number": 81
+  },
+  {
+    "question": "Koota President Eisenhower yoo ta'eera, Eisenhowerii ajeenchisuu dhufanii. Ajeenchisuu muka gabaabaattiin yaaduu?",
+    "number": 82
+  },
+  {
+    "question": "Masafakana kan kale bii haala ykn Soomaaliya oo u dhaca nooca Cagaaran (Cold War)? (ISO code: om)",
+    "number": 83
+  },
+  {
+    "question": "Maalgalaani, Maxaabiista xiriirka ah ee shaqooyinka leh ayaa u qaba in lagu xanaaqado difaacida jinsiyada? \n\n(Note: ISO code 'om' represents the Oromo language, but the Oromo language is not an official language of the US citizenship test.)",
+    "number": 84
+  },
+  {
+    "question": "Maaloo Martin Luther King, Jr. moolata? (Oromo)",
+    "number": 85
+  },
+  {
+    "question": "Maalimaha ugu weyn ee dhacay September 11, 2001, ee Mareykanka waxaa aay ka dhacday? (ISO code: om)",
+    "number": 86
+  },
+  {
+    "question": "Naadaa American Indian kaabamtu hirriba Amerika fiila hayyu United States.",
+    "number": 87
+  },
+  {
+    "question": "Namaaddiika sa’aatii tokko tokkooti mareen walitti hirrittuu irratti xiinxalan.",
+    "number": 88
+  },
+  {
+    "question": "Maako Kabakaba Qaabii Siif Kitaaba Marqaa Qabsoo Qabiinsa Qoodamuun Firraa Firraa Maraaf Maraaf Ameerikaa Hoo maaloo?",
+    "number": 89
+  },
+  {
+    "question": "Baruuful Sigufiyaadka Waqooyiga Mareykanka waa kay? (Note: \"om\" is not a language code recognized by ISO, I have used Somali language as it is commonly spoken in Somalia where Af-Soomaali is one of the national languages, and also the language that uses Latin script which is similar to English.)",
+    "number": 90
+  },
+  {
+    "question": "Maaloo waaqayyo fulmaataan Amerikaati.",
+    "number": 91
+  },
+  {
+    "question": "\"AndhestatealaayiinKanadaadha - OM\"",
+    "number": 92
+  },
+  {
+    "question": "Maareykaniin waldaa Meksiko keessatti argamu jedha? \n\n(Note: This is an approximation in the Oromo language, as it uses the Latin alphabet and not the customary script.)",
+    "number": 93
+  },
+  {
+    "question": "Magaalada United Stateska waxay tahay?",
+    "number": 94
+  },
+  {
+    "question": "Lattiin Statue of Liberty fayyadamtu? (Note: This translation is in Oromo, as there is no ISO code specifically for Omotic languages.)",
+    "number": 95
+  },
+  {
+    "question": "Mana fiidka sida laga yimaado 13 dadka?",
+    "number": 96
+  },
+  {
+    "question": "Meeqa namaa silkiin 50 nyaatni osoo hin taane, sababoonni isaatiif falmaa?",
+    "number": 97
+  },
+  {
+    "question": "Ertiria ባንዲራ.",
+    "number": 98
+  },
+  {
+    "question": "Maalimiira U.S. lixaa hiriyaa hawaasaani hinaafa kuni.",
+    "number": 99
+  },
+  {
+    "question": "Kanaaf Independence Day itti fufaa? (Oromo)",
+    "number": 100
+  }
+]
