@@ -1,4 +1,5 @@
 export const languages = [
+
   // Spanish
   "es",
   // Chinese languages
