@@ -9,11 +9,9 @@ const openai = new OpenAIApi(config);
 
 export async function POST(request: Request) {
   const r = await request.json();
-  const { question, answer } = r;
+  const { question, answer, language } = r;
 
-  console.log("question", question, "answer", answer);
-
-  if (!question || !answer) {
+  if (!question || !answer || !language) {
     return new Response("Missing question or answer", { status: 400 });
   }
 
@@ -26,15 +24,19 @@ export async function POST(request: Request) {
 
 Available grades:
 - Incorrect
-- Partially correct
 - Correct
 
+ISO Language: ${language}
 Question: ${question}
 Answer: "${answer}"
 
-Use the following format:
-Grade: {grade}
-Explanation: {explanation in the language the question and answer is in}`,
+Respond in the following JSON format:
+interface Response {
+  grade: "Incorrect" | "Correct";
+
+  // The explanation is in ${language}.
+  explanation: string;
+},`,
       },
     ],
   });
