@@ -1,4 +1,3 @@
-import { NextApiRequest } from "next";
 import { OpenAIApi, Configuration } from "openai";
 
 const config = new Configuration({
