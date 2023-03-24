@@ -29,22 +29,34 @@ const config = new Configuration({
 
 const openai = new OpenAIApi(config);
 
-// Use openai to get the two letter state abbreviation from the state input
-async function getStateAbbreviation(state: string) {
+export async function parseStateFromAnswer(answer: string) {
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
     messages: [
       {
         role: "user",
-        content: `Print the two letter state abbreviation for '${state}'.`,
+        content: `Find the US State mentioned in the text. If there's no state, return 'None'. Print the state as a two state letter abbreviation, like 'ID'.\n\n${answer}`,
       },
     ],
     max_tokens: 50,
   });
 
-  const res = oaiRes.data.choices[0].message?.content.trim() || "";
+  return oaiRes.data.choices[0].message?.content.trim() || "";
+}
 
-  return res;
+export async function translateStateError(lang: string) {
+  const oaiRes = await openai.createChatCompletion({
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "user",
+        content: `Print the phrase "You must include the state you live in! For example: 'I live in Idaho, and my senator is ...'" in this language: ${lang}.`,
+      },
+    ],
+    max_tokens: 50,
+  });
+
+  return oaiRes.data.choices[0].message?.content.trim() || "";
 }
 
 export async function POST(request: Request) {
@@ -60,11 +72,17 @@ export async function POST(request: Request) {
   let state = "";
   let stateAbbreviation;
   if (QUESTIONS_REQUIRING_STATE.includes(number)) {
-    if (!r.state) {
-      return new Response("Missing state", { status: 400 });
+    const stateAbbreviation = await parseStateFromAnswer(answer);
+
+    if (stateAbbreviation === "None") {
+      return new Response(`{
+"grade": "Incorrect",
+"explanation": "${await (
+        await translateStateError(language)
+      ).replaceAll('"', "'")}"
+      }`);
     }
 
-    stateAbbreviation = await getStateAbbreviation(r.state);
     state = `State: ${stateAbbreviation}`;
 
     const stateData = await getStateData(stateAbbreviation!);

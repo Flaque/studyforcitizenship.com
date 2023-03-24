@@ -2,7 +2,11 @@
 
 import cn from "classnames";
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
-import { ArrowRightIcon, PlayIcon } from "@heroicons/react/24/solid";
+import {
+  ArrowRightIcon,
+  MapPinIcon,
+  PlayIcon,
+} from "@heroicons/react/24/solid";
 import confetti from "canvas-confetti";
 import useSound from "use-sound";
 import { QUESTIONS_REQUIRING_STATE } from "./constants";
@@ -58,7 +62,7 @@ export default function Quiz({
 
   const [urlState, setUrlState] = useState<UrlState>({});
   const [isLoading, setIsLoading] = useState(false);
-  const [state, setState] = useState("");
+
   const [playSuccess] = useSound("/success.wav");
   const [playFailure] = useSound("/wrong_answer.wav", {
     volume: 0.1,
@@ -280,30 +284,14 @@ export default function Quiz({
 
           <div id="explanationBox">
             {QUESTIONS_REQUIRING_STATE.includes(first.number) && (
-              <div className="pb-2">
-                <label className="flex flex-col gap-1">
-                  Your US State
-                  <input
-                    className={cn({
-                      "w-full h-12 border  rounded p-2 border-gray-400 transition-colors":
-                        true,
-                      "bg-green-500 border-0 rounded-b-none text-white":
-                        result && result.grade === "Correct",
-                      "bg-red-500 border-0 rounded-b-none text-white":
-                        result && result.grade === "Incorrect",
-                    })}
-                    disabled={!!result}
-                    placeholder="ex: 'California'"
-                    value={input}
-                    onChange={(e) => setInput(e.target.value)}
-                    onKeyDown={(e) => {
-                      if (e.key === "Enter") {
-                        onGrade();
-                      }
-                    }}
-                    autoFocus
-                  />
-                </label>
+              <div
+                className={cn({
+                  "flex relative  items-center gap-2 border transition-all p-2 bg-blue-50 border-blue-500 rounded pb-2 mb-2 ":
+                    true,
+                })}
+              >
+                <MapPinIcon className="h-4 w-4" />
+                Include the US state you live in when answering this question!
               </div>
             )}
 
@@ -317,7 +305,11 @@ export default function Quiz({
                   result && result.grade === "Incorrect",
               })}
               disabled={!!result}
-              placeholder="Type your answer here..."
+              placeholder={
+                QUESTIONS_REQUIRING_STATE.includes(first.number)
+                  ? "Type your answer here, and mention what state you live in!"
+                  : "Type your answer here!"
+              }
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={(e) => {
