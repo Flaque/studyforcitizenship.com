@@ -36,46 +36,6 @@ function Spinner() {
   );
 }
 
-function useStateInSearchQuery<T>(): [T, Dispatch<SetStateAction<T>>] {
-  const [state, setStateInternally] = useState<T>({} as T);
-
-  useEffect(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const newParams = Object.fromEntries(urlParams.entries());
-    setStateInternally(newParams as T);
-  }, []);
-
-  function setState(newState: SetStateAction<T>, replaceState = false): void {
-    // If the new state is a function, then call it
-    // and set the state to the result
-    if (typeof newState === "function") {
-      // @ts-ignore
-      newState = newState(state);
-    }
-
-    // Update the state internally
-    setStateInternally(newState);
-
-    // Update the URL search query
-    const urlParams = new URLSearchParams(window.location.search);
-    Object.entries(newState as any).forEach(([key, value]) => {
-      if (value === undefined) {
-        urlParams.delete(key);
-      } else {
-        urlParams.set(key, value as any);
-      }
-    });
-
-    if (replaceState) {
-      window.history.replaceState({}, "", `?${urlParams.toString()}`);
-    } else {
-      window.history.pushState({}, "", `?${urlParams.toString()}`);
-    }
-  }
-
-  return [state, setState];
-}
-
 export default function StudyPage({ params }: { params: { lang: string } }) {
   const language = params.lang;
   const questions = useQuestions(language);
@@ -123,18 +83,27 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
 
   async function onGrade() {
     setIsLoading(true);
+    console.log({
+      number: first.number,
+      question: first?.question,
+      answer: input,
+      language: language,
+    });
     const response = await fetch("/api/grade", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
+        number: first.number,
         question: first?.question,
         answer: input,
         language: language,
       }),
     });
+
     const data = await response.text();
+    console.log(data);
     setIsLoading(false);
     try {
       const { grade, explanation } = JSON.parse(data);
@@ -251,6 +220,7 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
         <div className="flex justify-start sm:w-32 gap-2 flex-wrap">
           {currents.map((v) => (
             <div
+              key={v}
               className={cn({
                 "h-6 w-6 text-xs  border rounded-full items-center justify-center flex":
                   true,
