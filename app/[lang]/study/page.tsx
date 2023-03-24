@@ -1,7 +1,7 @@
 "use client";
 
 import cn from "classnames";
-import { useEffect, useState } from "react";
+import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import {
   HandThumbUpIcon,
@@ -34,6 +34,46 @@ function Spinner() {
   );
 }
 
+function useStateInSearchQuery<T>(): [T, Dispatch<SetStateAction<T>>] {
+  const [state, setStateInternally] = useState<T>({} as T);
+
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const newParams = Object.fromEntries(urlParams.entries());
+    setStateInternally(newParams as T);
+  }, []);
+
+  function setState(newState: SetStateAction<T>, replaceState = false): void {
+    // If the new state is a function, then call it
+    // and set the state to the result
+    if (typeof newState === "function") {
+      // @ts-ignore
+      newState = newState(state);
+    }
+
+    // Update the state internally
+    setStateInternally(newState);
+
+    // Update the URL search query
+    const urlParams = new URLSearchParams(window.location.search);
+    Object.entries(newState as any).forEach(([key, value]) => {
+      if (value === undefined) {
+        urlParams.delete(key);
+      } else {
+        urlParams.set(key, value as any);
+      }
+    });
+
+    if (replaceState) {
+      window.history.replaceState({}, "", `?${urlParams.toString()}`);
+    } else {
+      window.history.pushState({}, "", `?${urlParams.toString()}`);
+    }
+  }
+
+  return [state, setState];
+}
+
 export default function StudyPage({ params }: { params: { lang: string } }) {
   const language = params.lang;
   const questions = useQuestions(language);
@@ -41,6 +81,13 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
     grade: string;
     explanation: string;
   } | null>(null);
+
+  interface UrlState {
+    wrongs?: number[];
+    rights?: number[];
+  }
+
+  const [urlState, setUrlState] = useStateInSearchQuery<UrlState>();
 
   const [isLoading, setIsLoading] = useState(false);
   const [playSuccess] = useSound("/success.wav");
@@ -95,6 +142,16 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
           particleCount: 100,
         });
         playSuccess();
+
+        // set the rights in the url search query
+        setUrlState((state: any) => {
+          const rights = state.rights || [];
+          return {
+            ...state,
+            rights: [...rights, first.number],
+            wrongs: state.wrongs?.filter((w: number) => w !== first.number),
+          };
+        });
       } else {
         playFailure({});
         const div = document.getElementById("explanationBox");
@@ -106,6 +163,16 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
           div.classList.remove("shake-animation");
         }, 800);
       }
+
+      // Set the "wrongs" in the URL search query to be the quesiton.number
+      setUrlState((state: any) => {
+        const wrongs = state.wrongs || [];
+        return {
+          ...state,
+          wrongs: [...wrongs, first.number],
+          rights: state.rights?.filter((r: number) => r !== first.number),
+        };
+      });
 
       setResult({ grade, explanation });
     } catch (err) {
@@ -176,12 +243,12 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
       <div className="flex flex-col p-4 bg-gray-100 border-r">
         <div className="flex justify-start w-32 gap-2 flex-wrap">
           {currents.map((v) => (
-            <div className="h-6 w-6 text-xs bg-blue-200 rounded-full items-center justify-center flex">
+            <div className="h-6 w-6 text-xs bg-white border rounded-full items-center justify-center flex">
               {v}
             </div>
           ))}
           {pasts.map((v) => (
-            <div className="h-6 w-6 text-xs bg-red-200 rounded-full items-center justify-center flex ">
+            <div className="h-6 w-6 text-xs opacity-50 rounded-full items-center justify-center flex ">
               {v}
             </div>
           ))}
@@ -189,8 +256,6 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
       </div>
       <div className="px-8 py-4 h-screen flex flex-col items-center justify-center w-full">
         <div className="flex flex-col gap-4 pt-4 max-w-xl mx-auto w-full">
-          {/* <div className="flex flex-1 justify-start w-64">{avatars}</div> */}
-
           <div>
             <div className="text-gray-500 pb-1">Question #{first?.number}</div>
             <h1
