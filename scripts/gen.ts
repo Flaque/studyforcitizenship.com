@@ -1,6 +1,6 @@
 // In deno, read from questions
-import { questions } from "./data/questions.js";
-import { languages } from "./data/languages.js";
+import { questions } from "../data/questions.js";
+import { languages } from "../data/languages.js";
 import { OpenAIApi, Configuration } from "npm:openai@3.2";
 
 const configuration = new Configuration({
