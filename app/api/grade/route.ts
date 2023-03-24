@@ -38,6 +38,7 @@ interface Response {
 },`,
       },
     ],
+    max_tokens: 1500,
   });
 
   const res = oaiRes.data.choices[0].message?.content.trim() || "";

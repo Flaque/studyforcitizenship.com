@@ -2,14 +2,7 @@
 
 import cn from "classnames";
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
-import dynamic from "next/dynamic";
-import {
-  HandThumbUpIcon,
-  HandThumbDownIcon,
-  ArrowRightIcon,
-  BoltIcon,
-  PlayIcon,
-} from "@heroicons/react/24/solid";
+import { ArrowRightIcon, PlayIcon } from "@heroicons/react/24/solid";
 import confetti from "canvas-confetti";
 import useSound from "use-sound";
 
@@ -19,6 +12,15 @@ const useQuestions = (language: string) => {
   useEffect(() => {
     import(`../../../data/${language}/questions.json`)
       .then((data) => {
+        // Randomize the questions
+        for (let i = data.default.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [data.default[i], data.default[j]] = [
+            data.default[j],
+            data.default[i],
+          ];
+        }
+
         setQuestions(data.default);
       })
       .catch((e) => {
@@ -87,7 +89,7 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
     rights?: number[];
   }
 
-  const [urlState, setUrlState] = useStateInSearchQuery<UrlState>();
+  const [urlState, setUrlState] = useState<UrlState>({});
 
   const [isLoading, setIsLoading] = useState(false);
   const [playSuccess] = useSound("/success.wav");
@@ -146,10 +148,11 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
         // set the rights in the url search query
         setUrlState((state: any) => {
           const rights = state.rights || [];
+          const wrongs = state.wrongs || [];
           return {
             ...state,
             rights: [...rights, first.number],
-            wrongs: state.wrongs?.filter((w: number) => w !== first.number),
+            wrongs: wrongs.filter((w: number) => w !== first.number),
           };
         });
       } else {
@@ -162,21 +165,25 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
         setTimeout(() => {
           div.classList.remove("shake-animation");
         }, 800);
-      }
 
-      // Set the "wrongs" in the URL search query to be the quesiton.number
-      setUrlState((state: any) => {
-        const wrongs = state.wrongs || [];
-        return {
-          ...state,
-          wrongs: [...wrongs, first.number],
-          rights: state.rights?.filter((r: number) => r !== first.number),
-        };
-      });
+        // Set the "wrongs" in the URL search query to be the quesiton.number
+        setUrlState((state: any) => {
+          const wrongs = state.wrongs || [];
+          const rights = state.rights || [];
+          return {
+            ...state,
+            wrongs: [...wrongs, first.number],
+            rights: rights.filter((r: number) => r !== first.number),
+          };
+        });
+      }
 
       setResult({ grade, explanation });
     } catch (err) {
-      alert("Something went wrong grading the answer! Please try again later.");
+      alert(
+        "Something went wrong grading the answer! Please try again later.\n" +
+          err
+      );
     }
   }
 
@@ -239,22 +246,46 @@ export default function StudyPage({ params }: { params: { lang: string } }) {
   const pasts = previous.map((q) => q.number);
 
   return (
-    <div className="flex flex-row ">
+    <div className="flex sm:flex-row flex-col-reverse bg-gray-100 h-screen justify-end  ">
       <div className="flex flex-col p-4 bg-gray-100 border-r">
-        <div className="flex justify-start w-32 gap-2 flex-wrap">
+        <div className="flex justify-start sm:w-32 gap-2 flex-wrap">
           {currents.map((v) => (
-            <div className="h-6 w-6 text-xs bg-white border rounded-full items-center justify-center flex">
+            <div
+              className={cn({
+                "h-6 w-6 text-xs  border rounded-full items-center justify-center flex":
+                  true,
+                "bg-green-500 text-white border-green-700":
+                  urlState?.rights?.includes(v),
+                "bg-red-500 text-white border-red-700":
+                  urlState?.wrongs?.includes(v),
+                "bg-white":
+                  !urlState?.rights?.includes(v) &&
+                  !urlState?.wrongs?.includes(v),
+              })}
+            >
               {v}
             </div>
           ))}
           {pasts.map((v) => (
-            <div className="h-6 w-6 text-xs opacity-50 rounded-full items-center justify-center flex ">
+            <div
+              className={cn({
+                "h-6 w-6 text-xs opacity-50 border rounded-full  items-center justify-center flex":
+                  true,
+                "bg-green-500 text-white border-green-700":
+                  urlState?.rights?.includes(v),
+                "bg-red-500 text-white border-red-700":
+                  urlState?.wrongs?.includes(v),
+                "bg-white":
+                  !urlState?.rights?.includes(v) &&
+                  !urlState?.wrongs?.includes(v),
+              })}
+            >
               {v}
             </div>
           ))}
         </div>
       </div>
-      <div className="px-8 py-4 h-screen flex flex-col items-center justify-center w-full">
+      <div className="px-8 sm:py-4 pt-4 pb-8 sm:h-screen sm:border-b-0 border-b bg-white flex flex-col items-center justify-center w-full">
         <div className="flex flex-col gap-4 pt-4 max-w-xl mx-auto w-full">
           <div>
             <div className="text-gray-500 pb-1">Question #{first?.number}</div>

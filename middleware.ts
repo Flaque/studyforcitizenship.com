@@ -6,8 +6,6 @@ export const config = {
 };
 
 export default function middleware(req: NextRequest) {
-  const country = req.geo?.country?.toLowerCase() || "us";
-
   const acceptLanguage = req.headers.get("accept-language");
 
   if (!acceptLanguage) {
