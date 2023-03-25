@@ -105,18 +105,40 @@ export async function POST(request: Request) {
       context = `${stateAbbreviation} Representatives: ${houseReps
         .map((s: any) => s.name)
         .join(", ")}`;
-    } else if (number === PRESIDENT_QUESTION) {
-      context = `Current President: ${await getPresidentFromWikipedia()}`;
-    } else if (number === VICE_PRESIDENT_QUESTION) {
-      context = `Current Vice President: ${await getVicePresidentFromWikipedia()}`;
-    } else if (number === SPEAKER_OF_THE_HOUSE) {
-      context = `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`;
-    } else if (number === CHIEF_JUSTICE_QUESTION) {
-      context = `Current Chief Justice: John Roberts ${await getChiefJusticeFromWikipedia()}`;
-    } else if (number === POLITICAL_PARTY_QUESTION) {
-      context = `Current Political Party: ${getPoliticalPartyOfPresidentFromWikipedia()}`;
     }
   }
+
+  if (number === PRESIDENT_QUESTION) {
+    context = `Current President: ${await getPresidentFromWikipedia()}`;
+  } else if (number === VICE_PRESIDENT_QUESTION) {
+    context = `Current Vice President: ${await getVicePresidentFromWikipedia()}`;
+  } else if (number === SPEAKER_OF_THE_HOUSE) {
+    console.log("I'm GIVEN CONTEXT");
+    context = `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`;
+  } else if (number === CHIEF_JUSTICE_QUESTION) {
+    context = `Current Chief Justice: John Roberts ${await getChiefJusticeFromWikipedia()}`;
+  } else if (number === POLITICAL_PARTY_QUESTION) {
+    context = `Current Political Party: ${getPoliticalPartyOfPresidentFromWikipedia()}`;
+  }
+
+  console.log(`Grade the answer to this question on the US citizenship test.
+
+  Available grades:
+  - Incorrect
+  - Correct
+  
+  ${state}${context}
+  ISO Language: ${language}
+  Question: ${question}
+  Answer: "${answer}"
+  
+  Respond in the following JSON format:
+  interface Response {
+    grade: "Incorrect" | "Correct";
+  
+    // The explanation (and correct answer) is in ${language}.
+    explanation: string;
+  },`);
 
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
@@ -129,10 +151,14 @@ Available grades:
 - Incorrect
 - Correct
 
-${state}${context}
+# Context
+Todays Date: ${new Date().toLocaleDateString()}
 ISO Language: ${language}
+${state}${context}
+
+# Test
 Question: ${question}
-Answer: "${answer}"
+User's Answer: "${answer}"
 
 Respond in the following JSON format:
 interface Response {

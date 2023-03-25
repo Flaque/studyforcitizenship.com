@@ -88,20 +88,29 @@ export default function Quiz({
     }
   }, [questions]);
 
-  const first = startAt
-    ? questions.find((q: any) => q.number === startAt)
-    : current[0];
+  // If we have a "startAt", put it at the top of the current queue
+  useEffect(() => {
+    console.log("what?", questions);
+    if (questions.length === 0) return;
+    console.log("no start at?", startAt);
+    if (!startAt) return;
+
+    // Remove it from the current array if it's there
+    const startAtQuestion = questions.find((q: any) => q.number === startAt);
+    const withoutStartAt = current.filter((q) => q.number !== startAt);
+
+    console.log([startAtQuestion, ...withoutStartAt]);
+
+    // Add it to the front of the current array
+    setCurrent([startAtQuestion, ...withoutStartAt]);
+  }, [startAt, questions]);
+
+  const first = current[0];
 
   const [input, setInput] = useState("");
 
   async function onGrade() {
     setIsLoading(true);
-    console.log({
-      number: first.number,
-      question: first?.question,
-      answer: input,
-      language: language,
-    });
     const response = await fetch("/api/grade", {
       method: "POST",
       headers: {
@@ -116,7 +125,6 @@ export default function Quiz({
     });
 
     const data = await response.text();
-    console.log(data);
     setIsLoading(false);
     try {
       const { grade, explanation } = JSON.parse(data);
