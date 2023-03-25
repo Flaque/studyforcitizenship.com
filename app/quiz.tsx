@@ -17,14 +17,14 @@ const useQuestions = (language: string) => {
   useEffect(() => {
     import(`../data/${language}/questions.json`)
       .then((data) => {
-        // Randomize the questions
-        for (let i = data.default.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [data.default[i], data.default[j]] = [
-            data.default[j],
-            data.default[i],
-          ];
-        }
+        // // Randomize the questions
+        // for (let i = data.default.length - 1; i > 0; i--) {
+        //   const j = Math.floor(Math.random() * (i + 1));
+        //   [data.default[i], data.default[j]] = [
+        //     data.default[j],
+        //     data.default[i],
+        //   ];
+        // }
 
         setQuestions(data.default);
       })
