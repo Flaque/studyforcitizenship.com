@@ -80,7 +80,7 @@
     "number": 20
   },
   {
-    "question": "하원의 투표 의원은 몇 명입니까? (ISO code: ko)",
+    "question": "하원의 투표 의원은 몇 명입니까? ",
     "number": 21
   },
   {
@@ -124,7 +124,7 @@
     "number": 31
   },
   {
-    "question": "누가 군대의 사령관인가요? (ISO code: ko)",
+    "question": "누가 군대의 사령관인가요? ",
     "number": 32
   },
   {
@@ -224,7 +224,7 @@
     "number": 56
   },
   {
-    "question": "언제 모든 남성은 선택적 병역신고를 등록해야합니까? (iso code: ko)",
+    "question": "언제 모든 남성은 선택적 병역신고를 등록해야합니까? ",
     "number": 57
   },
   {
@@ -236,7 +236,7 @@
     "number": 59
   },
   {
-    "question": "어떤 인종의 사람들이 미국으로 옮겨져 노예로 팔렸나요? (ISO code: ko)",
+    "question": "어떤 인종의 사람들이 미국으로 옮겨져 노예로 팔렸나요? ",
     "number": 60
   },
   {
@@ -352,7 +352,7 @@
     "number": 88
   },
   {
-    "question": "미국 서부 연안에 어떤 해가 있나요? (ISO code: ko)",
+    "question": "미국 서부 연안에 어떤 해가 있나요? ",
     "number": 89
   },
   {

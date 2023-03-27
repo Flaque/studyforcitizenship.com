@@ -10,6 +10,8 @@ import {
 import confetti from "canvas-confetti";
 import useSound from "use-sound";
 import { QUESTIONS_REQUIRING_STATE } from "./constants";
+import { langs } from "./langs";
+import { useRouter } from "next/navigation";
 
 // Dyanmic import of the questions
 const useQuestions = (language: string) => {
@@ -228,6 +230,8 @@ export default function Quiz({
     }
   }, [result]);
 
+  const router = useRouter();
+
   if (!first) return <div></div>;
   if (!questions) return <div></div>;
 
@@ -236,7 +240,7 @@ export default function Quiz({
   const pasts = previous.map((q) => q.number);
 
   return (
-    <div className="flex sm:flex-row flex-col-reverse bg-gray-100 h-screen justify-end  ">
+    <div className="flex sm:flex-row flex-col-reverse bg-gray-100 h-screen justify-end">
       <div className="flex flex-col p-4 bg-gray-100 border-r">
         <div className="flex justify-start sm:w-32 gap-2 flex-wrap">
           {currents.map((v) => (
@@ -278,7 +282,27 @@ export default function Quiz({
           ))}
         </div>
       </div>
-      <div className="px-8 sm:py-4 pt-4 pb-8 sm:h-screen sm:border-b-0 border-b bg-white flex flex-col items-center justify-center w-full">
+      <div className="px-8 sm:py-4 pt-4 pb-8 sm:h-screen sm:border-b-0 border-b bg-white flex flex-col items-center justify-between w-full">
+        <div className="w-full flex justify-between items-center">
+          <div className=" text-gray-600 text-sm font-serif">
+            Study for the US Citizenship Test!
+          </div>
+          <div>
+            <select
+              value={lang}
+              className="border text-sm p-1 rounded text-gray-600"
+              onChange={(e) => {
+                router.push(`/${e.target.value}/study`);
+              }}
+            >
+              {langs.map((l) => (
+                <option key={l.code} value={l.code}>
+                  {l.name} {l.flag}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
         <div className="flex flex-col gap-4 pt-4 max-w-xl mx-auto w-full">
           <div>
             <div className="text-gray-500 pb-1">Question #{first?.number}</div>
@@ -368,6 +392,7 @@ export default function Quiz({
             </div>
           )}
         </div>
+        <div></div>
       </div>
     </div>
   );

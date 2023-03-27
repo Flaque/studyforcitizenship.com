@@ -24,7 +24,7 @@
     "number": 6
   },
   {
-    "question": "Koľko dodatkov má Ústava? (ISO code: sk)",
+    "question": "Koľko dodatkov má Ústava? ",
     "number": 7
   },
   {
@@ -76,7 +76,7 @@
     "number": 19
   },
   {
-    "question": "Kto je teraz jeden z vašich senátorov v USA v štáte, v ktorom bývate? (ISO code: sk)",
+    "question": "Kto je teraz jeden z vašich senátorov v USA v štáte, v ktorom bývate? ",
     "number": 20
   },
   {
@@ -288,7 +288,7 @@
     "number": 72
   },
   {
-    "question": "Ako sa volala vojna medzi Severom a Juhom v Spojených štátoch? (ISO code: sk)",
+    "question": "Ako sa volala vojna medzi Severom a Juhom v Spojených štátoch? ",
     "number": 73
   },
   {

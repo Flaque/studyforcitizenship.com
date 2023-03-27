@@ -8,7 +8,7 @@
     "number": 2
   },
   {
-    "question": "A konstitúció első három szava az önálló kormányzás gondolatát fejezi ki. Mi ezek a szavak? (ISO code: hu)",
+    "question": "A konstitúció első három szava az önálló kormányzás gondolatát fejezi ki. Mi ezek a szavak? ",
     "number": 3
   },
   {
@@ -56,7 +56,7 @@
     "number": 14
   },
   {
-    "question": "Ki kezeli az végrehajtó hatalmat? (ISO code: hu)",
+    "question": "Ki kezeli az végrehajtó hatalmat? ",
     "number": 15
   },
   {
@@ -72,7 +72,7 @@
     "number": 18
   },
   {
-    "question": "Hány évre választunk egy Egyesült Államok szenátort? (ISO code: hu)",
+    "question": "Hány évre választunk egy Egyesült Államok szenátort? ",
     "number": 19
   },
   {
@@ -100,7 +100,7 @@
     "number": 25
   },
   {
-    "question": "Milyen hosszú időre választunk elnököt? (ISO code: hu)",
+    "question": "Milyen hosszú időre választunk elnököt? ",
     "number": 26
   },
   {
@@ -116,7 +116,7 @@
     "number": 29
   },
   {
-    "question": "Ha az elnök már nem tud többé szolgálni, ki lesz az elnök? (ISO code: hu)",
+    "question": "Ha az elnök már nem tud többé szolgálni, ki lesz az elnök? ",
     "number": 30
   },
   {
@@ -124,7 +124,7 @@
     "number": 31
   },
   {
-    "question": "Ki a katonai erők főparancsnoka? (ISO code: hu)",
+    "question": "Ki a katonai erők főparancsnoka? ",
     "number": 32
   },
   {
@@ -160,7 +160,7 @@
     "number": 40
   },
   {
-    "question": "Az alkotmányunk szerint, bizonyos hatalmak a szövetségi kormányhoz tartoznak. Mi az egyik szövetségi kormányzati hatalom? (ISO code: hu)",
+    "question": "Az alkotmányunk szerint, bizonyos hatalmak a szövetségi kormányhoz tartoznak. Mi az egyik szövetségi kormányzati hatalom? ",
     "number": 41
   },
   {
@@ -184,7 +184,7 @@
     "number": 46
   },
   {
-    "question": "Melyik a jelenlegi képviselőház elnökének a neve? (ISO code: hu)",
+    "question": "Melyik a jelenlegi képviselőház elnökének a neve? ",
     "number": 47
   },
   {
@@ -316,7 +316,7 @@
     "number": 79
   },
   {
-    "question": "Ki volt az elnök a Nagy Gazdasági Válság és a második világháború idején? (ISO code: hu)",
+    "question": "Ki volt az elnök a Nagy Gazdasági Válság és a második világháború idején? ",
     "number": 80
   },
   {
@@ -356,7 +356,7 @@
     "number": 89
   },
   {
-    "question": "Milyen óceán van az Amerikai Egyesült Államok keleti partvidékén? (ISO code: hu)",
+    "question": "Milyen óceán van az Amerikai Egyesült Államok keleti partvidékén? ",
     "number": 90
   },
   {

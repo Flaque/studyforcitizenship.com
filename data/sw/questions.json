@@ -1,6 +1,6 @@
 [
   {
-    "question": "Ni sheria kuu ya nchi? (ISO code: sw)",
+    "question": "Ni sheria kuu ya nchi? ",
     "number": 1
   },
   {
@@ -32,7 +32,7 @@
     "number": 8
   },
   {
-    "question": "Je! Ni haki mbili katika Tamko la Uhuru? (ISO code: sw)",
+    "question": "Je! Ni haki mbili katika Tamko la Uhuru? ",
     "number": 9
   },
   {
@@ -64,7 +64,7 @@
     "number": 16
   },
   {
-    "question": "Ni sehemu gani mbili za Bunge la Marekani? (ISO code: sw)",
+    "question": "Ni sehemu gani mbili za Bunge la Marekani? ",
     "number": 17
   },
   {
@@ -104,7 +104,7 @@
     "number": 26
   },
   {
-    "question": "Mwezi gani tunapiga kura kumchagua Rais? (ISO code: sw)",
+    "question": "Mwezi gani tunapiga kura kumchagua Rais? ",
     "number": 27
   },
   {
@@ -240,7 +240,7 @@
     "number": 60
   },
   {
-    "question": "Kwa nini wakazi walipigana na Waingereza? (ISO code: sw)",
+    "question": "Kwa nini wakazi walipigana na Waingereza? ",
     "number": 61
   },
   {
@@ -284,7 +284,7 @@
     "number": 71
   },
   {
-    "question": "Je! Unaweza kutaja vita moja iliyopiganiwa na Marekani katika karne ya 19? (ISO code: sw)",
+    "question": "Je! Unaweza kutaja vita moja iliyopiganiwa na Marekani katika karne ya 19? ",
     "number": 72
   },
   {

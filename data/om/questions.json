@@ -44,7 +44,7 @@
     "number": 11
   },
   {
-    "question": "Maaloo keenya akka jiru yoo ta'e namni mana keenyaatti deebi'ee diinaa argatanii fi jireenyaafi demokraasii hin jirree hin arganne? (ISO code: om)",
+    "question": "Maaloo keenya akka jiru yoo ta'e namni mana keenyaatti deebi'ee diinaa argatanii fi jireenyaafi demokraasii hin jirree hin arganne? ",
     "number": 12
   },
   {
@@ -96,7 +96,7 @@
     "number": 24
   },
   {
-    "question": "Max'anno dhibbaa waggoota gutuu jiraachaa dhuftee salaalee isaanii gargaarsaa isa duraa godhanii jiru? (ISO code: om)",
+    "question": "Max'anno dhibbaa waggoota gutuu jiraachaa dhuftee salaalee isaanii gargaarsaa isa duraa godhanii jiru? ",
     "number": 25
   },
   {
@@ -120,7 +120,7 @@
     "number": 30
   },
   {
-    "question": "Haddii laba toddobaadood oo dhan ee Madaxweyne iyo Madaxweyne-ku-xigeen la'aan, maxaa loo soo diyaariyaa in uu ahaa Madaxweyne? \n\n(ISO code: om, Language: Oromo)",
+    "question": "Haddii laba toddobaadood oo dhan ee Madaxweyne iyo Madaxweyne-ku-xigeen la'aan, maxaa loo soo diyaariyaa in uu ahaa Madaxweyne? \n\n",
     "number": 31
   },
   {
@@ -196,7 +196,7 @@
     "number": 49
   },
   {
-    "question": "Sidaad uga heshay saddex haki ahaan la xiriira qowmiyadda Maraykanka? (ISO code: om)",
+    "question": "Sidaad uga heshay saddex haki ahaan la xiriira qowmiyadda Maraykanka? ",
     "number": 50
   },
   {
@@ -224,11 +224,11 @@
     "number": 56
   },
   {
-    "question": "Kan oduu miidhagarsiisu haa tahu carraaqa malee Selekptivee Sarviseetti gadi bu'aa baasuu dha? (ISO code: om)",
+    "question": "Kan oduu miidhagarsiisu haa tahu carraaqa malee Selekptivee Sarviseetti gadi bu'aa baasuu dha? ",
     "number": 57
   },
   {
-    "question": "Maqaa fi kan walabummaa Ameerikaa ta'ee hojiirraa kolonistiin argamu? (ISO code: om)",
+    "question": "Maqaa fi kan walabummaa Ameerikaa ta'ee hojiirraa kolonistiin argamu? ",
     "number": 58
   },
   {
@@ -248,7 +248,7 @@
     "number": 62
   },
   {
-    "question": "Xaaqiiqda Dekeda Isbaandhiga ee Isgaadhsiinta ayaa markii ay dhashay lagu soo bandhigay? (ISO code: 'om')",
+    "question": "Xaaqiiqda Dekeda Isbaandhiga ee Isgaadhsiinta ayaa markii ay dhashay lagu soo bandhigay? ",
     "number": 63
   },
   {
@@ -308,7 +308,7 @@
     "number": 77
   },
   {
-    "question": "Haala waraannii Ameerikaa kan ta'aniitti jijjiramaa godhanitti deebiyaa. (ISO code: om)",
+    "question": "Haala waraannii Ameerikaa kan ta'aniitti jijjiramaa godhanitti deebiyaa. ",
     "number": 78
   },
   {
@@ -328,7 +328,7 @@
     "number": 82
   },
   {
-    "question": "Masafakana kan kale bii haala ykn Soomaaliya oo u dhaca nooca Cagaaran (Cold War)? (ISO code: om)",
+    "question": "Masafakana kan kale bii haala ykn Soomaaliya oo u dhaca nooca Cagaaran (Cold War)? ",
     "number": 83
   },
   {
@@ -340,7 +340,7 @@
     "number": 85
   },
   {
-    "question": "Maalimaha ugu weyn ee dhacay September 11, 2001, ee Mareykanka waxaa aay ka dhacday? (ISO code: om)",
+    "question": "Maalimaha ugu weyn ee dhacay September 11, 2001, ee Mareykanka waxaa aay ka dhacday? ",
     "number": 86
   },
   {

@@ -1,3 +1,5 @@
+import Quiz from "./quiz";
+
 export default function Home() {
-  return <div>hi there!</div>;
+  return <Quiz lang="en" />;
 }
