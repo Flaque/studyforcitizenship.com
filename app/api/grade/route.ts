@@ -121,25 +121,6 @@ export async function POST(request: Request) {
     context = `Current Political Party: ${getPoliticalPartyOfPresidentFromWikipedia()}`;
   }
 
-  console.log(`Grade the answer to this question on the US citizenship test.
-
-  Available grades:
-  - Incorrect
-  - Correct
-  
-  ${state}${context}
-  ISO Language: ${language}
-  Question: ${question}
-  Answer: "${answer}"
-  
-  Respond in the following JSON format:
-  interface Response {
-    grade: "Incorrect" | "Correct";
-  
-    // The explanation (and correct answer) is in ${language}.
-    explanation: string;
-  },`);
-
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
     messages: [

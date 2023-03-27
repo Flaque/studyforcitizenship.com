@@ -19,15 +19,6 @@ const useQuestions = (language: string) => {
   useEffect(() => {
     import(`../data/${language}/questions.json`)
       .then((data) => {
-        // // Randomize the questions
-        // for (let i = data.default.length - 1; i > 0; i--) {
-        //   const j = Math.floor(Math.random() * (i + 1));
-        //   [data.default[i], data.default[j]] = [
-        //     data.default[j],
-        //     data.default[i],
-        //   ];
-        // }
-
         setQuestions(data.default);
       })
       .catch((e) => {
@@ -181,10 +172,21 @@ export default function Quiz({
 
   function onNextQuestion() {
     if (!result) return;
+
     // If they got the question correct
     // then we add it to the end of the "previous" queue
     // and pop it off the "current" queue
     if (result.grade === "Correct") {
+      // If we're at the end of the current and previous queues
+      // then we're done!
+      if (current.length === 1 && previous.length === 0) {
+        // Reset the state
+        setCurrent([]);
+        setPrevious([]);
+
+        return;
+      }
+
       setCurrent((current) => {
         const withoutFirst = current.slice(1);
 
@@ -197,6 +199,8 @@ export default function Quiz({
       setPrevious((prev) => {
         // pop off something from the previous queue
         const withoutFirst = prev.slice(1);
+
+        // If there's nothing left in the previous queue
 
         return [...withoutFirst, first];
       });
