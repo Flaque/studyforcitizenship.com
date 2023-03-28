@@ -24,3 +24,10 @@
     animation: none;
   }
 }
+
+.pattern {
+  background-color: #ffffff;
+  opacity: 0.8;
+  background-image: radial-gradient(#000000 0.5px, #ffffff 0.5px);
+  background-size: 10px 10px;
+}
