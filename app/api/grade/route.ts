@@ -125,8 +125,6 @@ export async function POST(request: Request) {
         .join(", ")}`;
     } else if (number == YOUR_STATE_GOV_QUESTION) {
       context = `${stateAbbreviation} Governor: ${stateData.governor}`;
-    } else if (number == YOUR_STATE_CAPITAL_QUESTION) {
-      context = `${stateAbbreviation} Capital: ${stateData.capital}`;
     } else if (number == YOUR_US_REPRESENTATIVE_QUESTION) {
       const houseReps = await getHouseRepresentatives(stateAbbreviation!);
       context = `${stateAbbreviation} Representatives: ${houseReps
@@ -188,6 +186,42 @@ interface Response {
   });
 
   const res = oaiRes.data.choices[0].message?.content.trim() || "";
+
+  console.log([
+    {
+      role: "system",
+      content: `Grade the answer to this question on the US 
+citizenship test.
+
+Available grades:
+- Incorrect
+- Correct
+
+Todays Date: ${new Date().toLocaleDateString()}
+ISO Language: ${language}
+${state}${context}
+`,
+    },
+    {
+      role: "system",
+      content: `Q: '${question}'`,
+    },
+    {
+      role: "user",
+      content: `A: '${answer}'`,
+    },
+    {
+      role: "system",
+      content: `Print the response in this JSON format:
+interface Response {
+grade: "Incorrect" | "Correct";
+
+// The explanation (and correct answer) is in ${language}.
+explanation: string;
+},`,
+    },
+  ]);
+  console.log(res);
 
   return new Response(res);
 }
