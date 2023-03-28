@@ -163,23 +163,25 @@ Available grades:
 Todays Date: ${new Date().toLocaleDateString()}
 ISO Language: ${language}
 ${state}${context}
-
-Print the response in this JSON format:
+`,
+      },
+      {
+        role: "system",
+        content: `Q: '${question}'`,
+      },
+      {
+        role: "user",
+        content: `A: '${answer}'`,
+      },
+      {
+        role: "system",
+        content: `Print the response in this JSON format:
 interface Response {
   grade: "Incorrect" | "Correct";
 
   // The explanation (and correct answer) is in ${language}.
   explanation: string;
-},
-`,
-      },
-      {
-        role: "user",
-        content: `Question: '${question}'`,
-      },
-      {
-        role: "user",
-        content: `Answer: '${answer}'`,
+},`,
       },
     ],
     max_tokens: 1500,
