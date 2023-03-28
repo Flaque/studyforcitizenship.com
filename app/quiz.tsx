@@ -287,8 +287,8 @@ export default function Quiz({
         </div>
       </div>
       <div className="px-8 sm:py-4 pt-4 pb-8 sm:h-screen sm:border-b-0 border-b bg-white flex flex-col items-center justify-between w-full">
-        <div className="w-full flex justify-between items-center">
-          <div className=" text-gray-600 text-sm font-serif">
+        <div className="w-full flex sm:justify-between items-center gap-2 flex-wrap">
+          <div className=" text-gray-600 text-sm font-serif hidden sm:flex">
             Study for the US Citizenship Test!
           </div>
           <div>
