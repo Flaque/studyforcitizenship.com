@@ -9,3 +9,4 @@ export const VICE_PRESIDENT_QUESTION = 29;
 export const CHIEF_JUSTICE_QUESTION = 40;
 export const POLITICAL_PARTY_QUESTION = 46;
 export const SPEAKER_OF_THE_HOUSE = 47;
+export const INDIAN_QUESTION = 87;

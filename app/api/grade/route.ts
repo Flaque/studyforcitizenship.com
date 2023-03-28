@@ -1,5 +1,6 @@
 import {
   CHIEF_JUSTICE_QUESTION,
+  INDIAN_QUESTION,
   POLITICAL_PARTY_QUESTION,
   PRESIDENT_QUESTION,
   QUESTIONS_REQUIRING_STATE,
@@ -74,6 +75,20 @@ export async function translateStateError(lang: string) {
   return oaiRes.data.choices[0].message?.content.trim() || "";
 }
 
+function system(msg: string): { role: "system"; content: string } {
+  return {
+    role: "system",
+    content: msg,
+  };
+}
+
+function user(msg: string): { role: "user"; content: string } {
+  return {
+    role: "user",
+    content: msg,
+  };
+}
+
 export async function POST(request: Request) {
   const r = await request.json();
   const { question, answer, language, number } = r;
@@ -94,10 +109,24 @@ export async function POST(request: Request) {
     );
   }
 
+  const messages: Array<{ role: "user" | "system"; content: string }> = [
+    {
+      role: "system",
+      content: `Grade the answer to this question on the US 
+citizenship test.
+
+Available grades:
+- Incorrect
+- Correct
+
+Todays Date: ${new Date().toLocaleDateString()}
+ISO Language: ${language}
+`,
+    },
+  ];
+
   // Questions that require the state.
-  let context = "";
-  let state = "";
-  let stateAbbreviation;
+
   if (QUESTIONS_REQUIRING_STATE.includes(number)) {
     const stateAbbreviation = await parseStateFromAnswer(answer);
 
@@ -110,7 +139,7 @@ export async function POST(request: Request) {
       }`);
     }
 
-    state = `State: ${stateAbbreviation}`;
+    messages.push(system(`US State: ${stateAbbreviation}`));
 
     const stateData = await getStateData(stateAbbreviation!);
     if (!stateData) {
@@ -120,107 +149,74 @@ export async function POST(request: Request) {
     // Specific questions with answers we should look up
     if (number === YOUR_STATE_SENATORS_QUESTION) {
       const senators = await getSenateRepresentatives(stateAbbreviation!);
-      context = `${stateAbbreviation} Senators: ${senators
+      let context = `${stateAbbreviation} Senators: ${senators
         .map((s: any) => s.name)
         .join(", ")}`;
+
+      messages.push(system(context));
     } else if (number == YOUR_STATE_GOV_QUESTION) {
-      context = `${stateAbbreviation} Governor: ${stateData.governor}`;
+      messages.push(system(`State Governor: ${stateData.governor}`));
     } else if (number == YOUR_US_REPRESENTATIVE_QUESTION) {
       const houseReps = await getHouseRepresentatives(stateAbbreviation!);
-      context = `${stateAbbreviation} Representatives: ${houseReps
+      let context = `${stateAbbreviation} Representatives: ${houseReps
         .map((s: any) => s.name)
         .join(", ")}`;
+
+      messages.push(system(context));
     }
   }
 
   if (number === PRESIDENT_QUESTION) {
-    context = `Current President: ${await getPresidentFromWikipedia()}`;
+    messages.push(
+      system(`Current President: ${await getPresidentFromWikipedia()}`)
+    );
   } else if (number === VICE_PRESIDENT_QUESTION) {
-    context = `Current Vice President: ${await getVicePresidentFromWikipedia()}`;
+    messages.push(
+      system(`Current Vice President: ${await getVicePresidentFromWikipedia()}`)
+    );
   } else if (number === SPEAKER_OF_THE_HOUSE) {
-    console.log("I'm GIVEN CONTEXT");
-    context = `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`;
+    messages.push(
+      system(
+        `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`
+      )
+    );
   } else if (number === CHIEF_JUSTICE_QUESTION) {
-    context = `Current Chief Justice: John Roberts ${await getChiefJusticeFromWikipedia()}`;
+    messages.push(
+      system(`Current Chief Justice: ${await getChiefJusticeFromWikipedia()}`)
+    );
   } else if (number === POLITICAL_PARTY_QUESTION) {
-    context = `Current Political Party: ${getPoliticalPartyOfPresidentFromWikipedia()}`;
+    messages.push(
+      system(
+        `Current Political Party: ${await getPoliticalPartyOfPresidentFromWikipedia()}`
+      )
+    );
+  } else if (number === INDIAN_QUESTION) {
+    messages.push(
+      system(`If the user says ANY american indian tribe, they pass.`)
+    );
   }
 
-  const oaiRes = await openai.createChatCompletion({
-    model: "gpt-3.5-turbo",
-    messages: [
-      {
-        role: "system",
-        content: `Grade the answer to this question on the US 
-citizenship test.
-
-Available grades:
-- Incorrect
-- Correct
-
-Todays Date: ${new Date().toLocaleDateString()}
-ISO Language: ${language}
-${state}${context}
-`,
-      },
-      {
-        role: "system",
-        content: `Q: '${question}'`,
-      },
-      {
-        role: "user",
-        content: `A: '${answer}'`,
-      },
-      {
-        role: "system",
-        content: `Print the response in this JSON format:
+  messages.push(system(`Q: '${question}'`));
+  messages.push(user(`A: '${answer}'`));
+  messages.push(
+    system(`Print the response in this JSON format:
 interface Response {
   grade: "Incorrect" | "Correct";
 
   // The explanation (and correct answer) is in ${language}.
   explanation: string;
-},`,
-      },
-    ],
+}`)
+  );
+
+  const oaiRes = await openai.createChatCompletion({
+    model: "gpt-3.5-turbo",
+    messages: messages,
     max_tokens: 1500,
   });
 
   const res = oaiRes.data.choices[0].message?.content.trim() || "";
 
-  console.log([
-    {
-      role: "system",
-      content: `Grade the answer to this question on the US 
-citizenship test.
-
-Available grades:
-- Incorrect
-- Correct
-
-Todays Date: ${new Date().toLocaleDateString()}
-ISO Language: ${language}
-${state}${context}
-`,
-    },
-    {
-      role: "system",
-      content: `Q: '${question}'`,
-    },
-    {
-      role: "user",
-      content: `A: '${answer}'`,
-    },
-    {
-      role: "system",
-      content: `Print the response in this JSON format:
-interface Response {
-grade: "Incorrect" | "Correct";
-
-// The explanation (and correct answer) is in ${language}.
-explanation: string;
-},`,
-    },
-  ]);
+  console.log(messages.map((m) => `${m.role}: ${m.content}`).join("\n"));
   console.log(res);
 
   return new Response(res);
