@@ -410,7 +410,7 @@ export default function Quiz({
         height={1024}
         className="border-y border-black"
       />
-      <div className=" pb-12 py-12 border-black px-4">
+      <div className=" pb-12 py-12 border-black px-4 overflow-x-hidden">
         <div className="flex max-w-4xl mx-auto gap-8 items-start">
           <div className="flex flex-col pt-12 md:flex-wrap items-center justify-center gap-8 mx-auto w-full">
             <div className="max-w-md">
