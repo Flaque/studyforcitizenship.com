@@ -44,6 +44,21 @@ export async function parseStateFromAnswer(answer: string) {
   return oaiRes.data.choices[0].message?.content.trim() || "";
 }
 
+export async function translateError(err: string, lang: string) {
+  const oaiRes = await openai.createChatCompletion({
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "user",
+        content: `Print the error message "${err}" in the language: ${lang}.`,
+      },
+    ],
+    max_tokens: 50,
+  });
+
+  return oaiRes.data.choices[0].message?.content.trim() || "";
+}
+
 export async function translateStateError(lang: string) {
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
@@ -65,6 +80,18 @@ export async function POST(request: Request) {
 
   if (!question || !answer || !language || !number) {
     return new Response("Missing question or answer", { status: 400 });
+  }
+
+  if (answer.length < 2) {
+    return new Response(
+      JSON.stringify({
+        grade: "Incorrect",
+        explanation: await translateError(
+          "Your answer is too short.",
+          language
+        ),
+      })
+    );
   }
 
   // Questions that require the state.
@@ -125,29 +152,34 @@ export async function POST(request: Request) {
     model: "gpt-3.5-turbo",
     messages: [
       {
-        role: "user",
-        content: `Grade the answer to this question on the US citizenship test.
+        role: "system",
+        content: `Grade the answer to this question on the US 
+citizenship test.
 
 Available grades:
 - Incorrect
 - Correct
 
-# Context
 Todays Date: ${new Date().toLocaleDateString()}
 ISO Language: ${language}
 ${state}${context}
 
-# Test
-Question: ${question}
-User's Answer: "${answer}"
-
-Respond in the following JSON format:
+Print the response in this JSON format:
 interface Response {
   grade: "Incorrect" | "Correct";
 
   // The explanation (and correct answer) is in ${language}.
   explanation: string;
-},`,
+},
+`,
+      },
+      {
+        role: "user",
+        content: `Question: '${question}'`,
+      },
+      {
+        role: "user",
+        content: `Answer: '${answer}'`,
       },
     ],
     max_tokens: 1500,

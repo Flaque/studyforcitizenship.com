@@ -9,8 +9,6 @@ export const config = {
 export default function middleware(req: NextRequest) {
   // If we're on a `/:lang/study/*` page
   if (req.nextUrl.pathname.includes("/study")) {
-    console.log(req.geo);
-
     // add req.geo.region to the query
     if (req.geo?.region) {
       req.nextUrl.searchParams.set("region", req.geo?.region);
