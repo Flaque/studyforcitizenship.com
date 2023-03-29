@@ -4,6 +4,7 @@ import {
   POLITICAL_PARTY_QUESTION,
   PRESIDENT_QUESTION,
   QUESTIONS_REQUIRING_STATE,
+  SECRETARY_OF_STATE_QUESTION,
   SPEAKER_OF_THE_HOUSE,
   VICE_PRESIDENT_QUESTION,
   YOUR_STATE_CAPITAL_QUESTION,
@@ -193,6 +194,12 @@ ISO Language: ${language}
   } else if (number === INDIAN_QUESTION) {
     messages.push(
       system(`If the user says ANY american indian tribe, they pass.`)
+    );
+  } else if (number === SECRETARY_OF_STATE_QUESTION) {
+    messages.push(
+      system(
+        `The president's cabinet includes: Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security. If the answer includes any two of these, it's correct.`
+      )
     );
   }
 
