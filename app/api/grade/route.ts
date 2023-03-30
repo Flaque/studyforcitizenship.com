@@ -31,6 +31,34 @@ const config = new Configuration({
 
 const openai = new OpenAIApi(config);
 
+function isParseableJSON(str: string) {
+  try {
+    JSON.parse(str);
+  } catch (e) {
+    return false;
+  }
+  return true;
+}
+
+async function parseJSON(data: string) {
+  const oaiRes = await openai.createChatCompletion({
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "system",
+        content: "Print the JSON object in the text.",
+      },
+      {
+        role: "user",
+        content: data,
+      },
+    ],
+    max_tokens: 1000,
+  });
+
+  return oaiRes.data.choices[0].message?.content.trim() || "";
+}
+
 export async function parseStateFromAnswer(answer: string) {
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
@@ -221,10 +249,14 @@ interface Response {
     max_tokens: 1500,
   });
 
-  const res = oaiRes.data.choices[0].message?.content.trim() || "";
+  let res = (oaiRes.data.choices[0].message?.content.trim() || "")
+    .replaceAll("```json", "")
+    .replaceAll("```", "");
 
-  console.log(messages.map((m) => `${m.role}: ${m.content}`).join("\n"));
-  console.log(res);
+  if (!isParseableJSON(res)) {
+    console.log("Not parseable JSON, trying to parse as text", res);
+    res = await parseJSON(res);
+  }
 
   return new Response(res);
 }

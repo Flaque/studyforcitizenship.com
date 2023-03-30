@@ -84,16 +84,12 @@ export default function Quiz({
 
   // If we have a "startAt", put it at the top of the current queue
   useEffect(() => {
-    console.log("what?", questions);
     if (questions.length === 0) return;
-    console.log("no start at?", startAt);
     if (!startAt) return;
 
     // Remove it from the current array if it's there
     const startAtQuestion = questions.find((q: any) => q.number === startAt);
     const withoutStartAt = current.filter((q) => q.number !== startAt);
-
-    console.log([startAtQuestion, ...withoutStartAt]);
 
     // Add it to the front of the current array
     setCurrent([startAtQuestion, ...withoutStartAt]);
