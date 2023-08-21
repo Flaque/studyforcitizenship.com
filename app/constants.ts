@@ -11,3 +11,10 @@ export const POLITICAL_PARTY_QUESTION = 46;
 export const SPEAKER_OF_THE_HOUSE = 47;
 export const INDIAN_QUESTION = 87;
 export const SECRETARY_OF_STATE_QUESTION = 36;
+
+// a few states' names don't map "directly" to the corresponding Wikipedia page title
+export const STATE_TO_WIKIPEDIA_PAGE_TITLE_OVERRIDE: Record<string, string> = {
+  Georgia: "Georgia (U.S. state)",
+  "New York": "New York (state)",
+  Washington: "Washington (state)",
+};

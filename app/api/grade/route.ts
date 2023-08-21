@@ -59,19 +59,26 @@ async function parseJSON(data: string) {
   return oaiRes.data.choices[0].message?.content.trim() || "";
 }
 
-export async function parseStateFromAnswer(answer: string) {
+export async function parseStateFromAnswer(
+  answer: string,
+): Promise<null | Record<string, string>> {
   const oaiRes = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
     messages: [
       {
         role: "user",
-        content: `Find the US State mentioned in the text. If there's no state, return 'None'. Print the state as a two state letter abbreviation, like 'ID'.\n\n${answer}`,
+        content: `Find the US State mentioned in the text. If there's no state, return "None" without quote signs. Otherwise, return a JSON array of two strings: first, the state as a two state letter abbreviation like "ID", and second the full name of the state like "Idaho". For example, \`["ID", "Idaho"]\`\n\n${answer}`,
       },
     ],
     max_tokens: 50,
   });
 
-  return oaiRes.data.choices[0].message?.content.trim() || "";
+  const foundContent = oaiRes.data.choices[0].message?.content.trim() || "";
+  if (foundContent !== "None") {
+    const [stateAbbreviation, stateName] = JSON.parse(foundContent);
+    return { stateAbbreviation, stateName };
+  }
+  return null;
 }
 
 export async function translateError(err: string, lang: string) {
@@ -132,9 +139,9 @@ export async function POST(request: Request) {
         grade: "Incorrect",
         explanation: await translateError(
           "Your answer is too short.",
-          language
+          language,
         ),
-      })
+      }),
     );
   }
 
@@ -157,20 +164,20 @@ ISO Language: ${language}
   // Questions that require the state.
 
   if (QUESTIONS_REQUIRING_STATE.includes(number)) {
-    const stateAbbreviation = await parseStateFromAnswer(answer);
+    const parsedState = await parseStateFromAnswer(answer);
 
-    if (stateAbbreviation === "None") {
+    if (parsedState === null) {
       return new Response(`{
 "grade": "Incorrect",
-"explanation": "${await (
-        await translateStateError(language)
-      ).replaceAll('"', "'")}"
+"explanation": "${(await translateStateError(language)).replaceAll('"', "'")}"
       }`);
     }
 
+    const { stateAbbreviation, stateName } = parsedState;
+
     messages.push(system(`US State: ${stateAbbreviation}`));
 
-    const stateData = await getStateData(stateAbbreviation!);
+    const stateData = await getStateData(stateName);
     if (!stateData) {
       return new Response("Invalid State", { status: 400 });
     }
@@ -197,37 +204,39 @@ ISO Language: ${language}
 
   if (number === PRESIDENT_QUESTION) {
     messages.push(
-      system(`Current President: ${await getPresidentFromWikipedia()}`)
+      system(`Current President: ${await getPresidentFromWikipedia()}`),
     );
   } else if (number === VICE_PRESIDENT_QUESTION) {
     messages.push(
-      system(`Current Vice President: ${await getVicePresidentFromWikipedia()}`)
+      system(
+        `Current Vice President: ${await getVicePresidentFromWikipedia()}`,
+      ),
     );
   } else if (number === SPEAKER_OF_THE_HOUSE) {
     messages.push(
       system(
-        `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`
-      )
+        `Current Speaker of the House: ${await getSpeakerOfTheHouseFromWikipedia()}`,
+      ),
     );
   } else if (number === CHIEF_JUSTICE_QUESTION) {
     messages.push(
-      system(`Current Chief Justice: ${await getChiefJusticeFromWikipedia()}`)
+      system(`Current Chief Justice: ${await getChiefJusticeFromWikipedia()}`),
     );
   } else if (number === POLITICAL_PARTY_QUESTION) {
     messages.push(
       system(
-        `Current Political Party: ${await getPoliticalPartyOfPresidentFromWikipedia()}`
-      )
+        `Current Political Party: ${await getPoliticalPartyOfPresidentFromWikipedia()}`,
+      ),
     );
   } else if (number === INDIAN_QUESTION) {
     messages.push(
-      system(`If the user says ANY american indian tribe, they pass.`)
+      system(`If the user says ANY american indian tribe, they pass.`),
     );
   } else if (number === SECRETARY_OF_STATE_QUESTION) {
     messages.push(
       system(
-        `The president's cabinet includes: Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security. If the answer includes any two of these, it's correct.`
-      )
+        `The president's cabinet includes: Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security. If the answer includes any two of these, it's correct.`,
+      ),
     );
   }
 
@@ -240,7 +249,7 @@ interface Response {
 
   // The explanation (and correct answer) is in ${language}.
   explanation: string;
-}`)
+}`),
   );
 
   const oaiRes = await openai.createChatCompletion({

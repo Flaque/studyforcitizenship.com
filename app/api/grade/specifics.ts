@@ -1,7 +1,7 @@
 import { info } from "console";
 import { load } from "cheerio";
 import { Configuration, OpenAIApi } from "openai";
-
+import { STATE_TO_WIKIPEDIA_PAGE_TITLE_OVERRIDE } from "@/app/constants";
 const config = new Configuration({
   apiKey: process.env.OPENAI_API_KEY || "",
 });
@@ -72,7 +72,7 @@ export async function getSenateRepresentatives(state: string) {
 
 export async function getChiefJusticeFromWikipedia() {
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/Chief_Justice_of_the_United_States`
+    `https://en.wikipedia.org/api/rest_v1/page/html/Chief_Justice_of_the_United_States`,
   );
 
   const html = await response.text();
@@ -115,7 +115,7 @@ ${infobox.text()}`,
 
 export async function getPresidentFromWikipedia() {
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/President_of_the_United_States`
+    `https://en.wikipedia.org/api/rest_v1/page/html/President_of_the_United_States`,
   );
 
   const html = await response.text();
@@ -158,7 +158,7 @@ ${infobox.text()}`,
 
 export async function getVicePresidentFromWikipedia() {
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/Vice_President_of_the_United_States`
+    `https://en.wikipedia.org/api/rest_v1/page/html/Vice_President_of_the_United_States`,
   );
 
   const html = await response.text();
@@ -201,7 +201,7 @@ ${infobox.text()}`,
 
 export async function getPoliticalPartyOfPresidentFromWikipedia() {
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/President_of_the_United_States`
+    `https://en.wikipedia.org/api/rest_v1/page/html/President_of_the_United_States`,
   );
 
   const html = await response.text();
@@ -243,8 +243,10 @@ ${infobox.text()}`,
 }
 
 export async function getSpeakerOfTheHouseFromWikipedia() {
+  console.log("getSpeakerOfTheHouseFromWikipedia");
+
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/Speaker_of_the_United_States_House_of_Representatives`
+    `https://en.wikipedia.org/api/rest_v1/page/html/Speaker_of_the_United_States_House_of_Representatives`,
   );
 
   const html = await response.text();
@@ -287,7 +289,7 @@ ${infobox.text()}`,
 
 async function getWikiInfobox(pageTitle: string): Promise<string> {
   const response = await fetch(
-    `https://en.wikipedia.org/api/rest_v1/page/html/${pageTitle}`
+    `https://en.wikipedia.org/api/rest_v1/page/html/${pageTitle}`,
   );
   const html = await response.text();
 
@@ -319,9 +321,10 @@ async function getWikiInfobox(pageTitle: string): Promise<string> {
   return infobox.text();
 }
 
-export async function getStateData(state: string) {
-  const infobox = await getWikiInfobox(state);
-  console.log(infobox);
+export async function getStateData(stateName: string) {
+  const infobox = await getWikiInfobox(
+    STATE_TO_WIKIPEDIA_PAGE_TITLE_OVERRIDE[stateName] ?? stateName,
+  );
 
   const result = await openai.createChatCompletion({
     model: "gpt-3.5-turbo",
