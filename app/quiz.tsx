@@ -431,8 +431,12 @@ export default function Quiz({
                 It's created by Evan Conrad.
               </h2>
               <p className="">
-                I work on AI in San Francisco, the city of progress. If you find
-                a bug, please send me a DM on Twitter:{" "}
+                I work on AI in San Francisco, the city of progress. This
+                website is{" "}
+                <a href="https://github.com/Flaque/studyforcitizenship.com">
+                  open source on Github.
+                </a>{" "}
+                If you find a bug, please send me a DM on Twitter:{" "}
                 <a className="underline" href="https://twitter.com/evanjconrad">
                   @evanjconrad
                 </a>
