@@ -162,7 +162,7 @@ export default function Quiz({
     } catch (err) {
       alert(
         "Something went wrong grading the answer! Please try again later.\n" +
-          err
+          err,
       );
     }
   }
@@ -266,6 +266,7 @@ export default function Quiz({
             ))}
             {pasts.map((v) => (
               <a
+                key={v}
                 href={`/${lang}/study/${v}`}
                 className={cn({
                   "h-6 w-6 text-xs opacity-50 border rounded-full  items-center justify-center flex":
